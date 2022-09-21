@@ -11,9 +11,10 @@ walmart loactions 2022
 https://walmart-open-data-walmarttech.opendata.arcgis.com/datasets/39ce1c357bd2424ca481db84aed29464_0/explore?location=15.135459%2C-38.041912%2C2.75
 
 
-walmart locations open and closed
+walmart locations open and closed (très stylé - dates précises, adresses précises)
 Walmart Supercenter and Neighborhood Market locations
 https://malls.fandom.com/wiki/Walmart/Locations
+
 fermetures des walmart en 2016 
 accès depuis : https://eu.usatoday.com/story/money/business/2016/01/15/list-of-walmart-stores-closing/78852898/
 
