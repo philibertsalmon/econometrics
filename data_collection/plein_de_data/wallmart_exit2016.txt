@@ -1,31 +1,29 @@
-Here is the list of U.S. based stores and the date they will be closed to the public:
-
-Walmart Express    
-#2173: 14331 Count Rd. 99, Headland, AL    1/28/2016    
-#2011: 18 Apple Way, Ashford, AL    1/28/2016    
-#2165: 952 E. Lawrence Harris Hwy, Slocomb, AL    1/28/2016    
-#2186: 407 West Washington St., Abbeville, AL    1/28/2016    
-#2235: 6361 Hwy 72 East Gurley, AL    1/28/2016    
-#2260: 87395 US Hwy 278, Snead, AL    1/28/2016    
-#3769: 3530 Cathedral Caverns Hwy, Grant, AL    1/28/2016        
-#3779: 10188 Hwy 431 South, New Hope, AL    1/28/2016    
-#2498: 720 N Hwy 71, Mansfield, AR    1/28/2016    
-#2578: 3500 Mulberry Hwy 64 W, Mulberry, AR    1/28/2016    
-#2601: 814 W. Main, Charleston, AR    1/28/2016    
-#2669: 1531 E Hwy 64, Coal Hill, AR    1/28/2016    
-#3819: 8848 N Hwy 59, Van Buren, AR    1/28/2016    
-#3878: 5 Hwy 124 West, Damascus, AR    1/28/2016    
-#4217: 154 E Roller, Decatur, AR    1/28/2016    
-#3032: 905 S Gentry Blvd, Gentry, AR    1/28/2016    
-#3033: 800 1st Ave SE, Gravette, AR    1/28/2016    
-#3034: 881 W Buchanan, Prairie Grove, AR    1/28/2016    
-#3358: 1113 S.R. 20, Interlachen, FL    1/28/2016    
-#4265: 1209 East Wade St., Trenton, FL    1/28/2016    
-#4267: 15726 SE Hwy 19 Cross City, FL    1/28/2016        
-#4228: 560 S. Broad St., Ellaville, GA    1/28/2016    
-#4229: 1041 S US Hwy 1, Alma, GA    1/28/2016    
-#4234: 155 West Washington Ave., Ashburn, GA    1/28/2016    
-#4251: 398 Barrow Ave SW, Pelham, GA    1/28/2016    
+Walmart Express
+#2173: 14331 Count Rd. 99, Headland, AL    1/28/2016
+#2011: 18 Apple Way, Ashford, AL    1/28/2016
+#2165: 952 E. Lawrence Harris Hwy, Slocomb, AL    1/28/2016
+#2186: 407 West Washington St., Abbeville, AL    1/28/2016
+#2235: 6361 Hwy 72, East Gurley, AL    1/28/2016
+#2260: 87395 US Hwy 278, Snead, AL    1/28/2016
+#3769: 3530 Cathedral Caverns Hwy, Grant, AL    1/28/2016
+#3779: 10188 Hwy 431 South, New Hope, AL    1/28/2016
+#2498: 720 N Hwy 71, Mansfield, AR    1/28/2016
+#2578: 3500 Mulberry Hwy 64 W, Mulberry, AR    1/28/2016
+#2601: 814 W. Main, Charleston, AR    1/28/2016
+#2669: 1531 E Hwy 64, Coal Hill, AR    1/28/2016
+#3819: 8848 N Hwy 59, Van Buren, AR    1/28/2016
+#3878: 5 Hwy 124 West, Damascus, AR    1/28/2016
+#4217: 154 E Roller, Decatur, AR    1/28/2016
+#3032: 905 S Gentry Blvd, Gentry, AR    1/28/2016
+#3033: 800 1st Ave SE, Gravette, AR    1/28/2016
+#3034: 881 W Buchanan, Prairie Grove, AR    1/28/2016
+#3358: 1113 S.R. 20, Interlachen, FL    1/28/2016
+#4265: 1209 East Wade St., Trenton, FL    1/28/2016
+#4267: 15726 SE Hwy 19, Cross City, FL    1/28/2016
+#4228: 560 S. Broad St., Ellaville, GA    1/28/2016
+#4229: 1041 S US Hwy 1, Alma, GA    1/28/2016
+#4234: 155 West Washington Ave., Ashburn, GA    1/28/2016
+#4251: 398 Barrow Ave SW, Pelham, GA    1/28/2016
 #4254: 907 Marianna Hwy, Donalsonville, GA    1/28/2016    
 #4261: 290 Albany Ave. West, Pearson, GA    1/28/2016    
 #4263: 142 S. Valdosta Road, Lakeland, GA    1/28/2016    
@@ -46,7 +44,7 @@ Walmart Express
 #3879: 1495 Obrie St., Zwolle, LA    1/28/2016    
 #4647: 515 3rd St., Independence, LA    1/28/2016    
 #4269: 224 E Hwy 76, Anderson, MO    1/28/2016    
-#4270: 508 N Cliffside Dr., Noel, MO    1/28/2016        
+#4270: 508 N Cliffside Dr., Noel, MO    1/28/2016
 #4282: 33597 State Hwy 112, Seligman, MO    1/28/2016    
 #4289: 414 N Elm, Clever, MO    1/28/2016    
 #3856: 410 2nd St., Belmont, MS    1/28/2016    
@@ -55,65 +53,63 @@ Walmart Express
 #3866: 28191 Hwy 15, Walnut, MS    1/28/2016    
 #4294: 519 W Veterans Ave., Derma, MS    1/28/2016    
 #4296: 7104 Will Robbins Hwy, Nettleton, MS    1/28/2016    
-#3211: 509 Dr. Donnie H. Jones Blvd W, Princeton, NC    1/28/2016        
+#3211: 509 Dr. Donnie H. Jones Blvd W, Princeton, NC    1/28/2016
 #3249: 511 N Mckinley St., Coats, NC    1/28/2016    
 #5024: 6043 US Hwy 301 S, Four Oaks, NC    1/28/2016    
 #3257: 112 N Main St., Broadway, NC    1/28/2016    
 #5015: 908 E. 4th Ave., Red Springs, NC    1/28/2016    
 #5017: 7670 Clinton Rd., Stedman, NC    1/28/2016    
-#7207: 1400 B Broad St., Oriental, NC    1/28/2016        
-#5138: 702 S. Wall St., Benson, NC    1/28/2016        
-#2500: 945 Monroe St., Carthage, NC    1/28/2016        
-#2573: 303 S. Goldsboro St., Pikeville, NC    1/28/2016        
-#6997: 632 W Swannanoa Ave., Liberty, NC    1/28/2016        
-#3007: 139 N Hwy 49, Richfield, NC    1/17/2016        
-#3036: 1593 NC Hwy 86 N, Yanceyville, NC    1/28/2016        
-#3037: 905 SE 2nd St., Snow Hill, NC    1/28/2016        
-#3080: 182 NC 102 W, Ayden, NC    1/28/2016        
-#3121: 189 Hickory Tree Rd., Midway, NC    1/28/2016        
-#3756: 124 E. Columbia St., Okemah, OK    1/28/2016        
-#4633: 19250 E Hwy 66, Luther, OK    1/28/2016        
-#2456: 2310 West Main, Prague, OK    1/28/2016        
-#2462: 1600 West Hwy 66, Stroud, OK    1/28/2016        
-#3766: 2324 Seran Drive, Wewoka, OK    1/28/2016        
-#3767: 812 N Clarence Nash Blvd., Watonga, OK    1/28/2016        
-#1250: 9032 Hwy 14, Gray Court, SC    1/28/2016        
-#3798: 7013 S Pine St., Pacolet, SC    1/17/2016        
-#2375: 4718 Nashville Hwy, Chapel Hill, TN    1/28/2016        
-#2413: 523 N Military St., Loretto, TN    1/28/2016        
-#4301: 400 North Main St., Cornersville, TN    1/28/2016        
-#4306: 934 Hwy 79, Dover, TN    1/28/2016        
-#2345: 721 Dale Evans Drive, Italy, TX    1/28/2016        
-#2349: 221 S State Hwy 274, Kemp, TX    1/28/2016        
-#2363: 504 W Pine St., Edgewood, TX    1/28/2016        
-#2364: 301 Hwy 69 S, Whitewright, TX    1/28/2016        
-#2410: 122 Commercial Ave., Anson, TX    1/28/2016        
-#2461: 1003 Telephone Cir., Merkel, TX    1/28/2016        
-#2779: 5 N 14th St., Haskell, TX    1/28/2016        
-#2863: 1010 N Main St., Winters, TX    1/28/2016        
-#3820: 501 N Main, Godley, TX    1/28/2016        
-#3822: 416 N Third St., Grandview, TX    1/28/2016        
-#3832: 420 S US 69, Leonard, TX    1/28/2016        
-#3834: 428 N Dallas St., Palmer, TX    1/28/2016        
-#4312: 440 E Pine St., Frankston, TX    1/28/2016        
-#4316: 1787 US Hwy 259 S, Diana, TX    1/28/2016        
-#4320: 1005 Texas Avenue E, Waskom, TX    1/28/2016        
-#4327: 870 Taylor St., Hughes Springs, TX    1/28/2016        
-#4331: 914 North Main St., Lone Star, TX    1/28/2016        
-#4338: 504 WL Doc Dodson, Naples, TX    1/28/2016        
-#4343: 12522 Fm 1840, Dekalb, TX    1/28/2016        
+#7207: 1400 B Broad St., Oriental, NC    1/28/2016
+#5138: 702 S. Wall St., Benson, NC    1/28/2016
+#2500: 945 Monroe St., Carthage, NC    1/28/2016
+#2573: 303 S. Goldsboro St., Pikeville, NC    1/28/2016
+#6997: 632 W Swannanoa Ave., Liberty, NC    1/28/2016
+#3007: 139 N Hwy 49, Richfield, NC    1/17/2016
+#3036: 1593 NC Hwy 86 N, Yanceyville, NC    1/28/2016
+#3037: 905 SE 2nd St., Snow Hill, NC    1/28/2016
+#3080: 182 NC 102 W, Ayden, NC    1/28/2016
+#3121: 189 Hickory Tree Rd., Midway, NC    1/28/2016
+#3756: 124 E. Columbia St., Okemah, OK    1/28/2016
+#4633: 19250 E Hwy 66, Luther, OK    1/28/2016
+#2456: 2310 West Main, Prague, OK    1/28/2016
+#2462: 1600 West Hwy 66, Stroud, OK    1/28/2016
+#3766: 2324 Seran Drive, Wewoka, OK    1/28/2016
+#3767: 812 N Clarence Nash Blvd., Watonga, OK    1/28/2016
+#1250: 9032 Hwy 14, Gray Court, SC    1/28/2016
+#3798: 7013 S Pine St., Pacolet, SC    1/17/2016
+#2375: 4718 Nashville Hwy, Chapel Hill, TN    1/28/2016
+#2413: 523 N Military St., Loretto, TN    1/28/2016
+#4301: 400 North Main St., Cornersville, TN    1/28/2016
+#4306: 934 Hwy 79, Dover, TN    1/28/2016
+#2345: 721 Dale Evans Drive, Italy, TX    1/28/2016
+#2349: 221 S State Hwy 274, Kemp, TX    1/28/2016
+#2363: 504 W Pine St., Edgewood, TX    1/28/2016
+#2364: 301 Hwy 69 S, Whitewright, TX    1/28/2016
+#2410: 122 Commercial Ave., Anson, TX    1/28/2016
+#2461: 1003 Telephone Cir., Merkel, TX    1/28/2016
+#2779: 5 N 14th St., Haskell, TX    1/28/2016
+#2863: 1010 N Main St., Winters, TX    1/28/2016
+#3820: 501 N Main, Godley, TX    1/28/2016
+#3822: 416 N Third St., Grandview, TX    1/28/2016
+#3832: 420 S US 69, Leonard, TX    1/28/2016
+#3834: 428 N Dallas St., Palmer, TX    1/28/2016
+#4312: 440 E Pine St., Frankston, TX    1/28/2016
+#4316: 1787 US Hwy 259 S, Diana, TX    1/28/2016
+#4320: 1005 Texas Avenue E, Waskom, TX    1/28/2016
+#4327: 870 Taylor St., Hughes Springs, TX    1/28/2016
+#4331: 914 North Main St., Lone Star, TX    1/28/2016
+#4338: 504 WL Doc Dodson, Naples, TX    1/28/2016
+#4343: 12522 Fm 1840, Dekalb, TX    1/28/2016
 #4345: 114 Redwater Boulevard West, Maud, TX    1/28/2016
-
-Walmart 
+!Walmart 
 #2524: 5502 Monterey Hwy, San Jose, CA    1/28/2016
 #2949: 151 E 5th St., Long Beach, CA    1/28/2016
 #5457: 8400 Edgewater Drive, Oakland, CA    1/17/2016
 #2960: 4101 Crenshaw Blcd., Los Angeles, CA    1/17/2016
 #3507: 2701 Port Covington Drive, Baltimore, MD    1/17/2016
 #3496: 5825 W Hope Ave., Milwaukee, WI    1/28/2016
-
-Supercenter    
-#3814 6525 Glacier Hwy, Juneau, AK    2/5/2016
+!Supercenter    
+#3814: 6525 Glacier Hwy, Juneau, AK    2/5/2016
 #763: 7201 Aaron Aronov Drive, Fairfield, AL    1/28/2016
 #4584: 10400 Highland Rd., Hartland, MI    1/28/2016
 #4369: 1010 Martin Luther King Pkwy., Durham, NC    1/28/2016
@@ -125,15 +121,14 @@ Supercenter
 #5478: 8201 N FM 620, Austin, TX    1/28/2016
 #597: 7075 FM 1960 Rd W, Houston, TX    1/28/2016
 #3811: 61 Plaza Drive, Kimball, WV    1/28/2016
-
-Neighborhood Market 
+!Neighborhood Market 
 #5783: 117 Audubon Drive, Maumelle, AR    1/17/2016
 #5642: 2408 Lincoln Ave., Altadena, CA    1/28/2016
 #5688: 6820 Eastern Ave., Bell Gardens, CA    1/28/2016
 #3086: 701 W Cesar E Chavez Ave., Los Angeles, CA    1/17/2016
 #5690: 2045 E Highland Ave., San Bernardino, CA    1/28/2016
-#4173 12120 Carson St., Hawaiian Gardens, CA    1/28/2016
-#5002, 8196 West Bowles Ave., Littleton, CO    1/17/2016
+#4173: 12120 Carson St., Hawaiian Gardens, CA    1/28/2016
+#5002: 8196 West Bowles Ave., Littleton, CO    1/17/2016
 #3021: 2253 S Monaco Pkwy., Denver, CO    1/28/2016
 #2303: 333 N Main St., West Hartford, CT    1/28/2016
 #5856: 601 N West St. STE 100, Wichita, KS    1/28/2016
@@ -141,7 +136,7 @@ Neighborhood Market
 #5873: 4794 E 13th, Wichita, KS    1/28/2016
 #3097: 8235 SW Apple Way, Portland, OR    1/17/2016
 #5995: 17711 Jean Way, Lake Oswego, OR    1/28/2016
-#3306 1220 Gallatin Ave., Nashville, TN    1/28/2016
+#3306: 1220 Gallatin Ave., Nashville, TN    1/28/2016
 #3171: 2218 Greenville Ave., Dallas (Greenville), TX    1/28/2016
 #3451: 2740 Gessner Rd., Houston, TX    1/28/2016
 #5985: 2201 West Southlake Blvd., Southlake, TX    1/28/2016
@@ -150,17 +145,15 @@ Neighborhood Market
 #3030: 3850 N 124th St., Wauwatosa, WI    1/28/2016
 #3031: N88W15559 Main St., Menomonee Falls, WI    1/28/2016
 #5698: S14W22605 Coral Drive, Waukesha, WI    1/28/2016
-
-Amigo
+!Amigo
 #2343: 7B Calle Munoz Rivera, Villalba, PR    1/28/2016
 #2347: Bo Salto Arriba, Utuado, PR    1/28/2016
-#2342: PR 14, Parque Industrial, Coamo, PR    1/28/2016
+#2342: PR 14 Parque Industrial, Coamo, PR    1/28/2016
 #3667: 1 Ave Monserrate STE 1, Carolina, PR    1/28/2016
 #3684: Carr 180 KM 0 HM 2, Salinas, PR    1/28/2016
 #3689: Centro Com Rio Grande State, Rio Grande, PR    1/28/2016
 #3697: Carr 165 KM 4.7, Toa Alta, PR    1/28/2016
-
-Sam's Club
+!Sam's Club
 #4903: 941 Grinnell St., Fall River, MA    1/28/2016
 #6648: 1110 Fall River Ave., Seekonk, MA    1/28/2016
 #6665: 495 Summit Drive, Waterford, MI    1/28/2016
