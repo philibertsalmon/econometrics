@@ -1,22 +1,27 @@
 ## README : sources des données en vrac
 
+Quelqu'un se pose la même question que nous (réponse : walmart_opening_1962_2006.csv, puis état des lieux (localisation de tous les magasins us) en 2017 - cf source suivante)
+accès depuis : https://opendata.stackexchange.com/questions/13475/historical-walmart-stores-data-set
 
 walmart_opening_1962_2006.csv
 ouverture des walmart aux us de 1962 à 2006
 accès depuis : https://github.com/kosukeimai/qss/blob/master/DISCOVERY/walmart.csv
 
-
-
-walmart loactions 2022
-https://walmart-open-data-walmarttech.opendata.arcgis.com/datasets/39ce1c357bd2424ca481db84aed29464_0/explore?location=15.135459%2C-38.041912%2C2.75
-
-
-walmart locations open and closed (très stylé - dates précises, adresses précises)
+walmart locations open and closed (très stylé - dates précises, adresses précises, mais certaines données manquantes, et plateforme collaborative)
 Walmart Supercenter and Neighborhood Market locations
 https://malls.fandom.com/wiki/Walmart/Locations
 
 fermetures des walmart en 2016 
 accès depuis : https://eu.usatoday.com/story/money/business/2016/01/15/list-of-walmart-stores-closing/78852898/
 
+Etat des lieux (localisation de tous les magasins us) en 2017 (carte, voir si  dataframe) :
+accès depuis : http://audit.osmz.ru/project/walmart/
+
 "This is a complete list of all Walmart store locations, along with their geographic coordinates, Street addresses, City, State, ZIP code etc in the US." (2018/11/06) 
 accès depuis : https://data.world/data-hut/walmart-store-location-dataset
+
+Etat des lieux (localisation de tous les magasins us) en 2021 (carte, voir si  dataframe) :
+accès depuis : https://walmart-open-data-walmarttech.opendata.arcgis.com/maps/walmarttech::walmart-store-status-web-map/explore?location=29.019953%2C-77.833749%2C2.00
+
+Etat des lieux (localisation de tous les magasins us) en 2022 (carte ET dataframe) :
+accès depuis : https://walmart-open-data-walmarttech.opendata.arcgis.com/datasets/39ce1c357bd2424ca481db84aed29464_0/explore?location=15.135459%2C-38.041912%2C2.75
