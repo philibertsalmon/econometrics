@@ -14,6 +14,9 @@ https://walmart-open-data-walmarttech.opendata.arcgis.com/datasets/39ce1c357bd24
 walmart locations open and closed
 Walmart Supercenter and Neighborhood Market locations
 https://malls.fandom.com/wiki/Walmart/Locations
+
+
+wallmart_exi2016_données_traitées.csv
 fermetures des walmart en 2016 
 accès depuis : https://eu.usatoday.com/story/money/business/2016/01/15/list-of-walmart-stores-closing/78852898/
 

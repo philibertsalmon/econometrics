@@ -1,0 +1,150 @@
+,State,Town,Street,Category,Store id,Opening date,Closing date
+0,AK,Juneau,6525 Glacier Hwy,Walmart Supercenter,3814,2016) Currently Vacant.,
+1,AL,Abbeville,407 West Washington St,Neighborhood Market,2186,unknown) Currently Shoppers Value.,
+2,AL,Ashford,18 Apple Way,Neighborhood Market,2011,unknown,2016) Currently Dollar General.
+3,AL,Fairfield,7201 Aaron Aronov Drive,Walmart Supercenter,763,2016) Currently Vacant.,
+4,AL,Gurley,6361 Hwy 72,Neighborhood Market,2235,unknown,2016) Currently Dollar General.
+5,AL,Grant,3530 Cathedral Caverns Hwy,Neighborhood Market,3769,unknown,2016) Currently Vacant.
+6,AL,Headland,14331 CR-99,Neighborhood Market,2173,unknown,2016) Currently Sun Stop Market.
+7,AL,New Hope,10188 Hwy 431 South,Neighborhood Market,3779,unknown,2016)
+8,AL,Slocomb,952 E Lawrence Harris Hwy,Neighborhood Market,2165,unknown,2016)
+9,AL,Snead,87395 US Hwy 278,Neighborhood Market,2260,unknown,2016)
+10,AZ,Chandler,6085 W. Chandler Blvd.,Neighborhood Market,unknown,2019),
+11,AZ,Tucson,3900 W. Ina Road,Neighborhood Market,unknown,2019),
+12,AR,Brinkley,1401 N Main St,Walmart,"84, ",2009),
+13,AR,Charleston,814 W Main,Neighborhood Market,2601,unknown,2016)
+14,AR,Coal Hill,1531 E Hwy 64,Neighborhood Market,2669,unknown,2016)
+15,AR,Corning,1900 W Main,Walmart,235,2018),
+16,AR,Damascus,5 Hwy 124 W,Neighborhood Market,3878,unknown,2016)
+17,AR,Decatur,154 E Roller,Neighborhood Market,4217,unknown,2016)
+18,AR,Dumas,Highway 65 South,Walmart,349,2005),
+19,AR,Gentry,905 S Gentry Blvd,Neighborhood Market,3032,unknown,2016)
+20,AR,Gravette,800 1st Ave SE,Neighborhood Market,3033,unknown,2016)
+21,AR,Mansfield,720 N Hwy 71,Neighborhood Market,2498,unknown,2016)
+22,AR,Mulberry,3500 Mulberry Hwy 64 W,Neighborhood Market,2578,unknown,2016)
+23,AR,Prairie Grove,881 W Buchanan,Neighborhood Market,3034,unknown,2016)
+24,AR,Van Buren,8848 N Hwy 59,Neighborhood Market,3819,unknown,2016)
+25,AR,Waldron,1359 W 2nd St,Walmart,380,2017),
+26,CA,Garden Grove,10912 Katella Avenue,Neighborhood Market,5639,"March 25, 2022)",
+27,CA,Irvine,71 Technology Dr.,Walmart Supercenter,5687,in March 2021). Currently Vacant.,
+28,CA,Long Beach,151 E 5th St.,Walmart,2949,2016),
+29,CA,Los Angeles,4101 Crenshaw Blvd,Walmart,2960,2016),
+30,CA,Norwalk,11729 Imperial Highway,Walmart Supercenter,5164,2019),
+31,CA,Oakland,8400 Edgewater Dr,Walmart,5457,2016),
+32,CA,San Jose,1600 Saratoga Ave.s Westgate Center,Neighborhood Market,unknown,unknown,2019)
+33,CA,San Jose,5502 Monterey Hwy,Walmart,2524,2016),
+34,CO,Wheat Ridge,3600 Youngfield St,Walmart,1208,2017) Currently Hobby Lobby and HomeGoods,
+35,CT,Bristol,325 Oakland St,Neighborhood Market,unknown,2017),
+36,CT,Derby,656 Derby Ave,Walmart,2896,unknown,"2016, demolished for Big Y World Class Market)"
+37,CT,Guilford,900 Boston Post Rd.,Walmart,3544,"May 20, 2022)",
+38,CT,New Britain,655 Farmington Ave,Walmart,2570,2009),
+39,CT,West Hartford,333 N Main St,Neighborhood Market,unknown,"2016, now Target)",
+40,FL,Cross City,15726 SE Hwy 19,Neighborhood Market,4267,unknown,2016)
+41,FL,Interlachen,1113 SR-20,Neighborhood Market,3358,unknown,2016)
+42,FL,Trenton,1209 E Wade St,Neighborhood Market,4265,unknown,2016)
+43,GA,Alma,1041 S US Hwy 1,Neighborhood Market,4229,unknown,2016)
+44,GA,Ashburn,155 W Washington Ave,Neighborhood Market,4234,unknown,2016)
+45,GA,Donalsonville,907 Marianna Hwy,Neighborhood Market,4254,unknown,2016)
+46,GA,Ellaville,560 Broad St,Neighborhood Market,4228,unknown,2016)
+47,GA,Lakeland,142 S Valdosta Rd,Neighborhood Market,4263,unknown,2016)
+48,GA,Pearson,290 Albany Ave W,Neighborhood Market,4261,unknown,2016)
+49,GA,Pelham,398 Barrow Ave SW,Neighborhood Market,4251,unknown,2016)
+50,IL,Aurora,2131 Galena Blvd,Walmart,1818,unknown,October 2016)
+51,IL,Chicago,3636 N Broadway St,Neighborhood Market,3065,unknown,2016)
+52,IL,Chicago,225 W Chicago Ave,Neighborhood Market,3039,unknown,2016)
+53,IL,Cinton,10 Clinton Plaza,Walmart,487,2018),
+54,IL,Des Plaines,727 W Golf Rd.,Neighborhood Market,6167,"August 6, 2021)",
+55,IL,Pana,10 W 2nd,Walmart,460,2018),
+56,IN,Indianapolis,8010 E. 38th St.,Neighborhood Market,unknown,unknown,2019)
+57,IN,Rushville,1850 N Main,Walmart,1262,2018),
+58,KS,Burlington,505 Housatonic St,Neighborhood Market,4353,unknown,2016)
+59,KS,Clearwater,900 E Ross Ave,Neighborhood Market,3369,unknown,2016)
+60,KS,Columbus,705 N High School Ave,Neighborhood Market,4360,unknown,2016)
+61,KS,Ellsworth,1105 E 15th St,Neighborhood Market,4361,unknown,2016)
+62,KS,Hillsboro,605 Orchard Dr,Neighborhood Market,4651,unknown,2016)
+63,KS,Rose Hill,120 W Rosewood St,Neighborhood Market,4362,unknown,2016)
+64,KY,Lexington,3180 Richmond Rd,Walmart,2060,2018),
+65,KY,Louisville,1915 S Hurstborne Ln,Walmart,1269,2018),
+66,KY,Louisville,7100 Raggard Rd.,Walmart Supercenter,3610,"April 22, 2022)",
+67,LA,Clinton,9181 Hwy 67,Neighborhood Market,3839,unknown,2016)
+68,LA,Colfax,1506 Main St,Neighborhood Market,4634,unknown,2016)
+69,LA,Homer,906 W Main St,Walmart,270,2006),
+70,LA,Independence,515 3rd St,Neighborhood Market,4647,unknown,2016)
+71,LA,Iowa,501 W Hwy 90,Neighborhood Market,3815,unknown,2016)
+72,LA,Kentwood,920 Avenue G,Neighborhood Market,3849,unknown,2016)
+73,LA,Lafayette,1229 NE. Evangeline Trwy,Walmart Supercenter,534,2019),
+74,LA,Lake Aurthur,620 N Hwy 26,Neighborhood Market,3753,unknown,2016)
+75,LA,Mamou,1445 Old Hwy 13,Neighborhood Market,3755,unknown,2016)
+76,LA,Zwolle,1495 Obrie St,Neighborhood Market,3879,unknown,2016)
+77,MD,Baltimore,2701 Port Covington Dr,Walmart,3507,2016),
+78,MD,Owings Mills,9750 Reistertown Road A,Walmart,2290,"on June 30, 2021.) Currently Vacant.",
+79,MA,Hanover,1775 Washington St,Walmart,5380,2019),
+80,MI,Hartland,10400 Highland Rd. Hartland Plaza,Walmart Supercenter,4584,"2016, replaced by Rural King)",
+81,MI,Ysplanti,2515 Ellsworth Rd,Walmart,1824,in 2020),
+82,MN,Blue Earth,1210 Giant Dr,Walmart,983,2017) Currently Bomgaar's,
+83,MN,Midway,1450 University Avenue W,Walmart,5437,2019) Currently At Home.,
+84,MS,Belmont,410 2nd St,Neighborhood Market,3856,unknown,2016)
+85,MS,Derma,519 W Veterans Ave,Neighborhood Market,4294,unknown,2016)
+86,MS,Mantachie,2795 Hwy 371 N,Neighborhood Market,3863,unknown,2016)
+87,MS,Nettleton,7104 Will Robbins Hwy,Neighborhood Market,4296,unknown,2016)
+88,MS,Sardis,420 E Lee St,Neighborhood Market,3865,unknown,2016)
+89,MS,Walnut,28191 Hwy 15,Neighborhood Market,3866,unknown,2016)
+90,MO,Anderson,224 E Hwy 76,Neighborhood Market,4269,unknown,2016)
+91,MO,Caruthersville,156 W 3rd St,Walmart,unknown,unknown,2017)
+92,MO,Clever,414 N Elm,Neighborhood Market,4289,unknown,2016)
+93,MO,Noel,508 N Cliffside Dr,Neighborhood Market,4270,unknown,2016)
+94,MO,Piedmont,#15 Hals Plaza Dr,Walmart,946,2017) Currently Vacant,
+95,MO,Seligman,33597 State Hwy 112,Neighborhood Market,4282,unknown,2016)
+96,NV,Las Vegas,4350 N Nellis Blvd,Walmart Supercenter,2837,unknown,2016)
+97,NH,Bedford,17 Colby Court,Walmart,2246,2019),
+98,NJ,Ledgewood,461 State Route 10,Walmart,2569,May 2019) Demolished for Walmart Supercenter #3912.,
+99,NJ,Princeton,101 Nassau Park Blvd,Walmart,2171,2020),
+100,NC,Ayden,182 NC 102 W,Neighborhood Market,3080,unknown,2016)
+101,NC,Benson,702 S Wall St,Neighborhood Market,5138,unknown,2016)
+102,NC,Broadway,112 N Main St,Neighborhood Market,3257,unknown,2016)
+103,NC,Carthage,945 Monroe St,Neighborhood Market,2500,unknown,2016)
+104,NC,Coats,511 N McKinley St,Neighborhood Market,3249,unknown,2016)
+105,NC,Durham,1010 Martin Luther King Parkway,Walmart Supercenter,4369,"2016) Currently Planet Fitness, Boys & Girls Clubs of Durham and Orange Counties, and Triangle Rock Club.",
+106,NC,Four Oaks,6043 US Hwy 301 S,Neighborhood Market,5024,unknown,2016)
+107,NC,Liberty,632 W Swannanoa Ave,Neighborhood Market,6997,unknown,2016)
+108,NC,Midway,189 Hickory Tree Rd,Neighborhood Market,3121,unknown,2016)
+109,NC,Oriental,1400 N Broad St,Neighborhood Market,7207,unknown,2016)
+110,NC,Pikeville,303 S Goldsboro St,Neighborhood Market,2573,unknown,2016)
+111,NC,Princeton,509 Dr. Donnie H. Jones Blvd W,Neighborhood Market,3211,unknown,2016)
+112,NC,Red Springs,908 E 4th Ave,Neighborhood Market,5015,unknown,2016)
+113,NC,Richfield,139 N Hwy 49,Neighborhood Market,3007,unknown,2016)
+114,NC,Snow Hill,905 SE 2nd St,Neighborhood Market,3037,unknown,2016)
+115,NC,Stedman,7670 Clinton Rd,Neighborhood Market,5017,unknown,2016)
+116,NC,Wadesboro,1047 E Caswell St,Walmart,1127,2020),
+117,NC,Yanceyville,1593 NC Hwy 86 N,Neighborhood Market,3036,unknown,2016)
+118,OH,Bedford,22209 Rockside Rd,Walmart Supercenter,4342,unknown,2016)
+119,OH,Cincinnati,1143 Smiley Ave.,Walmart Supercenter,3656,"April 22, 2022)",
+120,OH,Garfield Heights,City View Center,"Store #3326, Built on top of landfill, closed in 2008 due to toxic fumes. Location abandoned.",3326,unknown,in 2008 due to toxic fumes. Location abandoned.
+121,OH,Mayfield Heights,6594 Mayfield Rd.,Walmart,5083,"May 20, 2022)",
+122,OH,Springdale,800 Kemper Commons Cir.,Tri-County Commons,2172,2008),
+123,OH,Trotwood,5331 Salem Ave,Walmart,1725,2007). Currently U-Haul,
+124,OK,Jay,1107 S Main St,Walmart,327,2020),
+125,OK,Perry,1506 Fir Ave,Walmart,1278,2017),
+126,OR,Medford,3615 Crater Lake Hwy,Walmart,2029,unknown) Demolished for Supercenter #5839.,
+127,PA,Dickson City,1315 Scranton-Carbondale Hwy,Walmart,unknown,in 1996 due to rocks and other debris rolling down the mountain and hitting the back of the store.),
+128,PA,Norristown,53 W Germantown Pike,Walmart,3565,2019),
+129,SC,Columbia,1326 Bush River Rd.,Walmart Supercenter,4379,in February 2021.) Currently Vacant,
+130,SC,Winnboro,721 US Hwy 321 BYP S,Walmart Supercenter,2606,unknown,2016)
+131,TN,Dover,934 US-79,Neighborhood Market,4306,unknown,2016) Currently Dollar General
+132,TN,Knoxville,2501 University Commons Way,Walmart,4167,2019),
+133,TN,Memphis,5000 American Way,Walmart,1031,in 2007) Demolished,
+134,TX,Austin,8201 N FM 620,Walmart Supercenter,5478,unknown,2016)
+135,TX,Brownfield,1405 Tahoka Rd,Walmart,1092,2017),
+136,TX,Brownsville,7480 Padre Island Hwy,Walmart Supercenter,5493,2016),
+137,TX,Dallas (Duncanville),3155 W Wheatland Rd,Walmart Supercenter,949,2019),
+138,TX,Edna,1002 N Wells,Walmart,474,2018),
+139,TX,Falfurrias,US-281 South,Walmart,unknown,unknown, 2015) Currently Vacant.
+140,TX,Houston,7075 FM 1960 Rd W,Walmart Supercenter,597,2016),
+141,TX,Lamesa,2406 Lubbock Hwy,Walmart,1050,2016),
+142,TX,Raymondville,14091 FM 490,Walmart Supercenter,unknown,unknown,2016)
+143,UT,Millcreek,3701 S Highland Dr.,Walmart Pickup,8855,2022),
+144,UT,Murray,5596 S Van Winkle Expy.,Walmart Pickup,8862,2022),
+145,VA,Big Stone Gap,1959 Neeley Rd,Walmart,650,2019),
+146,WA,Bellevue,12620 SE 41st Pl.,Walmart,5939,"April 22, 2022)",
+147,WV,Kimball,61 Plaza Drive,Walmart Supercenter,3811,2016),
+148,WI,Milwaukee,5825 W Hope Ave,Walmart,3496,2016),
