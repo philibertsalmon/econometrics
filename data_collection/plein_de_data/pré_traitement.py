@@ -78,7 +78,7 @@ for state in by_states:
             except:
                 reluctant_lines.append(line)
 
-df_current = pd.DataFrame(data, columns=['State', 'Town', 'Street', 'Category', 'Store id', 'Opening date', 'Closing date'])
+df_current = pd.DataFrame(data, columns=['State', 'Town', 'Street', 'Category', 'Store_id', 'Opening_date', 'Closing_date'])
 
 df_reluctant = pd.DataFrame(reluctant_lines)
 df_reluctant.to_csv('reluctant_lines')
