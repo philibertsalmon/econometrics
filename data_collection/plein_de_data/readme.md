@@ -32,6 +32,7 @@ Stores openings 2016 :
 - https://www.washingtonpost.com/news/business/wp/2016/10/06/walmart-to-pull-back-on-new-store-openings/
 
 _________________________________________________________________________________________________________
+_________________________________________________________________________________________________________
 
 Finding another retailer to study as well :
 
