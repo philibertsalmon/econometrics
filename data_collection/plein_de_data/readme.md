@@ -31,6 +31,7 @@ accès depuis : https://walmart-open-data-walmarttech.opendata.arcgis.com/datase
 Stores openings 2016 :
 - https://www.npr.org/sections/thetwo-way/2016/01/15/463217478/walmart-to-close-269-stores-including-154-in-u-s
 - https://www.washingtonpost.com/news/business/wp/2016/10/06/walmart-to-pull-back-on-new-store-openings/
+- https://finance.yahoo.com/news/supercenter-format-contributes-walmart-190554886.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJoaADn2rhubFMNnY_3Q3hgf5dpz6YEB9HNm1E35UfKU-b6QuRCtkJkg8EI9LQhWYDF_L2GXPPH6V9vaMvgw4FSf0VUohKe7skvKGIqr2LwhZ4MsEwMewhdHwxlN7_wIEZ7PBIdlJDjE-2UHPe6x_TpygruSNFbUvYbqZ_sN8hNH
 
 _________________________________________________________________________________________________________
 _________________________________________________________________________________________________________
