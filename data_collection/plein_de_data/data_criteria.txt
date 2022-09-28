@@ -1,7 +1,7 @@
 Ce que nous recherchons :
-- données par année ?
-- contenant 2016
+- précision temporelle des entrées et sorties : au mois près
+- juste sur Walmart
+- juste sur 2016
 - type de magasin précisé (SuperCenter, Walmart Express...)
 - county, state
-- permettant d'identifier les entrées et sorties
-- identifiant Walmart
+- identifiant Walmart ?
