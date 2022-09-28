@@ -24,7 +24,7 @@ for category in categories:
         if line!='':
             data.append(splitted_line)
 
-df = pd.DataFrame(data, columns=['', 'Street', 'Town', 'State', 'Closing_date'])
+df = pd.DataFrame(data, columns=['Store_id', 'Street', 'Town', 'State', 'Closing_date']).set_index('Store_id')
 
 df.to_csv('wallmart_exit2016_données_traitées.csv')
 """
@@ -136,7 +136,7 @@ df_former = pd.DataFrame(data, columns=['State', 'Town', 'Street', 'Category', '
 
 df = pd.concat((df_current, df_former))
 df = df.set_index('Store_id')
-
+"""
 # Closing dates 2016
 
 df_closing_date = pd.read_csv('wallmart_exit2016_données_traitées.csv')
@@ -145,5 +145,5 @@ for index, store in df[df.Closing_date == '2016'].iterrows():
     closing_date = '2016'
     if store['Town'] in 
     store['Closing_date'] = closing_date
-
+"""
 df.to_csv('fandom_traitées.csv')
