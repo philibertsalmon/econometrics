@@ -4665,6 +4665,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3025,CA,San Jose,1600 Saratoga Ave.s Westgate Center,Neighborhood Market,unknown,2019
 2524,CA,San Jose,5502 Monterey Hwy,Walmart,1/29/1997,1/17/2016
 3020,CO,Arvada,64 W Ave.,Neighborhood Market,6/20/2012,7/7/2017
+3907,CO,Littleton,3615 West Bowles Ave.,Neighborhood Market,unknown,4/7/2017
 5002,CO,Littleton,8196 West Bowles Ave.,Neighborhood Market,unknown,"Janurary 17, 2016"
 1208,CO,Wheat Ridge,3600 Youngfield St,Walmart,5/3/1988,2017
 2305,CT,Bristol,325 Oakland St,Neighborhood Market,2013,2017
@@ -4761,9 +4762,11 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2029,OR,Medford,3615 Crater Lake Hwy,Walmart,9/28/1993,9/11/2013
 0000,PA,Dickson City,1315 Scranton-Carbondale Hwy,Walmart,1992,1996
 3565,PA,Norristown,53 W Germantown Pike,Walmart,7/17/2002,2019
+5318,SC,Columbia,3603 Broad River Rd.,Neighborhood Market,1/27/2016, unknown
 4379,SC,Columbia,1326 Bush River Rd.,Walmart Supercenter,5/9/2007, February 2021
 3798,SC,Pacolet,7013 South Pine Street,Walmart Express,unknown,"1/17, January 17/2016"
 2606,SC,Winnboro,721 US Hwy 321 BYP S,Walmart Supercenter,unknown,1/17/2016
+4671,TN,Chattanooga,4110 Shallowford Rd.,Neighborhood Market,1/27/2016,unknown
 4306,TN,Dover,934 US-79,Neighborhood Market,unknown,1/17/2016
 4167,TN,Knoxville,2501 University Commons Way,Walmart,unknown,2019
 1031,TN,Memphis,5000 American Way,Walmart,8/4/1987,2007
@@ -4777,6 +4780,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 597,TX,Houston,7075 FM 1960 Rd W,Walmart Supercenter,9/18/1984,1/17/2016
 1050,TX,Lamesa,2406 Lubbock Hwy,Walmart,1/13/1987,1/17/2016
 883,TX,Raymondville,14091 FM 490,Walmart Supercenter,2/4/1986,1/28/2016
+883,TX,San Antonio,3847 Pleasanton Rd.,Neighborhood Market,5/11/2016,unknown
 8855,UT,Millcreek,3701 S Highland Dr.,Walmart Pickup,7/19/2017,2022
 8862,UT,Murray,5596 S Van Winkle Expy.,Walmart Pickup,6/7/2017,2022
 650,VA,Big Stone Gap,1959 Neeley Rd,Walmart,9/18/1984,2019
