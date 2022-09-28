@@ -4643,7 +4643,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 "84, ",AR,Brinkley,1401 N Main St,Walmart,05/01/1974,2009
 2601,AR,Charleston,814 W Main,Neighborhood Market,unknown,01/17/2016
 2669,AR,Coal Hill,1531 E Hwy 64,Neighborhood Market,unknown,01/17/2016
-235,AR,Corning,1900 W Main,Walmart,11/28/1978,2018
+235,AR,Corning,1900 W Main,Walmart,11/28/1978,07/20/2018
 3878,AR,Damascus,5 Hwy 124 W,Neighborhood Market,unknown,01/17/2016
 4217,AR,Decatur,154 E Roller,Neighborhood Market,unknown,01/17/2016
 349,AR,Dumas,Highway 65 South,Walmart,11/18/1980,2005
@@ -4667,7 +4667,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3020,CO,Arvada,64 W Ave.,Neighborhood Market,06/20/2012,07/07/2017
 3907,CO,Littleton,3615 West Bowles Ave.,Neighborhood Market,06/29/2012,04/07/2017
 5002,CO,Littleton,8196 West Bowles Ave.,Neighborhood Market,unknown,01/17/2016
-1208,CO,Wheat Ridge,3600 Youngfield St,Walmart,05/03/1988,2017
+1208,CO,Wheat Ridge,3600 Youngfield St,Walmart,05/03/1988,07/07/2017
 2305,CT,Bristol,325 Oakland St,Neighborhood Market,2013,2017
 2896,CT,Derby,656 Derby Ave,Walmart,unknown,01/17/2016
 3544,CT,Guilford,900 Boston Post Rd.,Walmart,10/16/2002,05/20/2022
@@ -4686,19 +4686,19 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1818,IL,Aurora,2131 Galena Blvd,Walmart,unknown,10/28/2016
 3065,IL,Chicago,3636 N Broadway St,Neighborhood Market,unknown,01/17/2016
 3039,IL,Chicago,225 W Chicago Ave,Neighborhood Market,unknown,01/17/2016
-487,IL,Cinton,10 Clinton Plaza,Walmart,03/01/1983,2018
+487,IL,Cinton,10 Clinton Plaza,Walmart,03/01/1983,07/20/2018
 6167,IL,Des Plaines,727 W Golf Rd.,Neighborhood Market,08/20/2014,08/06/2021
-460,IL,Pana,10 W 2nd,Walmart,11/29/1983,2018
+460,IL,Pana,10 W 2nd,Walmart,11/29/1983,10/12/2018
 5406,IN,Indianapolis,8010 E. 38th St.,Neighborhood Market,unknown,07/12/2019
-1262,IN,Rushville,1850 N Main,Walmart,11/17/1988,2018
+1262,IN,Rushville,1850 N Main,Walmart,11/17/1988,02/28/2018
 4353,KS,Burlington,505 Housatonic St,Neighborhood Market,unknown,01/17/2016
 3369,KS,Clearwater,900 E Ross Ave,Neighborhood Market,unknown,01/17/2016
 4360,KS,Columbus,705 N High School Ave,Neighborhood Market,unknown,01/17/2016
 4361,KS,Ellsworth,1105 E 15th St,Neighborhood Market,unknown,01/17/2016
 4651,KS,Hillsboro,605 Orchard Dr,Neighborhood Market,unknown,01/17/2016
 4362,KS,Rose Hill,120 W Rosewood St,Neighborhood Market,unknown,01/17/2016
-2060,KY,Lexington,3180 Richmond Rd,Walmart,09/28/1993,2018
-1269,KY,Louisville,1915 S Hurstborne Ln,Walmart,11/17/1988,2018
+2060,KY,Lexington,3180 Richmond Rd,Walmart,09/28/1993,08/10/2018
+1269,KY,Louisville,1915 S Hurstborne Ln,Walmart,11/17/1988,"August, 2018"
 3610,KY,Louisville,7100 Raggard Rd.,Walmart Supercenter,03/05/2008,04/22/2022
 3839,LA,Clinton,9181 Hwy 67,Neighborhood Market,unknown,01/17/2016
 4634,LA,Colfax,1506 Main St,Neighborhood Market,unknown,01/17/2016
@@ -4715,7 +4715,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 5380,MA,Hanover,1775 Washington St,Walmart,11/03/2004,2019
 4584,MI,Hartland,10400 Highland Rd. Hartland Plaza,Walmart Supercenter,2009,01/17/2016
 1824,MI,Ysplanti,2515 Ellsworth Rd,Walmart,08/04/1992,2020
-983,MN,Blue Earth,1210 Giant Dr,Walmart,02/03/1987,2017
+983,MN,Blue Earth,1210 Giant Dr,Walmart,02/03/1987,10/03/2017
 5437,MN,Midway,1450 University Avenue W,Walmart,05/19/2004,2019
 3856,MS,Belmont,410 2nd St,Neighborhood Market,unknown,01/17/2016
 4294,MS,Derma,519 W Veterans Ave,Neighborhood Market,unknown,01/17/2016
@@ -4724,10 +4724,10 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3865,MS,Sardis,420 E Lee St,Neighborhood Market,unknown,01/17/2016
 3866,MS,Walnut,28191 Hwy 15,Neighborhood Market,unknown,01/17/2016
 4269,MO,Anderson,224 E Hwy 76,Neighborhood Market,unknown,01/17/2016
-156,MO,Caruthersville,156 W 3rd St,Walmart,unknown,2017
+156,MO,Caruthersville,156 W 3rd St,Walmart,unknown,01/20/2017
 4289,MO,Clever,414 N Elm,Neighborhood Market,unknown,01/17/2016
 4270,MO,Noel,508 N Cliffside Dr,Neighborhood Market,unknown,01/17/2016
-946,MO,Piedmont,#15 Hals Plaza Dr,Walmart,02/03/1987,2017
+946,MO,Piedmont,#15 Hals Plaza Dr,Walmart,02/03/1987,01/20/2017
 4282,MO,Seligman,33597 State Hwy 112,Neighborhood Market,unknown,01/17/2016
 2837,NV,Las Vegas,4350 N Nellis Blvd,Walmart Supercenter,08/16/2000,01/17/2016
 2246,NH,Bedford,17 Colby Court,Walmart,01/31/1995,2019
@@ -4758,7 +4758,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2172,OH,Springdale,800 Kemper Commons Cir.,Walmart,1994,2008
 1725,OH,Trotwood,5331 Salem Ave,Walmart,12/31/1991,2007
 327,OK,Jay,1107 S Main St,Walmart,04/07/1981,2020
-1278,OK,Perry,1506 Fir Ave,Walmart,11/01/1988,2017
+1278,OK,Perry,1506 Fir Ave,Walmart,11/01/1988,"July, 2017"
 2029,OR,Medford,3615 Crater Lake Hwy,Walmart,09/28/1993,09/11/2013
 0000,PA,Dickson City,1315 Scranton-Carbondale Hwy,Walmart,1992,1996
 3565,PA,Norristown,53 W Germantown Pike,Walmart,07/17/2002,2019
@@ -4771,7 +4771,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 4167,TN,Knoxville,2501 University Commons Way,Walmart,"unknown, opened August 6, 2014",03/29/2019
 1031,TN,Memphis,5000 American Way,Walmart,08/04/1987,2007
 5478,TX,Austin,8201 N FM 620,Walmart Supercenter,unknown,01/17/2016
-1092,TX,Brownfield,1405 Tahoka Rd,Walmart,11/03/1987,2017
+1092,TX,Brownfield,1405 Tahoka Rd,Walmart,11/03/1987,01/31/2017
 5493,TX,Brownsville,7480 Padre Island Hwy,Walmart Supercenter,unknown,01/28/2016
 949,TX,Dallas (Duncanville),3155 W Wheatland Rd,Walmart Supercenter,09/02/1986,2019
 474,TX,Edna,1002 N Wells,Walmart,11/02/1982,2018
