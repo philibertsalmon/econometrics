@@ -4754,6 +4754,7 @@ Oakland - 8400 Edgewater Dr - Walmart (store #5457, opened August 24, 2005, clos
 San Jose - 1600 Saratoga Ave.s Westgate Center - Neighborhood Market (closed 2019)
 San Jose - 5502 Monterey Hwy - Walmart (store #2524, opened January 29, 1997, closed 2016)
 !Colorado
+Littleton - 3615 West Bowles Ave. - Neighborhood Market (store #3907, openend June 29, 2012, closed April 7, 2017)
 Littleton - 8196 West Bowles Ave. - Neighborhood Market (store #5002, openend unknown, closed Janurary 17, 2016)
 Wheat Ridge - 3600 Youngfield St - Walmart (store #1208, opened May 3, 1988, closed 2017) Currently Hobby Lobby and HomeGoods
 !Connecticut
@@ -4873,10 +4874,12 @@ Medford - 3615 Crater Lake Hwy - Walmart (store #2029, opened September 28, 1993
 Dickson City - 1315 Scranton-Carbondale Hwy - Walmart (opened in 1992, closed 1996) due to rocks and other debris rolling down the mountain and hitting the back of the store.)
 Norristown - 53 W Germantown Pike - Walmart (store #3565, opened July 17, 2002, closed 2019)
 !South Carolina
+Columbia - 3603 Broad River Rd. - Neighborhood Market (store #5318, opened January 27, 2016, closed  unknown)
 Columbia - 1326 Bush River Rd. - Walmart Supercenter (store #4379, opened May 9, 2007, closed  February 2021) Currently Vacant
 Pacolet - 7013 South Pine Street - Walmart Express (store #3798, opened unknown, closed January 17, 2016)
 Winnboro - 721 US Hwy 321 BYP S - Walmart Supercenter (store #2606, closed 2016)
 !Tennessee
+Chattanooga - 4110 Shallowford Rd. - Neighborhood Market (store #4671, opened January 27, 2016, closed unknown)
 Dover - 934 US-79 - Neighborhood Market (formerly Walmart Express) (store #4306, closed 2016) Currently Dollar General
 Knoxville - 2501 University Commons Way - Walmart (store #4167, opened unknown, closed 2019)
 Memphis - 5000 American Way - Walmart (store #1031, opened August 4, 1987, closed 2007) Demolished
@@ -4891,6 +4894,7 @@ Frisco - 4268 Legacy Drive - Neighborhood Market (store #5986, openend unknown, 
 Houston - 7075 FM 1960 Rd W - Walmart Supercenter (store #597, opened September 18, 1984, closed 2016)
 Lamesa - 2406 Lubbock Hwy - Walmart (store #1050, opened January 13, 1987, closed 2016)
 Raymondville - 14091 FM 490 - Walmart Supercenter (store #883, opened February 4, 1986, closed January 28, 2016)
+San Antonio - 3847 Pleasanton Rd. - Neighborhood Market (store #883, opened May 11, 2016, closed unknown)
 !Utah
 Millcreek - 3701 S Highland Dr. - Walmart Pickup (store #8855, opened July 19, 2017, closed 2022)
 Murray - 5596 S Van Winkle Expy. - Walmart Pickup (store #8862, opened June 7, 2017, closed 2022)
