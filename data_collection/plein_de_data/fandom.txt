@@ -4731,7 +4731,7 @@ Tucson - 3900 W. Ina Road - Neighborhood Market (store #3142, opened 2013, close
 Brinkley - 1401 N Main St - Walmart (store #84, opened May 1, 1974, closed 2009)
 Charleston - 814 W Main - Neighborhood Market (formerly Walmart Express) (store #2601, closed January 17, 2016)
 Coal Hill - 1531 E Hwy 64 - Neighborhood Market (formerly Walmart Express) (store #2669, closed January 17, 2016)
-Corning - 1900 W Main - Walmart (store #235, opened November 28, 1978, closed 2018)
+Corning - 1900 W Main - Walmart (store #235, opened November 28, 1978, closed July 20, 2018)
 Damascus - 5 Hwy 124 W - Neighborhood Market (formerly Walmart Express) (store #3878, closed January 17, 2016)
 Decatur - 154 E Roller - Neighborhood Market (formerly Walmart Express) (store #4217, closed January 17, 2016)
 Dumas - Highway 65 South - Walmart (store #349, opened November 18, 1980, closed 2005)
@@ -4780,12 +4780,12 @@ Pelham - 398 Barrow Ave SW - Neighborhood Market (formerly Walmart Express) (sto
 Aurora - 2131 Galena Blvd - Walmart (store #1818, closed October 2016)
 Chicago - 3636 N Broadway St - Neighborhood Market (formerly Walmart Express) (store #3065, closed January 17, 2016)
 Chicago - 225 W Chicago Ave - Neighborhood Market (formerly Walmart Express) (store #3039, closed January 17, 2016)
-Cinton - 10 Clinton Plaza - Walmart (store #487, opened March 1, 1983, closed 2018)
+Cinton - 10 Clinton Plaza - Walmart (store #487, opened March 1, 1983, closed July 20, 2018)
 Des Plaines - 727 W Golf Rd. - Neighborhood Market (store #6167, opened August 20, 2014, closed August 6, 2021)
-Pana - 10 W 2nd - Walmart (store #460, opened November 29, 1983, closed 2018)
+Pana - 10 W 2nd - Walmart (store #460, opened November 29, 1983, closed October 12, 2018)
 !Indiana
 Indianapolis - 8010 E. 38th St. - Neighborhood Market (store #5406, closed 2019)
-Rushville - 1850 N Main - Walmart (store #1262, opened November 17, 1988, closed 2018)
+Rushville - 1850 N Main - Walmart (store #1262, opened November 17, 1988, closed February 28, 2018)
 !Kansas
 Burlington - 505 Housatonic St - Neighborhood Market (formerly Walmart Express) (store #4353, closed January 17, 2016)
 Clearwater - 900 E Ross Ave - Neighborhood Market (formerly Walmart Express) (store #3369, closed January 17, 2016)
@@ -4794,8 +4794,8 @@ Ellsworth - 1105 E 15th St - Neighborhood Market (formerly Walmart Express) (sto
 Hillsboro - 605 Orchard Dr - Neighborhood Market (formerly Walmart Express) (store #4651, closed January 17, 2016)
 Rose Hill - 120 W Rosewood St - Neighborhood Market (formerly Walmart Express) (store #4362, closed January 17, 2016)
 !Kentucky
-Lexington - 3180 Richmond Rd - Walmart (store #2060, opened September 28, 1993, closed 2018)
-Louisville - 1915 S Hurstborne Ln - Walmart (store #1269, opened November 17, 1988, closed 2018)
+Lexington - 3180 Richmond Rd - Walmart (store #2060, opened September 28, 1993, closed August 10, 2018)
+Louisville - 1915 S Hurstborne Ln - Walmart (store #1269, opened November 17, 1988, closed August, 2018)
 Louisville - 7100 Raggard Rd. - Walmart Supercenter (store #3610, opened March 5, 2008, closed April 22, 2022)
 !Louisiana
 Clinton - 9181 Hwy 67 - Neighborhood Market (formerly Walmart Express) (store #3839, closed January 17, 2016)

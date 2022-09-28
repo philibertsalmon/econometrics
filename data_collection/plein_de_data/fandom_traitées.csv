@@ -663,7 +663,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 4567,CO,Brighton,7101 E 128th Ave.,Walmart Supercenter,7/21/2010,
 4288,CO,Broomfield,4651 W 121st Ave.,Walmart Supercenter,5/19/2010,
 5341,CO,Broomfield,500 Summit Blvd.,Walmart Supercenter,8/25/2004,
-1019,CO,Cañon City,3105 E US Highway 50,Walmart Supercenter,5/12/1987,
+1019,CO,CaÃ±on City,3105 E US Highway 50,Walmart Supercenter,5/12/1987,
 984,CO,Castle Rock,133 Sam Walton Lane,Walmart Supercenter,11/18/1986,
 3126,CO,Centennial,16746 E Smoky Hill Rd.,Neighborhood Market,6/20/2012,
 3313,CO,Centennial,10900 E Briarwood Ave.,Walmart Supercenter,1/26/2005,
@@ -2674,7 +2674,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 821,NM,Clovis,3728 N Prince St.,Walmart Supercenter,10/16/1985,
 5166,NM,Deming,1021 E Pine St.,Walmart Supercenter,8/20/2003,
 4021,NM,Edgewood,66 State Road 344,Walmart Supercenter,3/7/2008,
-2656,NM,Española,1610 North Riverside Drive,Walmart Supercenter,1/27/1999,
+2656,NM,EspaÃ±ola,1610 North Riverside Drive,Walmart Supercenter,1/27/1999,
 826,NM,Farmington,4600 E Main St.,Walmart Supercenter,7/2/1985,
 3428,NM,Farmington,1400 W Main St.,Walmart Supercenter,5/3/2006,
 906,NM,Gallup,1650 W Maloney Ave.,Walmart Supercenter,7/15/1986,
@@ -4643,7 +4643,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 "84, ",AR,Brinkley,1401 N Main St,Walmart,5/1/1974,2009
 2601,AR,Charleston,814 W Main,Neighborhood Market,unknown,1/17/2016
 2669,AR,Coal Hill,1531 E Hwy 64,Neighborhood Market,unknown,1/17/2016
-235,AR,Corning,1900 W Main,Walmart,11/28/1978,2018
+235,AR,Corning,1900 W Main,Walmart,11/28/1978,7/20/2018
 3878,AR,Damascus,5 Hwy 124 W,Neighborhood Market,unknown,1/17/2016
 4217,AR,Decatur,154 E Roller,Neighborhood Market,unknown,1/17/2016
 349,AR,Dumas,Highway 65 South,Walmart,11/18/1980,2005
@@ -4686,19 +4686,19 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1818,IL,Aurora,2131 Galena Blvd,Walmart,unknown,October 2016
 3065,IL,Chicago,3636 N Broadway St,Neighborhood Market,unknown,1/17/2016
 3039,IL,Chicago,225 W Chicago Ave,Neighborhood Market,unknown,1/17/2016
-487,IL,Cinton,10 Clinton Plaza,Walmart,3/1/1983,2018
+487,IL,Cinton,10 Clinton Plaza,Walmart,3/1/1983,7/20/2018
 6167,IL,Des Plaines,727 W Golf Rd.,Neighborhood Market,8/20/2014,8/6/2021
-460,IL,Pana,10 W 2nd,Walmart,11/29/1983,2018
+460,IL,Pana,10 W 2nd,Walmart,11/29/1983,10/12/2018
 5406,IN,Indianapolis,8010 E. 38th St.,Neighborhood Market,unknown,2019
-1262,IN,Rushville,1850 N Main,Walmart,11/17/1988,2018
+1262,IN,Rushville,1850 N Main,Walmart,11/17/1988,2/28/2018
 4353,KS,Burlington,505 Housatonic St,Neighborhood Market,unknown,1/17/2016
 3369,KS,Clearwater,900 E Ross Ave,Neighborhood Market,unknown,1/17/2016
 4360,KS,Columbus,705 N High School Ave,Neighborhood Market,unknown,1/17/2016
 4361,KS,Ellsworth,1105 E 15th St,Neighborhood Market,unknown,1/17/2016
 4651,KS,Hillsboro,605 Orchard Dr,Neighborhood Market,unknown,1/17/2016
 4362,KS,Rose Hill,120 W Rosewood St,Neighborhood Market,unknown,1/17/2016
-2060,KY,Lexington,3180 Richmond Rd,Walmart,9/28/1993,2018
-1269,KY,Louisville,1915 S Hurstborne Ln,Walmart,11/17/1988,2018
+2060,KY,Lexington,3180 Richmond Rd,Walmart,9/28/1993,8/10/2018
+1269,KY,Louisville,1915 S Hurstborne Ln,Walmart,11/17/1988,"August, 2018"
 3610,KY,Louisville,7100 Raggard Rd.,Walmart Supercenter,3/5/2008,4/22/2022
 3839,LA,Clinton,9181 Hwy 67,Neighborhood Market,unknown,1/17/2016
 4634,LA,Colfax,1506 Main St,Neighborhood Market,unknown,1/17/2016
