@@ -663,7 +663,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 4567,CO,Brighton,7101 E 128th Ave.,Walmart Supercenter,2010-07-21,
 4288,CO,Broomfield,4651 W 121st Ave.,Walmart Supercenter,2010-05-19,
 5341,CO,Broomfield,500 Summit Blvd.,Walmart Supercenter,2004-08-25,
-1019,CO,Cañon City,3105 E US Highway 50,Walmart Supercenter,1987-05-12,
+1019,CO,CaÃ±on City,3105 E US Highway 50,Walmart Supercenter,1987-05-12,
 984,CO,Castle Rock,133 Sam Walton Lane,Walmart Supercenter,1986-11-18,
 3126,CO,Centennial,16746 E Smoky Hill Rd.,Neighborhood Market,2012-06-20,
 3313,CO,Centennial,10900 E Briarwood Ave.,Walmart Supercenter,2005-01-26,
@@ -2675,7 +2675,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 821,NM,Clovis,3728 N Prince St.,Walmart Supercenter,1985-10-16,
 5166,NM,Deming,1021 E Pine St.,Walmart Supercenter,2003-08-20,
 4021,NM,Edgewood,66 State Road 344,Walmart Supercenter,2008-03-07,
-2656,NM,Española,1610 North Riverside Drive,Walmart Supercenter,1999-01-27,
+2656,NM,EspaÃ±ola,1610 North Riverside Drive,Walmart Supercenter,1999-01-27,
 826,NM,Farmington,4600 E Main St.,Walmart Supercenter,1985-07-02,
 3428,NM,Farmington,1400 W Main St.,Walmart Supercenter,2006-05-03,
 906,NM,Gallup,1650 W Maloney Ave.,Walmart Supercenter,1986-07-15,
@@ -4636,6 +4636,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2235,AL,Gurley,6361 Hwy 72,Neighborhood Market,,2016-01-17
 3769,AL,Grant,3530 Cathedral Caverns Hwy,Neighborhood Market,,2016-01-17
 2173,AL,Headland,14331 CR-99,Neighborhood Market,,2016-01-17
+5746,AL,Madison,7520 Highway 72 W,Convenience with Fuel,2016-04-06,2023-01-01
 3779,AL,New Hope,10188 Hwy 431 South,Neighborhood Market,,2016-01-17
 2165,AL,Slocomb,952 E Lawrence Harris Hwy,Neighborhood Market,,2016-01-17
 2260,AL,Snead,87395 US Hwy 278,Neighborhood Market,,2016-01-17
@@ -4668,6 +4669,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3020,CO,Arvada,64 W Ave.,Neighborhood Market,2012-06-20,2017-07-07
 3907,CO,Littleton,3615 West Bowles Ave.,Neighborhood Market,2012-06-29,2017-04-07
 5002,CO,Littleton,8196 West Bowles Ave.,Neighborhood Market,1900-01-01,2016-01-17
+5915,CO,Thornton,1650 E104th Ave.,Convenience with Fuel,2016-12-01,2023-01-01
 1208,CO,Wheat Ridge,3600 Youngfield St,Walmart,1988-05-03,2017-07-07
 2305,CT,Bristol,325 Oakland St,Neighborhood Market,2013-01-01,2017-01-01
 2896,CT,Derby,656 Derby Ave,Walmart,,2016-01-17

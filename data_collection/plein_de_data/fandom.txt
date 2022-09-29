@@ -4721,6 +4721,7 @@ Fairfield - 7201 Aaron Aronov Drive - Walmart Supercenter (store #763, opened No
 Gurley - 6361 Hwy 72 - Neighborhood Market (formerly Walmart Express) (store #2235, closed January 17, 2016) Currently Dollar General.
 Grant - 3530 Cathedral Caverns Hwy - Neighborhood Market (formerly Walmart Express) (store #3769, closed January 17, 2016) Currently Vacant.
 Headland - 14331 CR-99 - Neighborhood Market (formerly Walmart Express) (store #2173, closed January 17, 2016) Currently Sun Stop Market.
+Madison - 7520 Highway 72 W - Convenience with Fuel (store #5746, opened April 6, 2016, closed January 1, 2023)
 New Hope - 10188 Hwy 431 South - Neighborhood Market (formerly Walmart Express) (store #3779, closed January 17, 2016)
 Slocomb - 952 E Lawrence Harris Hwy - Neighborhood Market (formerly Walmart Express) (store #2165, closed January 17, 2016)
 Snead - 87395 US Hwy 278 - Neighborhood Market (formerly Walmart Express) (store #2260, closed January 17, 2016)
@@ -4757,6 +4758,7 @@ San Jose - 5502 Monterey Hwy - Walmart (store #2524, opened January 29, 1997, cl
 Arvada - 64 W Ave. - Neighborhood Market (store #3020, opened June 20, 2012, closed July 7, 2017)
 Littleton - 3615 West Bowles Ave. - Neighborhood Market (store #3907, opened June 29, 2012, closed April 7, 2017)
 Littleton - 8196 West Bowles Ave. - Neighborhood Market (store #5002, opened January 1, 1900, closed January 17, 2016)
+Thornton - 1650 E104th Ave. - Convenience with Fuel (store #5915, opened December 1, 2016, closed January 1, 2023)
 Wheat Ridge - 3600 Youngfield St - Walmart (store #1208, opened May 3, 1988, closed July 7, 2017) Currently Hobby Lobby and HomeGoods
 !Connecticut
 Bristol - 325 Oakland St - Neighborhood Market (store #2305, opened January 1, 2013, closed January 1, 2017)
