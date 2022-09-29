@@ -663,7 +663,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 4567,CO,Brighton,7101 E 128th Ave.,Walmart Supercenter,2010-07-21,
 4288,CO,Broomfield,4651 W 121st Ave.,Walmart Supercenter,2010-05-19,
 5341,CO,Broomfield,500 Summit Blvd.,Walmart Supercenter,2004-08-25,
-1019,CO,Cañon City,3105 E US Highway 50,Walmart Supercenter,1987-05-12,
+1019,CO,CaÃ±on City,3105 E US Highway 50,Walmart Supercenter,1987-05-12,
 984,CO,Castle Rock,133 Sam Walton Lane,Walmart Supercenter,1986-11-18,
 3126,CO,Centennial,16746 E Smoky Hill Rd.,Neighborhood Market,2012-06-20,
 3313,CO,Centennial,10900 E Briarwood Ave.,Walmart Supercenter,2005-01-26,
@@ -2675,7 +2675,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 821,NM,Clovis,3728 N Prince St.,Walmart Supercenter,1985-10-16,
 5166,NM,Deming,1021 E Pine St.,Walmart Supercenter,2003-08-20,
 4021,NM,Edgewood,66 State Road 344,Walmart Supercenter,2008-03-07,
-2656,NM,Española,1610 North Riverside Drive,Walmart Supercenter,1999-01-27,
+2656,NM,EspaÃ±ola,1610 North Riverside Drive,Walmart Supercenter,1999-01-27,
 826,NM,Farmington,4600 E Main St.,Walmart Supercenter,1985-07-02,
 3428,NM,Farmington,1400 W Main St.,Walmart Supercenter,2006-05-03,
 906,NM,Gallup,1650 W Maloney Ave.,Walmart Supercenter,1986-07-15,
@@ -4630,7 +4630,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1461,WY,Rock Springs,201 Gateway Blvd.,Walmart Supercenter,1990-08-01,
 1508,WY,Sheridan,1695 Coffeen Ave.,Walmart Supercenter,1990-10-29,
 3814,AK,Juneau,6525 Glacier Hwy,Walmart Supercenter,2007-09-12,2016-02-05
-2186,AL,Abbeville,407 West Washington St,Neighborhood Market,,2016-01-01
+2186,AL,Abbeville,407 West Washington St,Neighborhood Market,1901-01-01,2016-01-01
 2011,AL,Ashford,18 Apple Way,Neighborhood Market,,2016-01-17
 763,AL,Fairfield,7201 Aaron Aronov Drive,Walmart Supercenter,1984-11-13,2016-01-17
 2235,AL,Gurley,6361 Hwy 72,Neighborhood Market,,2016-01-17
@@ -4639,8 +4639,8 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3779,AL,New Hope,10188 Hwy 431 South,Neighborhood Market,,2016-01-17
 2165,AL,Slocomb,952 E Lawrence Harris Hwy,Neighborhood Market,,2016-01-17
 2260,AL,Snead,87395 US Hwy 278,Neighborhood Market,,2016-01-17
-2657,AZ,Chandler,6085 W. Chandler Blvd.,Neighborhood Market,,2019-01-01
-3142,AZ,Tucson,3900 W. Ina Road,Neighborhood Market,,2019-01-01
+2657,AZ,Chandler,6085 W. Chandler Blvd.,Neighborhood Market,2014-01-01,2019-01-01
+3142,AZ,Tucson,3900 W. Ina Road,Neighborhood Market,2013-01-01,2019-01-01
 "84, ",AR,Brinkley,1401 N Main St,Walmart,1974-05-01,2009-01-01
 2601,AR,Charleston,814 W Main,Neighborhood Market,,2016-01-17
 2669,AR,Coal Hill,1531 E Hwy 64,Neighborhood Market,,2016-01-17
@@ -4657,10 +4657,10 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3819,AR,Van Buren,8848 N Hwy 59,Neighborhood Market,,2016-01-17
 380,AR,Waldron,1359 W 2nd St,Walmart,1982-02-02,2017-01-01
 5639,CA,Garden Grove,10912 Katella Avenue,Neighborhood Market,2012-11-02,2022-03-25
-5687,CA,Irvine,71 Technology Dr.,Walmart Supercenter,2012-11-28,
+5687,CA,Irvine,71 Technology Dr.,Walmart Supercenter,2012-11-28,2021-03-01
 2949,CA,Long Beach,151 E 5th St.,Walmart,2002-10-30,2016-01-17
 2960,CA,Los Angeles,4101 Crenshaw Blvd,Walmart,2003-01-22,2016-01-17
-3086,CA,Los Angeles,701 W Cesar E Chavez Ave.,Neighborhood Market,,2016-01-17
+3086,CA,Los Angeles,701 W Cesar E Chavez Ave.,Neighborhood Market,1900-01-01,2016-01-17
 5164,CA,Norwalk,11729 Imperial Highway,Walmart Supercenter,2004-01-28,2019-01-01
 5457,CA,Oakland,8400 Edgewater Dr,Walmart,2005-08-24,2016-01-17
 3025,CA,San Jose,1600 Saratoga Ave.s Westgate Center,Neighborhood Market,,2019-04-19
