@@ -4663,17 +4663,17 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3086,CA,Los Angeles,701 W Cesar E Chavez Ave.,Neighborhood Market,1900-01-01,2016-01-17
 5164,CA,Norwalk,11729 Imperial Highway,Walmart Supercenter,2004-01-28,2019-01-01
 5457,CA,Oakland,8400 Edgewater Dr,Walmart,2005-08-24,2016-01-17
-3025,CA,San Jose,1600 Saratoga Ave.s Westgate Center,Neighborhood Market,,2019-04-19
+3025,CA,San Jose,1600 Saratoga Ave.s Westgate Center,Neighborhood Market,2012-10-03,2019-04-19
 2524,CA,San Jose,5502 Monterey Hwy,Walmart,1997-01-29,2016-01-17
 3020,CO,Arvada,64 W Ave.,Neighborhood Market,2012-06-20,2017-07-07
 3907,CO,Littleton,3615 West Bowles Ave.,Neighborhood Market,2012-06-29,2017-04-07
-5002,CO,Littleton,8196 West Bowles Ave.,Neighborhood Market,,2016-01-17
+5002,CO,Littleton,8196 West Bowles Ave.,Neighborhood Market,1900-01-01,2016-01-17
 1208,CO,Wheat Ridge,3600 Youngfield St,Walmart,1988-05-03,2017-07-07
-2305,CT,Bristol,325 Oakland St,Neighborhood Market,,2017-01-01
+2305,CT,Bristol,325 Oakland St,Neighborhood Market,2013-01-01,2017-01-01
 2896,CT,Derby,656 Derby Ave,Walmart,,2016-01-17
 3544,CT,Guilford,900 Boston Post Rd.,Walmart,2002-10-16,2022-05-20
 2570,CT,New Britain,655 Farmington Ave,Walmart,1997-09-10,2009-01-01
-2303,CT,West Hartford,333 N Main St,Neighborhood Market,,2016-01-17
+2303,CT,West Hartford,333 N Main St,Neighborhood Market,2013-01-01,2016-01-17
 4267,FL,Cross City,15726 SE Hwy 19,Neighborhood Market,,2016-01-17
 3358,FL,Interlachen,1113 SR-20,Neighborhood Market,,2016-01-17
 4265,FL,Trenton,1209 E Wade St,Neighborhood Market,,2016-01-17
@@ -4712,9 +4712,9 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3755,LA,Mamou,1445 Old Hwy 13,Neighborhood Market,,2016-01-17
 3879,LA,Zwolle,1495 Obrie St,Neighborhood Market,,2016-01-17
 3507,MD,Baltimore,2701 Port Covington Dr,Walmart,2002-04-17,2016-01-17
-2290,MD,Owings Mills,9750 Reistertown Road A,Walmart,2002-06-19,
+2290,MD,Owings Mills,9750 Reistertown Road A,Walmart,2002-06-19,2021-06-30
 5380,MA,Hanover,1775 Washington St,Walmart,2004-11-03,2019-01-01
-4584,MI,Hartland,10400 Highland Rd. Hartland Plaza,Walmart Supercenter,,2016-01-17
+4584,MI,Hartland,10400 Highland Rd. Hartland Plaza,Walmart Supercenter,2009-01-01,2016-01-17
 1824,MI,Ysplanti,2515 Ellsworth Rd,Walmart,1992-08-04,2020-01-01
 983,MN,Blue Earth,1210 Giant Dr,Walmart,1987-02-03,2017-10-03
 5437,MN,Midway,1450 University Avenue W,Walmart,2004-05-19,2019-01-01
@@ -4725,7 +4725,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3865,MS,Sardis,420 E Lee St,Neighborhood Market,,2016-01-17
 3866,MS,Walnut,28191 Hwy 15,Neighborhood Market,,2016-01-17
 4269,MO,Anderson,224 E Hwy 76,Neighborhood Market,,2016-01-17
-156,MO,Caruthersville,156 W 3rd St,Walmart,,2017-01-20
+156,MO,Caruthersville,156 W 3rd St,Walmart,1900-01-01,2017-01-20
 4289,MO,Clever,414 N Elm,Neighborhood Market,,2016-01-17
 4270,MO,Noel,508 N Cliffside Dr,Neighborhood Market,,2016-01-17
 946,MO,Piedmont,#15 Hals Plaza Dr,Walmart,1987-02-03,2017-01-20
@@ -4754,26 +4754,26 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3036,NC,Yanceyville,1593 NC Hwy 86 N,Neighborhood Market,,2016-01-17
 4342,OH,Bedford,22209 Rockside Rd,Walmart Supercenter,,2016-01-17
 3656,OH,Cincinnati,1143 Smiley Ave.,Walmart Supercenter,2006-05-17,2022-04-22
-3326,OH,Garfield Heights,City View Center,Walmart,,2008-01-01
+3326,OH,Garfield Heights,City View Center,Walmart,1900-01-01,2008-01-01
 5083,OH,Mayfield Heights,6594 Mayfield Rd.,Walmart,2004-01-28,2022-05-20
 2172,OH,Springdale,800 Kemper Commons Cir.,Walmart,1994-06-29,2008-01-01
 1725,OH,Trotwood,5331 Salem Ave,Walmart,1991-12-31,2007-01-01
 327,OK,Jay,1107 S Main St,Walmart,1981-04-07,2020-01-01
 1278,OK,Perry,1506 Fir Ave,Walmart,1988-11-01,
 2029,OR,Medford,3615 Crater Lake Hwy,Walmart,1993-09-28,2013-09-11
-0000,PA,Dickson City,1315 Scranton-Carbondale Hwy,Walmart,,1996-01-01
+0000,PA,Dickson City,1315 Scranton-Carbondale Hwy,Walmart,1992-01-01,1996-01-01
 3565,PA,Norristown,53 W Germantown Pike,Walmart,2002-07-17,2019-01-01
-5318,SC,Columbia,3603 Broad River Rd.,Neighborhood Market,2016-01-27,
-4379,SC,Columbia,1326 Bush River Rd.,Walmart Supercenter,2007-05-09,
-3798,SC,Pacolet,7013 South Pine Street,Walmart Express,,2016-01-17
+5318,SC,Columbia,3603 Broad River Rd.,Neighborhood Market,2016-01-27,2022-01-01
+4379,SC,Columbia,1326 Bush River Rd.,Walmart Supercenter,2007-05-09,2021-02-15
+3798,SC,Pacolet,7013 South Pine Street,Walmart Express,1900-01-01,2016-01-17
 2606,SC,Winnboro,721 US Hwy 321 BYP S,Walmart Supercenter,,2016-01-17
-4671,TN,Chattanooga,4110 Shallowford Rd.,Neighborhood Market,2016-01-27,
+4671,TN,Chattanooga,4110 Shallowford Rd.,Neighborhood Market,2016-01-27,2022-01-01
 4306,TN,Dover,934 US-79,Neighborhood Market,,2016-01-17
 4167,TN,Knoxville,2501 University Commons Way,Walmart,2014-08-06,2019-03-29
 1031,TN,Memphis,5000 American Way,Walmart,1987-08-04,2007-01-01
 5478,TX,Austin,8201 N FM 620,Walmart Supercenter,,2016-01-17
 1092,TX,Brownfield,1405 Tahoka Rd,Walmart,1987-11-03,2017-01-31
-5493,TX,Brownsville,7480 Padre Island Hwy,Walmart Supercenter,,2016-01-28
+5493,TX,Brownsville,7480 Padre Island Hwy,Walmart Supercenter,1900-01-01,2016-01-28
 949,TX,Dallas (Duncanville),3155 W Wheatland Rd,Walmart Supercenter,1986-09-02,2019-01-01
 474,TX,Edna,1002 N Wells,Walmart,1982-11-02,2018-01-01
 926,TX,Falfurrias,US-281 South,Walmart,,2015-01-01
@@ -4781,7 +4781,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 597,TX,Houston,7075 FM 1960 Rd W,Walmart Supercenter,1984-09-18,2016-01-17
 1050,TX,Lamesa,2406 Lubbock Hwy,Walmart,1987-01-13,2016-01-17
 883,TX,Raymondville,14091 FM 490,Walmart Supercenter,1986-02-04,2016-01-28
-883,TX,San Antonio,3847 Pleasanton Rd.,Neighborhood Market,2016-05-11,
+883,TX,San Antonio,3847 Pleasanton Rd.,Neighborhood Market,2016-05-11,2018-10-12
 8855,UT,Millcreek,3701 S Highland Dr.,Walmart Pickup,2017-07-19,2022-01-01
 8862,UT,Murray,5596 S Van Winkle Expy.,Walmart Pickup,2017-06-07,2022-01-01
 650,VA,Big Stone Gap,1959 Neeley Rd,Walmart,1984-09-18,2019-01-01
