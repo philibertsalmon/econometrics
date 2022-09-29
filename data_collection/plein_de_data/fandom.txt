@@ -406,7 +406,7 @@ Calexico - 2540 Rockwood Ave. - Walmart Supercenter (store #1859, opened January
 Camarillo - 275 West Ventura Blvd. - Neighborhood Market (store #5664, opened January 15, 2014)
 Carmichael - 6005 Madison Ave. - Neighborhood Market (store #5981, opened November 16, 2012)
 Carson - 20226 Avalon Blvd. - Neighborhood Market (store #5602, opened July 16, 2014)
-Ceres - 3960 Mitchell Rd. - Walmart Supercenter (store #1983, opened August 31, 1993)[1]
+Ceres - 3960 Mitchell Rd. - Walmart Supercenter (store #1983, opened August 31, 1993)
 Cerritos - 12701 Towne Center Dr. - Walmart Supercenter (store #2082, opened July 26, 1994)
 Chico - 2044 Forest Ave. - Walmart (store #2044, opened March 30, 1994)
 Chino - 3943 Grand Ave. - Walmart Supercenter (store #3464, opened May 15, 2002)
@@ -4715,7 +4715,7 @@ Sheridan - 1695 Coffeen Ave. - Walmart Supercenter (store #1508, opened October 
 Alaska
 Juneau - 6525 Glacier Hwy - Walmart Supercenter (store #3814, opened September 12, 2007, closed February 5, 2016) Currently Vacant.
 !Alabama
-Abbeville - 407 West Washington St - Neighborhood Market (formerly Walmart Express) (store #2186, opened unknown, closed January 1, 2016) Currently Shoppers Value.
+Abbeville - 407 West Washington St - Neighborhood Market (formerly Walmart Express) (store #2186, opened unknown, closed January 1, 2016)
 Ashford - 18 Apple Way - Neighborhood Market (formerly Walmart Express) (store #2011, closed January 17, 2016) Currently Dollar General.
 Fairfield - 7201 Aaron Aronov Drive - Walmart Supercenter (store #763, opened November 13, 1984, closed January 17, 2016) Currently Vacant.
 Gurley - 6361 Hwy 72 - Neighborhood Market (formerly Walmart Express) (store #2235, closed January 17, 2016) Currently Dollar General.
@@ -4751,7 +4751,7 @@ Los Angeles - 4101 Crenshaw Blvd - Walmart (store #2960, opened January 22, 2003
 Los Angeles - 701 W Cesar E Chavez Ave. - Neighborhood Market (store #3086, opened unknown, closed January 17, 2016)
 Norwalk - 11729 Imperial Highway - Walmart Supercenter (store #5164, opened January 28, 2004, closed 2019)
 Oakland - 8400 Edgewater Dr - Walmart (store #5457, opened August 24, 2005, closed January 17, 2016)
-San Jose - 1600 Saratoga Ave.s Westgate Center - Neighborhood Market (sotre #3025, opened Ocotber 3, closed April 19, 2019)
+San Jose - 1600 Saratoga Ave.s Westgate Center - Neighborhood Market (sotre #3025, opened October 3, closed April 19, 2019)
 San Jose - 5502 Monterey Hwy - Walmart (store #2524, opened January 29, 1997, closed January 17, 2016)
 !Colorado
 Arvada - 64 W Ave. - Neighborhood Market (store #3020, opened June 20, 2012, closed July 7, 2017)
@@ -4839,7 +4839,7 @@ Las Vegas - 4350 N Nellis Blvd - Walmart Supercenter (store #2837, opened August
 Bedford - 17 Colby Court - Walmart (store #2246, opened January 31, 1995, closed 2019)
 !New Jersey
 Ledgewood - 461 State Route 10 - Walmart (store #2569, opened March 1999, closed May 2019) Demolished for Walmart Supercenter #3912.
-Princeton - 101 Nassau Park Blvd - Walmart (store #2171, opened 1995, closed 2020)
+Princeton - 101 Nassau Park Blvd - Walmart (store #2171, opened May 31, 1995, closed 2020)
 !North Carolina
 Ayden - 182 NC 102 W - Neighborhood Market (formerly Walmart Express) (store #3080, closed January 17, 2016)
 Benson - 702 S Wall St - Neighborhood Market (formerly Walmart Express) (store #5138, closed January 17, 2016)
@@ -4864,7 +4864,7 @@ Bedford - 22209 Rockside Rd - Walmart Supercenter (store #4342, closed January 1
 Cincinnati - 1143 Smiley Ave. - Walmart Supercenter (store #3656, opened May 17, 2006, closed April 22, 2022)
 Garfield Heights - City View Center - Walmart (store #3326, closed 2008) due to toxic fumes. Location abandoned.
 Mayfield Heights - 6594 Mayfield Rd. - Walmart (store #5083, opened January 28, 2004, closed May 20, 2022)
-Springdale - 800 Kemper Commons Cir. - Walmart (store #2172, opened 1994, closed 2008)
+Springdale - 800 Kemper Commons Cir. - Walmart (store #2172, opened June 29, 1994, closed 2008)
 Trotwood - 5331 Salem Ave - Walmart (store #1725, opened December 31, 1991, closed 2007). Currently U-Haul
 !Oklahoma
 Jay - 1107 S Main St - Walmart (store #327, opened April 7, 1981, closed 2020)
@@ -4882,7 +4882,7 @@ Winnboro - 721 US Hwy 321 BYP S - Walmart Supercenter (store #2606, closed Janua
 !Tennessee
 Chattanooga - 4110 Shallowford Rd. - Neighborhood Market (store #4671, opened January 27, 2016, closed unknown)
 Dover - 934 US-79 - Neighborhood Market (formerly Walmart Express) (store #4306, closed January 17, 2016) Currently Dollar General
-Knoxville - 2501 University Commons Way - Walmart (store #4167, opened unknown, opened August 6, 2014, closed March 29, 2019)
+Knoxville - 2501 University Commons Way - Walmart (store #4167, opened August 6, 2014, closed March 29, 2019)
 Memphis - 5000 American Way - Walmart (store #1031, opened August 4, 1987, closed 2007) Demolished
 !Texas
 Austin - 8201 N FM 620 - Walmart Supercenter (store #5478, closed January 17, 2016)

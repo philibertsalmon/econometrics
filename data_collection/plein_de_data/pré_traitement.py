@@ -1,6 +1,7 @@
 from hashlib import new
 import pandas as pd
 import re
+import datetime
 
 # Pour wallmart_exit2016.txt :
 """
@@ -46,14 +47,10 @@ us_state_to_abbrev = {
 }
 
 def new_format(date):
-    new_date = ''
-    new_date += str(months[date.split()[0]])
-    new_date += '/'
-    day = re.search(' (.*),', date).group(1)
-    new_date +=  day if len(day) == 2 else '0'+day
-    new_date += '/'
-    new_date += date[-5:-1]
-    return new_date
+    month = int(months[date.split()[0]])
+    day = int(re.search(' (.*),', date).group(1))
+    year = int(date[-5:-1])
+    return datetime.date(year, month, day)
 
 data = []
 reluctant_lines = []
@@ -82,8 +79,7 @@ for state in by_states:
 
 df_current = pd.DataFrame(data, columns=['State', 'Town', 'Street', 'Category', 'Store_id', 'Opening_date', 'Closing_date'])
 
-df_reluctant = pd.DataFrame(reluctant_lines)
-df_reluctant.to_csv('reluctant_lines')
+
 
 
 ## Former
@@ -117,6 +113,7 @@ for state in by_states:
                     opening_date = new_format(raw_opening_date+')')
                 except: # Else append the pieces of information
                     opening_date = raw_opening_date
+                    reluctant_lines.append(line)
                 data_line.append(opening_date)
             else:
                 data_line.append('unknown')
@@ -127,7 +124,7 @@ for state in by_states:
             try:
                 closing_date = new_format(closing_date+')')
             except:
-                pass
+                reluctant_lines.append(line)
             data_line.append(closing_date)
             
             data.append(data_line)
@@ -137,6 +134,8 @@ df_former = pd.DataFrame(data, columns=['State', 'Town', 'Street', 'Category', '
 
 df = pd.concat((df_current, df_former))
 df = df.set_index('Store_id')
+pd.to_datetime(df.Opening_date, errors='ignore')
+pd.to_datetime(df.Closing_date, errors='ignore')
 """
 # Closing dates 2016
 
@@ -147,4 +146,6 @@ for index, store in df[df.Closing_date == '2016'].iterrows():
     if store['Town'] in 
     store['Closing_date'] = closing_date
 """
+df_reluctant = pd.DataFrame(reluctant_lines)
+df_reluctant.to_csv('reluctant_lines.csv')
 df.to_csv('fandom_traitées.csv')
