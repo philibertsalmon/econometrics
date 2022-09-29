@@ -134,8 +134,8 @@ df_former = pd.DataFrame(data, columns=['State', 'Town', 'Street', 'Category', '
 
 df = pd.concat((df_current, df_former))
 df = df.set_index('Store_id')
-pd.to_datetime(df.Opening_date, errors='coerce')
-pd.to_datetime(df.Closing_date, errors='coerce')
+df.Opening_date = pd.to_datetime(df.Opening_date, errors='coerce', format = '%Y-%m-%d')
+df.Closing_date = pd.to_datetime(df.Closing_date, errors='coerce', format = '%Y-%m-%d')
 """
 # Closing dates 2016
 
