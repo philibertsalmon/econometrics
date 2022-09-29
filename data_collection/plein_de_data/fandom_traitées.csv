@@ -663,7 +663,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 4567,CO,Brighton,7101 E 128th Ave.,Walmart Supercenter,2010-07-21,
 4288,CO,Broomfield,4651 W 121st Ave.,Walmart Supercenter,2010-05-19,
 5341,CO,Broomfield,500 Summit Blvd.,Walmart Supercenter,2004-08-25,
-1019,CO,CaÃ±on City,3105 E US Highway 50,Walmart Supercenter,1987-05-12,
+1019,CO,Cañon City,3105 E US Highway 50,Walmart Supercenter,1987-05-12,
 984,CO,Castle Rock,133 Sam Walton Lane,Walmart Supercenter,1986-11-18,
 3126,CO,Centennial,16746 E Smoky Hill Rd.,Neighborhood Market,2012-06-20,
 3313,CO,Centennial,10900 E Briarwood Ave.,Walmart Supercenter,2005-01-26,
@@ -2675,7 +2675,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 821,NM,Clovis,3728 N Prince St.,Walmart Supercenter,1985-10-16,
 5166,NM,Deming,1021 E Pine St.,Walmart Supercenter,2003-08-20,
 4021,NM,Edgewood,66 State Road 344,Walmart Supercenter,2008-03-07,
-2656,NM,EspaÃ±ola,1610 North Riverside Drive,Walmart Supercenter,1999-01-27,
+2656,NM,Española,1610 North Riverside Drive,Walmart Supercenter,1999-01-27,
 826,NM,Farmington,4600 E Main St.,Walmart Supercenter,1985-07-02,
 3428,NM,Farmington,1400 W Main St.,Walmart Supercenter,2006-05-03,
 906,NM,Gallup,1650 W Maloney Ave.,Walmart Supercenter,1986-07-15,
@@ -4655,7 +4655,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2578,AR,Mulberry,3500 Mulberry Hwy 64 W,Neighborhood Market,,2016-01-17
 3034,AR,Prairie Grove,881 W Buchanan,Neighborhood Market,,2016-01-17
 3819,AR,Van Buren,8848 N Hwy 59,Neighborhood Market,,2016-01-17
-380,AR,Waldron,1359 W 2nd St,Walmart,1982-02-02,2017-01-01
+380,AR,Waldron,1359 W 2nd St,Walmart,1982-02-02,2017-07-01
 5639,CA,Garden Grove,10912 Katella Avenue,Neighborhood Market,2012-11-02,2022-03-25
 5687,CA,Irvine,71 Technology Dr.,Walmart Supercenter,2012-11-28,2021-03-01
 2949,CA,Long Beach,151 E 5th St.,Walmart,2002-10-30,2016-01-17
@@ -4699,7 +4699,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 4651,KS,Hillsboro,605 Orchard Dr,Neighborhood Market,,2016-01-17
 4362,KS,Rose Hill,120 W Rosewood St,Neighborhood Market,,2016-01-17
 2060,KY,Lexington,3180 Richmond Rd,Walmart,1993-09-28,2018-08-10
-1269,KY,Louisville,1915 S Hurstborne Ln,Walmart,1988-11-17,
+1269,KY,Louisville,1915 S Hurstborne Ln,Walmart,1988-11-17,2018-08-15
 3610,KY,Louisville,7100 Raggard Rd.,Walmart Supercenter,2008-03-05,2022-04-22
 3839,LA,Clinton,9181 Hwy 67,Neighborhood Market,,2016-01-17
 4634,LA,Colfax,1506 Main St,Neighborhood Market,,2016-01-17
@@ -4732,7 +4732,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 4282,MO,Seligman,33597 State Hwy 112,Neighborhood Market,,2016-01-17
 2837,NV,Las Vegas,4350 N Nellis Blvd,Walmart Supercenter,2000-08-16,2016-01-17
 2246,NH,Bedford,17 Colby Court,Walmart,1995-01-31,2019-01-01
-2569,NJ,Ledgewood,461 State Route 10,Walmart,,
+2569,NJ,Ledgewood,461 State Route 10,Walmart,1999-03-15,2019-05-15
 2171,NJ,Princeton,101 Nassau Park Blvd,Walmart,1995-05-31,2020-01-01
 3080,NC,Ayden,182 NC 102 W,Neighborhood Market,,2016-01-17
 5138,NC,Benson,702 S Wall St,Neighborhood Market,,2016-01-17
@@ -4759,7 +4759,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2172,OH,Springdale,800 Kemper Commons Cir.,Walmart,1994-06-29,2008-01-01
 1725,OH,Trotwood,5331 Salem Ave,Walmart,1991-12-31,2007-01-01
 327,OK,Jay,1107 S Main St,Walmart,1981-04-07,2020-01-01
-1278,OK,Perry,1506 Fir Ave,Walmart,1988-11-01,
+1278,OK,Perry,1506 Fir Ave,Walmart,1988-11-01,2017-07-15
 2029,OR,Medford,3615 Crater Lake Hwy,Walmart,1993-09-28,2013-09-11
 0000,PA,Dickson City,1315 Scranton-Carbondale Hwy,Walmart,1992-01-01,1996-01-01
 3565,PA,Norristown,53 W Germantown Pike,Walmart,2002-07-17,2019-01-01

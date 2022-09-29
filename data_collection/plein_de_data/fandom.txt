@@ -4742,7 +4742,7 @@ Maumelle - 117 Audubon Drive - Neighborhood Market (store #5783, opened June 25,
 Mulberry - 3500 Mulberry Hwy 64 W - Neighborhood Market (formerly Walmart Express) (store #2578, closed January 17, 2016)
 Prairie Grove - 881 W Buchanan - Neighborhood Market (formerly Walmart Express) (store #3034, closed January 17, 2016)
 Van Buren - 8848 N Hwy 59 - Neighborhood Market (formerly Walmart Express) (store #3819, closed January 17, 2016)
-Waldron - 1359 W 2nd St - Walmart (store #380, opened February 2, 1982, closed 2017)
+Waldron - 1359 W 2nd St - Walmart (store #380, opened February 2, 1982, closed July 1, 2017)
 !California
 Garden Grove - 10912 Katella Avenue - Neighborhood Market (store #5639, opened November 2, 2012, closed March 25, 2022)
 Irvine - 71 Technology Dr. - Walmart Supercenter (store #5687, opened November 28, 2012, closed March 1, 2021). Currently Vacant.
@@ -4795,7 +4795,7 @@ Hillsboro - 605 Orchard Dr - Neighborhood Market (formerly Walmart Express) (sto
 Rose Hill - 120 W Rosewood St - Neighborhood Market (formerly Walmart Express) (store #4362, closed January 17, 2016)
 !Kentucky
 Lexington - 3180 Richmond Rd - Walmart (store #2060, opened September 28, 1993, closed August 10, 2018)
-Louisville - 1915 S Hurstborne Ln - Walmart (store #1269, opened November 17, 1988, closed 15 August, 2018)
+Louisville - 1915 S Hurstborne Ln - Walmart (store #1269, opened November 17, 1988, closed August 15, 2018)
 Louisville - 7100 Raggard Rd. - Walmart Supercenter (store #3610, opened March 5, 2008, closed April 22, 2022)
 !Louisiana
 Clinton - 9181 Hwy 67 - Neighborhood Market (formerly Walmart Express) (store #3839, closed January 17, 2016)
@@ -4838,7 +4838,7 @@ Las Vegas - 4350 N Nellis Blvd - Walmart Supercenter (store #2837, opened August
 !New Hampshire
 Bedford - 17 Colby Court - Walmart (store #2246, opened January 31, 1995, closed January 1, 2019)
 !New Jersey
-Ledgewood - 461 State Route 10 - Walmart (store #2569, opened 15 March 1999, closed 15 May 2019) Demolished for Walmart Supercenter #3912.
+Ledgewood - 461 State Route 10 - Walmart (store #2569, opened March 15, 1999, closed May 15, 2019) Demolished for Walmart Supercenter #3912.
 Princeton - 101 Nassau Park Blvd - Walmart (store #2171, opened May 31, 1995, closed January 1, 2020)
 !North Carolina
 Ayden - 182 NC 102 W - Neighborhood Market (formerly Walmart Express) (store #3080, closed January 17, 2016)
@@ -4868,7 +4868,7 @@ Springdale - 800 Kemper Commons Cir. - Walmart (store #2172, opened June 29, 199
 Trotwood - 5331 Salem Ave - Walmart (store #1725, opened December 31, 1991, closed January 1, 2007). Currently U-Haul
 !Oklahoma
 Jay - 1107 S Main St - Walmart (store #327, opened April 7, 1981, closed January 1, 2020)
-Perry - 1506 Fir Ave - Walmart (store #1278, opened November 1, 1988, closed 15 July, 2017)
+Perry - 1506 Fir Ave - Walmart (store #1278, opened November 1, 1988, closed July 15, 2017)
 !Oregon
 Medford - 3615 Crater Lake Hwy - Walmart (store #2029, opened September 28, 1993, closed September 11, 2013) Demolished for Supercenter #5839.
 !Pennsylvania
