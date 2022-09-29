@@ -19,6 +19,9 @@ accès depuis : https://corporate.walmart.com/newsroom/2016/01/15/walmart-contin
 Etat des lieux (localisation de tous les magasins us) en 2017 (carte, voir si  dataframe) :
 accès depuis : http://audit.osmz.ru/project/walmart/
 
+Etat des lieuw (partiel ?) en 2017 (dataframe) :
+accès depuis : https://github.com/theriley106/WaltonAnalytics/blob/master/Walmarts.csv
+
 "This is a complete list of all Walmart store locations, along with their geographic coordinates, Street addresses, City, State, ZIP code etc in the US." (2018/11/06) 
 accès depuis : https://data.world/data-hut/walmart-store-location-dataset
 

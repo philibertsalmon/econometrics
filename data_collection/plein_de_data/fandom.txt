@@ -4721,6 +4721,7 @@ Fairfield - 7201 Aaron Aronov Drive - Walmart Supercenter (store #763, opened No
 Gurley - 6361 Hwy 72 - Neighborhood Market (formerly Walmart Express) (store #2235, closed January 17, 2016) Currently Dollar General.
 Grant - 3530 Cathedral Caverns Hwy - Neighborhood Market (formerly Walmart Express) (store #3769, closed January 17, 2016) Currently Vacant.
 Headland - 14331 CR-99 - Neighborhood Market (formerly Walmart Express) (store #2173, closed January 17, 2016) Currently Sun Stop Market.
+Madison - 7520 Highway 72 W - Convenience with Fuel (store #5746, opened April 6, 2016, closed January 1, 2023)
 New Hope - 10188 Hwy 431 South - Neighborhood Market (formerly Walmart Express) (store #3779, closed January 17, 2016)
 Slocomb - 952 E Lawrence Harris Hwy - Neighborhood Market (formerly Walmart Express) (store #2165, closed January 17, 2016)
 Snead - 87395 US Hwy 278 - Neighborhood Market (formerly Walmart Express) (store #2260, closed January 17, 2016)
@@ -4763,6 +4764,7 @@ Bristol - 325 Oakland St - Neighborhood Market (store #2305, opened January 1, 2
 Derby - 656 Derby Ave - Walmart (store #2896, closed January 17, 2016) demolished for Big Y World Class Market
 Guilford - 900 Boston Post Rd. - Walmart (store #3544, opened October 16, 2002, closed May 20, 2022)
 New Britain - 655 Farmington Ave - Walmart (store #2570, opened September 10, 1997, closed January 1, 2009)
+Thornton - 1650 E104th Ave. - Convenience with Fuel (store #5915, opened December 1, 2016, closed January 1, 2023)
 West Hartford - 333 N Main St - Neighborhood Market (store #2303, opened January 1, 2013, closed January 17, 2016) now Target
 !Florida
 Cross City - 15726 SE Hwy 19 - Neighborhood Market (formerly Walmart Express) (store #4267, closed January 17, 2016)
