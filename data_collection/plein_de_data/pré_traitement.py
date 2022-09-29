@@ -104,7 +104,7 @@ for state in by_states:
                 store_id = raw[:3] if raw[3]==',' else raw[:4] #some id are 3 character long, other 4
                 data_line.append(store_id)
             except:
-                data_line.append('unknown')
+                data_line.append(pd.NaT)
             
             # Opening date
             if 'opened' in splitted_line[2]:
@@ -112,11 +112,11 @@ for state in by_states:
                 try: # Try to normalize the format, if day, month and year give
                     opening_date = new_format(raw_opening_date+')')
                 except: # Else append the pieces of information
-                    opening_date = raw_opening_date
+                    opening_date = pd.NaT
                     reluctant_lines.append(line)
                 data_line.append(opening_date)
             else:
-                data_line.append('unknown')
+                data_line.append(pd.NaT)
 
             # Closing date
             raw_closing_date = re.search('closed (.*)', splitted_line[2]).group(1)
@@ -134,8 +134,8 @@ df_former = pd.DataFrame(data, columns=['State', 'Town', 'Street', 'Category', '
 
 df = pd.concat((df_current, df_former))
 df = df.set_index('Store_id')
-pd.to_datetime(df.Opening_date, errors='ignore')
-pd.to_datetime(df.Closing_date, errors='ignore')
+pd.to_datetime(df.Opening_date, errors='coerce')
+pd.to_datetime(df.Closing_date, errors='coerce')
 """
 # Closing dates 2016
 
