@@ -4899,22 +4899,30 @@ Gray Court - 9032 Hwy 14 - Walmart Express (store #1250, opened January 1, 1900,
 Pacolet - 7013 South Pine Street - Walmart Express (store #3798, opened January 1, 1900, closed January 17, 2016)
 Winnsboro - 721 US Hwy 321 BYP S - Walmart Supercenter (store #2606, closed January 28, 2016)
 !Tennessee
+Chapel Hill - 4718 Nashville Hwy - Neighborhood Market (formerly Walmart Express) (store #2375, closed January 28, 2016)
 Chattanooga - 4110 Shallowford Rd. - Neighborhood Market (store #4671, opened January 27, 2016, closed January 1, 2022)
+Cornersville - 400 North Main St. - Neighborhood Market (formerly Walmart Express) (store #4301, closed January 28, 2016)
 Dover - 934 US-79 - Neighborhood Market (formerly Walmart Express) (store #4306, closed January 28, 2016) Currently Dollar General
 Knoxville - 2501 University Commons Way - Walmart (store #4167, opened August 6, 2014, closed March 29, 2019)
+Loretto - 523 N Military St. - Neighborhood Market (formerly Walmart Express) (store #2413, closed January 28, 2016)
 Memphis - 5000 American Way - Walmart (store #1031, opened August 4, 1987, closed January 1, 2007)
+Nashville - 1220 Gallatin Ave. - Neighborhood Market (store #3306, closed January 28, 2016)
 !Texas
-Austin - 8201 N FM 620 - Walmart Supercenter (store #5478, closed January 17, 2016)
+Austin - 8201 N FM 620 - Walmart Supercenter (store #5478, closed January 28, 2016)
 Brownfield - 1405 Tahoka Rd - Walmart (store #1092, opened November 3, 1987, closed January 31, 2017)
 Brownsville - 7480 Padre Island Hwy - Walmart Supercenter (store #5493, opened January 1, 1900, closed January 28, 2016)
+Bryan - 1901 S. Texas Ave. - Neighborhood Market (store #4126, opened January 1, 1900, closed January 28, 2016)
 Dallas (Duncanville) - 3155 W Wheatland Rd - Walmart Supercenter (store #949, opened September 2, 1986, closed January 1, 2019)
+Dallas (Greenville) - 2218 Greenville Ave. - Neighborhood Market (store #3171, opened January 1, 1900, closed January 28, 2016)
 Edna - 1002 N Wells - Walmart (store #474, opened November 2, 1982, closed January 1, 2018)
 Falfurrias - US-281 South - Walmart (store #926, openend September 16, 1986, closed January 1, 2015)
-Frisco - 4268 Legacy Drive - Neighborhood Market (store #5986, openend unknown, closed January 17, 2016)
-Houston - 7075 FM 1960 Rd W - Walmart Supercenter (store #597, opened September 18, 1984, closed January 17, 2016)
-Lamesa - 2406 Lubbock Hwy - Walmart (store #1050, opened January 13, 1987, closed January 17, 2016)
+Frisco - 4268 Legacy Drive - Neighborhood Market (store #5986, opened January 1, 1900, closed January 17, 2016)
+Houston - 7075 FM 1960 Rd W - Walmart Supercenter (store #597, opened September 18, 1984, closed January 28, 2016)
+Houston - 2740 Gessner Rd. - Neighborhood Market (store #3451, opened January 1, 1900, closed January 28, 2016)
+Lamesa - 2406 Lubbock Hwy - Walmart (store #1050, opened January 13, 1987, closed October 1, 2016)
 Raymondville - 14091 FM 490 - Walmart Supercenter (store #883, opened February 4, 1986, closed January 28, 2016)
 San Antonio - 3847 Pleasanton Rd. - Neighborhood Market (store #883, opened May 11, 2016, closed October 12, 2018)
+Soutlake - 2201 West Southlake Blvd. - Neighborhood Market (store #5985, opened January 1, 1900, closed January 28, 2016)
 !Utah
 Millcreek - 3701 S Highland Dr. - Walmart Pickup (store #8855, opened July 19, 2017, closed January 1, 2022)
 Murray - 5596 S Van Winkle Expy. - Walmart Pickup (store #8862, opened June 7, 2017, closed January 1, 2022)
@@ -4923,6 +4931,9 @@ Big Stone Gap - 1959 Neeley Rd - Walmart (store #650, opened September 18, 1984,
 !Washington
 Bellevue - 12620 SE 41st Pl. - Walmart (store #5939, opened October 17, 2012, closed April 22, 2022)
 !West Virginia
-Kimball - 61 Plaza Drive - Walmart Supercenter (store #3811, opened October 26, 2015, closed January 17, 2016)
+Kimball - 61 Plaza Drive - Walmart Supercenter (store #3811, opened October 26, 2015, closed January 28, 2016)
 !Wisconsin
-Milwaukee - 5825 W Hope Ave - Walmart (store #3496, opened August 14, 2002, closed January 17, 2016)
+Menomonee Falls - N88W15559 Main St. - Neighborhood Market (store #3031, opened January 1, 1900, closed January 28, 2016)
+Milwaukee - 5825 W Hope Ave - Walmart (store #3496, opened August 14, 2002, closed January 28, 2016)
+Waukesha - S14W22605 Coral Drive - Neighborhood Market (store #5698, opened January 1, 1900, closed January 28, 2016)
+Wauwatosa - 3850 N 124th St. - Neighborhood Market (store #3030, opened January 1, 1900, closed January 28, 2016)
