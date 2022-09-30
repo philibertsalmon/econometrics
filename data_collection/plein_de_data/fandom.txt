@@ -4715,16 +4715,16 @@ Sheridan - 1695 Coffeen Ave. - Walmart Supercenter (store #1508, opened October 
 Alaska
 Juneau - 6525 Glacier Hwy - Walmart Supercenter (store #3814, opened September 12, 2007, closed February 5, 2016) Currently Vacant.
 !Alabama
-Abbeville - 407 West Washington St - Neighborhood Market (formerly Walmart Express) (store #2186, opened January 1, 1901, closed January 1, 2016)
-Ashford - 18 Apple Way - Neighborhood Market (formerly Walmart Express) (store #2011, closed January 17, 2016) Currently Dollar General.
-Fairfield - 7201 Aaron Aronov Drive - Walmart Supercenter (store #763, opened November 13, 1984, closed January 17, 2016) Currently Vacant.
-Gurley - 6361 Hwy 72 - Neighborhood Market (formerly Walmart Express) (store #2235, closed January 17, 2016) Currently Dollar General.
-Grant - 3530 Cathedral Caverns Hwy - Neighborhood Market (formerly Walmart Express) (store #3769, closed January 17, 2016) Currently Vacant.
-Headland - 14331 CR-99 - Neighborhood Market (formerly Walmart Express) (store #2173, closed January 17, 2016) Currently Sun Stop Market.
+Abbeville - 407 West Washington St - Neighborhood Market (formerly Walmart Express) (store #2186, opened January 1, 1901, closed January 28, 2016)
+Ashford - 18 Apple Way - Neighborhood Market (formerly Walmart Express) (store #2011, closed January 28, 2016) Currently Dollar General.
+Fairfield - 7201 Aaron Aronov Drive - Walmart Supercenter (store #763, opened November 13, 1984, closed January 28, 2016) Currently Vacant.
+Gurley - 6361 Hwy 72 - Neighborhood Market (formerly Walmart Express) (store #2235, closed January 28, 2016) Currently Dollar General.
+Grant - 3530 Cathedral Caverns Hwy - Neighborhood Market (formerly Walmart Express) (store #3769, closed January 28, 2016) Currently Vacant.
+Headland - 14331 CR-99 - Neighborhood Market (formerly Walmart Express) (store #2173, closed January 28, 2016) Currently Sun Stop Market.
 Madison - 7520 Highway 72 W - Convenience with Fuel (store #5746, opened April 6, 2016, closed January 1, 2023)
-New Hope - 10188 Hwy 431 South - Neighborhood Market (formerly Walmart Express) (store #3779, closed January 17, 2016)
-Slocomb - 952 E Lawrence Harris Hwy - Neighborhood Market (formerly Walmart Express) (store #2165, closed January 17, 2016)
-Snead - 87395 US Hwy 278 - Neighborhood Market (formerly Walmart Express) (store #2260, closed January 17, 2016)
+New Hope - 10188 Hwy 431 South - Neighborhood Market (formerly Walmart Express) (store #3779, closed January 28, 2016)
+Slocomb - 952 E Lawrence Harris Hwy - Neighborhood Market (formerly Walmart Express) (store #2165, closed January 28, 2016)
+Snead - 87395 US Hwy 278 - Neighborhood Market (formerly Walmart Express) (store #2260, closed January 28, 2016)
 !Arizona
 Chandler - 6085 W. Chandler Blvd. - Neighborhood Market (store #2657, opened January 1, 2014, closed January 1, 2019)
 Tucson - 3900 W. Ina Road - Neighborhood Market (store #3142, opened January 1, 2013, closed January 1, 2019)
@@ -4745,39 +4745,44 @@ Prairie Grove - 881 W Buchanan - Neighborhood Market (formerly Walmart Express) 
 Van Buren - 8848 N Hwy 59 - Neighborhood Market (formerly Walmart Express) (store #3819, closed January 17, 2016)
 Waldron - 1359 W 2nd St - Walmart (store #380, opened February 2, 1982, closed July 1, 2017)
 !California
+Altadena - 2408 Lincoln Ave. - Neighborhood Market (store #5642, opened January 1, 1900, closed January 28, 2016)
+Bell Gardens - 6820 Eastern Ave. - Neighborhood Market (store #5688, opened January 1, 1900, closed January 28, 2016)
 Garden Grove - 10912 Katella Avenue - Neighborhood Market (store #5639, opened November 2, 2012, closed March 25, 2022)
+Hawaiian Gardens - 12120 Carson St. - Neighborhood Market (store #4173, opened January 1, 1900, closed January 28, 2016)
 Irvine - 71 Technology Dr. - Walmart Supercenter (store #5687, opened November 28, 2012, closed March 1, 2021). Currently Vacant.
-Long Beach - 151 E 5th St. - Walmart (store #2949, opened October 30, 2002, closed January 17, 2016)
+Long Beach - 151 E 5th St. - Walmart (store #2949, opened October 30, 2002, closed January 28, 2016)
 Los Angeles - 4101 Crenshaw Blvd - Walmart (store #2960, opened January 22, 2003, closed January 17, 2016)
 Los Angeles - 701 W Cesar E Chavez Ave. - Neighborhood Market (store #3086, opened January 1, 1900, closed January 17, 2016)
 Norwalk - 11729 Imperial Highway - Walmart Supercenter (store #5164, opened January 28, 2004, closed January 1, 2019)
 Oakland - 8400 Edgewater Dr - Walmart (store #5457, opened August 24, 2005, closed January 17, 2016)
+San Bernardino - 2045 E Highland Ave. - Neighborhood Market (store #5690, opened January 1, 1900, closed January 28, 2016)
 San Jose - 1600 Saratoga Ave.s Westgate Center - Neighborhood Market (store #3025, opened October 3, 2012, closed April 19, 2019)
-San Jose - 5502 Monterey Hwy - Walmart (store #2524, opened January 29, 1997, closed January 17, 2016)
+San Jose - 5502 Monterey Hwy - Walmart (store #2524, opened January 29, 1997, closed January 28, 2016)
 !Colorado
 Arvada - 64 W Ave. - Neighborhood Market (store #3020, opened June 20, 2012, closed July 7, 2017)
+Denver - 2253 S Monaco Pkwy. - Neighborhood Market (store #3021, opened January 1, 1900, closed January 28, 2016)
 Littleton - 3615 West Bowles Ave. - Neighborhood Market (store #3907, opened June 29, 2012, closed April 7, 2017)
 Littleton - 8196 West Bowles Ave. - Neighborhood Market (store #5002, opened January 1, 1900, closed January 17, 2016)
 Thornton - 1650 E104th Ave. - Convenience with Fuel (store #5915, opened December 1, 2016, closed January 1, 2023)
 Wheat Ridge - 3600 Youngfield St - Walmart (store #1208, opened May 3, 1988, closed July 7, 2017) Currently Hobby Lobby and HomeGoods
 !Connecticut
 Bristol - 325 Oakland St - Neighborhood Market (store #2305, opened January 1, 2013, closed January 1, 2017)
-Derby - 656 Derby Ave - Walmart (store #2896, closed January 17, 2016) demolished for Big Y World Class Market
+Derby - 656 Derby Ave - Walmart (store #2896, closed July 31, 2016) demolished for Big Y World Class Market
 Guilford - 900 Boston Post Rd. - Walmart (store #3544, opened October 16, 2002, closed May 20, 2022)
 New Britain - 655 Farmington Ave - Walmart (store #2570, opened September 10, 1997, closed January 1, 2009)
-West Hartford - 333 N Main St - Neighborhood Market (store #2303, opened January 1, 2013, closed January 17, 2016) now Target
+West Hartford - 333 N Main St - Neighborhood Market (store #2303, opened January 1, 2013, closed January 28, 2016) now Target
 !Florida
-Cross City - 15726 SE Hwy 19 - Neighborhood Market (formerly Walmart Express) (store #4267, closed January 17, 2016)
-Interlachen - 1113 SR-20 - Neighborhood Market (formerly Walmart Express) (store #3358, closed January 17, 2016)
-Trenton - 1209 E Wade St - Neighborhood Market (formerly Walmart Express) (store #4265, closed January 17, 2016)
+Cross City - 15726 SE Hwy 19 - Neighborhood Market (formerly Walmart Express) (store #4267, closed January 28, 2016)
+Interlachen - 1113 SR-20 - Neighborhood Market (formerly Walmart Express) (store #3358, closed January 28, 2016)
+Trenton - 1209 E Wade St - Neighborhood Market (formerly Walmart Express) (store #4265, closed January 28, 2016)
 !Georgia
-Alma - 1041 S US Hwy 1 - Neighborhood Market (formerly Walmart Express) (store #4229, closed January 17, 2016)
-Ashburn - 155 W Washington Ave - Neighborhood Market (formerly Walmart Express) (store #4234, closed January 17, 2016)
-Donalsonville - 907 Marianna Hwy - Neighborhood Market (formerly Walmart Express) (store #4254, closed January 17, 2016)
-Ellaville - 560 Broad St - Neighborhood Market (formerly Walmart Express) (store #4228, closed January 17, 2016)
-Lakeland - 142 S Valdosta Rd - Neighborhood Market (formerly Walmart Express) (store #4263, closed January 17, 2016)
-Pearson - 290 Albany Ave W - Neighborhood Market (formerly Walmart Express) (store #4261, closed January 17, 2016)
-Pelham - 398 Barrow Ave SW - Neighborhood Market (formerly Walmart Express) (store #4251, closed January 17, 2016)
+Alma - 1041 S US Hwy 1 - Neighborhood Market (formerly Walmart Express) (store #4229, closed January 28, 2016)
+Ashburn - 155 W Washington Ave - Neighborhood Market (formerly Walmart Express) (store #4234, closed January 28, 2016)
+Donalsonville - 907 Marianna Hwy - Neighborhood Market (formerly Walmart Express) (store #4254, closed January 28, 2016)
+Ellaville - 560 Broad St - Neighborhood Market (formerly Walmart Express) (store #4228, closed January 28, 2016)
+Lakeland - 142 S Valdosta Rd - Neighborhood Market (formerly Walmart Express) (store #4263, closed January 28, 2016)
+Pearson - 290 Albany Ave W - Neighborhood Market (formerly Walmart Express) (store #4261, closed January 28, 2016)
+Pelham - 398 Barrow Ave SW - Neighborhood Market (formerly Walmart Express) (store #4251, closed January 28, 2016)
 !Illinois
 Aurora - 2131 Galena Blvd - Walmart (store #1818, closed October 28, 2016)
 Chicago - 3636 N Broadway St - Neighborhood Market (formerly Walmart Express) (store #3065, closed January 17, 2016)
@@ -4789,52 +4794,55 @@ Pana - 10 W 2nd - Walmart (store #460, opened November 29, 1983, closed October 
 Indianapolis - 8010 E. 38th St. - Neighborhood Market (store #5406, closed July 12, 2019)
 Rushville - 1850 N Main - Walmart (store #1262, opened November 17, 1988, closed February 28, 2018)
 !Kansas
-Burlington - 505 Housatonic St - Neighborhood Market (formerly Walmart Express) (store #4353, closed January 17, 2016)
-Clearwater - 900 E Ross Ave - Neighborhood Market (formerly Walmart Express) (store #3369, closed January 17, 2016)
-Columbus - 705 N High School Ave - Neighborhood Market (formerly Walmart Express) (store #4360, closed January 17, 2016)
-Ellsworth - 1105 E 15th St - Neighborhood Market (formerly Walmart Express) (store #4361, closed January 17, 2016)
-Hillsboro - 605 Orchard Dr - Neighborhood Market (formerly Walmart Express) (store #4651, closed January 17, 2016)
-Rose Hill - 120 W Rosewood St - Neighborhood Market (formerly Walmart Express) (store #4362, closed January 17, 2016)
+Burlington - 505 Housatonic St - Neighborhood Market (formerly Walmart Express) (store #4353, closed January 28, 2016)
+Clearwater - 900 E Ross Ave - Neighborhood Market (formerly Walmart Express) (store #3369, closed January 28, 2016)
+Columbus - 705 N High School Ave - Neighborhood Market (formerly Walmart Express) (store #4360, closed January 28, 2016)
+Ellsworth - 1105 E 15th St - Neighborhood Market (formerly Walmart Express) (store #4361, closed January 28, 2016)
+Hillsboro - 605 Orchard Dr - Neighborhood Market (formerly Walmart Express) (store #4651, closed January 28, 2016)
+Rose Hill - 120 W Rosewood St - Neighborhood Market (formerly Walmart Express) (store #4362, closed January 28, 2016)
+Wichita - 601 N West St. STE 100 - Neighborhood Market (store #5856, opened January 1, 1900, closed January 28, 2016)
+Wichita - 9831 E Harry St. - Neighborhood Market (store #5860, opened January 1, 1900, closed January 28, 2016)
+Wichita - 4794 E 13th - Neighborhood Market (store #5873, opened January 1, 1900, closed January 28, 2016)
 !Kentucky
 Lexington - 3180 Richmond Rd - Walmart (store #2060, opened September 28, 1993, closed August 10, 2018)
 Louisville - 1915 S Hurstborne Ln - Walmart (store #1269, opened November 17, 1988, closed August 15, 2018)
 Louisville - 7100 Raggard Rd. - Walmart Supercenter (store #3610, opened March 5, 2008, closed April 22, 2022)
 !Louisiana
-Clinton - 9181 Hwy 67 - Neighborhood Market (formerly Walmart Express) (store #3839, closed January 17, 2016)
-Colfax - 1506 Main St - Neighborhood Market (formerly Walmart Express) (store #4634, closed January 17, 2016)
+Clinton - 9181 Hwy 67 - Neighborhood Market (formerly Walmart Express) (store #3839, closed January 28, 2016)
+Colfax - 1506 Main St - Neighborhood Market (formerly Walmart Express) (store #4634, closed January 28, 2016)
 Homer - 906 W Main St - Walmart (store #270, opened August 4, 1981, closed January 1, 2006)
-Independence - 515 3rd St - Neighborhood Market (formerly Walmart Express) (store #4647, closed January 17, 2016)
-Iowa - 501 W Hwy 90 - Neighborhood Market (formerly Walmart Express) (store #3815, closed January 17, 2016)
-Kentwood - 920 Avenue G - Neighborhood Market (formerly Walmart Express) (store #3849, closed January 17, 2016)
+Independence - 515 3rd St - Neighborhood Market (formerly Walmart Express) (store #4647, closed January 28, 2016)
+Iowa - 501 W Hwy 90 - Neighborhood Market (formerly Walmart Express) (store #3815, closed January 28, 2016)
+Kentwood - 920 Avenue G - Neighborhood Market (formerly Walmart Express) (store #3849, closed January 28, 2016)
 Lafayette - 1229 NE. Evangeline Trwy - Walmart Supercenter (store #534, opened May 17, 1983, closed January 1, 2019)
-Lake Aurthur - 620 N Hwy 26 - Neighborhood Market (formerly Walmart Express) (store #3753, closed January 17, 2016)
-Mamou - 1445 Old Hwy 13 - Neighborhood Market (formerly Walmart Express) (store #3755, closed January 17, 2016)
-Zwolle - 1495 Obrie St - Neighborhood Market (formerly Walmart Express) (store #3879, closed January 17, 2016)
+Lake Aurthur - 620 N Hwy 26 - Neighborhood Market (formerly Walmart Express) (store #3753, closed January 28, 2016)
+Mamou - 1445 Old Hwy 13 - Neighborhood Market (formerly Walmart Express) (store #3755, closed January 28, 2016)
+Zwolle - 1495 Obrie St - Neighborhood Market (formerly Walmart Express) (store #3879, closed January 28, 2016)
 !Maryland
 Baltimore - 2701 Port Covington Dr - Walmart (store #3507, opened April 17, 2002, closed January 17, 2016)
 Owings Mills - 9750 Reistertown Road A - Walmart (store #2290, opened June 19, 2002, closed June 30, 2021)
 !Massachusetts
 Hanover - 1775 Washington St - Walmart (store #5380, opened November 3, 2004, closed January 1, 2019)
 !Michigan
-Hartland - 10400 Highland Rd. Hartland Plaza - Walmart Supercenter (store #4584, opened January 1, 2009, closed January 17, 2016) replaced by Rural King
+Hartland - 10400 Highland Rd. Hartland Plaza - Walmart Supercenter (store #4584, opened January 1, 2009, closed January 28, 2016) replaced by Rural King
 Ysplanti - 2515 Ellsworth Rd - Walmart (store #1824, opened August 4, 1992, closed January 1, 2020)
 !Minnesota
 Blue Earth - 1210 Giant Dr - Walmart (store #983, opened February 3, 1987, closed October 3, 2017) Currently Bomgaar's
 Midway - 1450 University Avenue W - Walmart (store #5437, opened May 19, 2004, closed January 1, 2019) Currently At Home.
 !Mississippi
-Belmont - 410 2nd St - Neighborhood Market (formerly Walmart Express) (store #3856, closed January 17, 2016)
-Derma - 519 W Veterans Ave - Neighborhood Market (formerly Walmart Express) (store #4294, closed January 17, 2016)
-Mantachie - 2795 Hwy 371 N - Neighborhood Market (formerly Walmart Express) (store #3863, closed January 17, 2016)
-Nettleton - 7104 Will Robbins Hwy - Neighborhood Market (formerly Walmart Express) (store #4296, closed January 17, 2016)
-Sardis - 420 E Lee St - Neighborhood Market (formerly Walmart Express) (store #3865, closed January 17, 2016)
-Walnut - 28191 Hwy 15 - Neighborhood Market (formerly Walmart Express) (store #3866, closed January 17, 2016)
+Belmont - 410 2nd St - Neighborhood Market (formerly Walmart Express) (store #3856, closed January 28, 2016)
+Derma - 519 W Veterans Ave - Neighborhood Market (formerly Walmart Express) (store #4294, closed January 28, 2016)
+Mantachie - 2795 Hwy 371 N - Neighborhood Market (formerly Walmart Express) (store #3863, closed January 28, 2016)
+Nettleton - 7104 Will Robbins Hwy - Neighborhood Market (formerly Walmart Express) (store #4296, closed January 28, 2016)
+Sardis - 420 E Lee St - Neighborhood Market (formerly Walmart Express) (store #3865, closed January 28, 2016)
+Walnut - 28191 Hwy 15 - Neighborhood Market (formerly Walmart Express) (store #3866, closed January 28, 2016)
 !Missouri
-Anderson - 224 E Hwy 76 - Neighborhood Market (formerly Walmart Express) (store #4269, closed January 17, 2016)
+Anderson - 224 E Hwy 76 - Neighborhood Market (formerly Walmart Express) (store #4269, closed January 28, 2016)
 Caruthersville - 156 W 3rd St - Walmart (store #156, opened January 1, 1900, closed January 20, 2017)
-Clever - 414 N Elm - Neighborhood Market (formerly Walmart Express) (store #4289, closed January 17, 2016)
-Noel - 508 N Cliffside Dr - Neighborhood Market (formerly Walmart Express) (store #4270, closed January 17, 2016)
+Clever - 414 N Elm - Neighborhood Market (formerly Walmart Express) (store #4289, closed January 28, 2016)
+Noel - 508 N Cliffside Dr - Neighborhood Market (formerly Walmart Express) (store #4270, closed January 28, 2016)
 Piedmont - #15 Hals Plaza Dr - Walmart (store #946, opened February 3, 1987, closed January 20, 2017) Currently Vacant
-Seligman - 33597 State Hwy 112 - Neighborhood Market (formerly Walmart Express) (store #4282, closed January 17, 2016)
+Seligman - 33597 State Hwy 112 - Neighborhood Market (formerly Walmart Express) (store #4282, closed January 28, 2016)
 !Nevada
 Las Vegas - 4350 N Nellis Blvd - Walmart Supercenter (store #2837, opened August 16, 2000, closed January 17, 2016)
 !New Hampshire
@@ -4843,26 +4851,26 @@ Bedford - 17 Colby Court - Walmart (store #2246, opened January 31, 1995, closed
 Ledgewood - 461 State Route 10 - Walmart (store #2569, opened March 15, 1999, closed May 15, 2019) Demolished for Walmart Supercenter #3912.
 Princeton - 101 Nassau Park Blvd - Walmart (store #2171, opened May 31, 1995, closed January 1, 2020)
 !North Carolina
-Ayden - 182 NC 102 W - Neighborhood Market (formerly Walmart Express) (store #3080, closed January 17, 2016)
-Benson - 702 S Wall St - Neighborhood Market (formerly Walmart Express) (store #5138, closed January 17, 2016)
-Broadway - 112 N Main St - Neighborhood Market (formerly Walmart Express) (store #3257, closed January 17, 2016)
-Carthage - 945 Monroe St - Neighborhood Market (formerly Walmart Express) (store #2500, closed January 17, 2016)
-Coats - 511 N McKinley St - Neighborhood Market (formerly Walmart Express) (store #3249, closed January 17, 2016)
+Ayden - 182 NC 102 W - Neighborhood Market (formerly Walmart Express) (store #3080, closed January 28, 2016)
+Benson - 702 S Wall St - Neighborhood Market (formerly Walmart Express) (store #5138, closed January 28, 2016)
+Broadway - 112 N Main St - Neighborhood Market (formerly Walmart Express) (store #3257, closed January 28, 2016)
+Carthage - 945 Monroe St - Neighborhood Market (formerly Walmart Express) (store #2500, closed January 28, 2016)
+Coats - 511 N McKinley St - Neighborhood Market (formerly Walmart Express) (store #3249, closed January 28, 2016)
 Durham - 1010 Martin Luther King Parkway - Walmart Supercenter (store #4369, opened October 26, 2011, closed January 17, 2016) Currently Planet Fitness, Boys & Girls Clubs of Durham and Orange Counties, and Triangle Rock Club.
-Four Oaks - 6043 US Hwy 301 S - Neighborhood Market (formerly Walmart Express) (store #5024, closed January 17, 2016)
-Liberty - 632 W Swannanoa Ave - Neighborhood Market (formerly Walmart Express) (store #6997, closed January 17, 2016)
-Midway - 189 Hickory Tree Rd - Neighborhood Market (formerly Walmart Express) (store #3121, closed January 17, 2016)
-Oriental - 1400 N Broad St - Neighborhood Market (formerly Walmart Express) (store #7207, closed January 17, 2016)
-Pikeville - 303 S Goldsboro St - Neighborhood Market (formerly Walmart Express) (store #2573, closed January 17, 2016)
-Princeton - 509 Dr. Donnie H. Jones Blvd W - Neighborhood Market (formerly Walmart Express) (store #3211, closed January 17, 2016)
-Red Springs - 908 E 4th Ave - Neighborhood Market (formerly Walmart Express) (store #5015, closed January 17, 2016)
+Four Oaks - 6043 US Hwy 301 S - Neighborhood Market (formerly Walmart Express) (store #5024, closed January 28, 2016)
+Liberty - 632 W Swannanoa Ave - Neighborhood Market (formerly Walmart Express) (store #6997, closed January 28, 2016)
+Midway - 189 Hickory Tree Rd - Neighborhood Market (formerly Walmart Express) (store #3121, closed January 28, 2016)
+Oriental - 1400 N Broad St - Neighborhood Market (formerly Walmart Express) (store #7207, closed January 28, 2016)
+Pikeville - 303 S Goldsboro St - Neighborhood Market (formerly Walmart Express) (store #2573, closed January 28, 2016)
+Princeton - 509 Dr. Donnie H. Jones Blvd W - Neighborhood Market (formerly Walmart Express) (store #3211, closed January 28, 2016)
+Red Springs - 908 E 4th Ave - Neighborhood Market (formerly Walmart Express) (store #5015, closed January 28, 2016)
 Richfield - 139 N Hwy 49 - Neighborhood Market (formerly Walmart Express) (store #3007, closed January 17, 2016)
-Snow Hill - 905 SE 2nd St - Neighborhood Market (formerly Walmart Express) (store #3037, closed January 17, 2016)
-Stedman - 7670 Clinton Rd - Neighborhood Market (formerly Walmart Express) (store #5017, closed January 17, 2016)
+Snow Hill - 905 SE 2nd St - Neighborhood Market (formerly Walmart Express) (store #3037, closed January 28, 2016)
+Stedman - 7670 Clinton Rd - Neighborhood Market (formerly Walmart Express) (store #5017, closed January 28, 2016)
 Wadesboro - 1047 E Caswell St - Walmart (store #1127, opened November 17, 1988, closed January 1, 2020)
-Yanceyville - 1593 NC Hwy 86 N - Neighborhood Market (formerly Walmart Express) (store #3036, closed January 17, 2016)
+Yanceyville - 1593 NC Hwy 86 N - Neighborhood Market (formerly Walmart Express) (store #3036, closed January 28, 2016)
 !Ohio
-Bedford - 22209 Rockside Rd - Walmart Supercenter (store #4342, closed January 17, 2016)
+Bedford - 22209 Rockside Rd - Walmart Supercenter (store #4342, closed January 28, 2016)
 Cincinnati - 1143 Smiley Ave. - Walmart Supercenter (store #3656, opened May 17, 2006, closed April 22, 2022)
 Garfield Heights - City View Center - Walmart (store #3326, opened January 1, 1900, closed January 1, 2008) due to toxic fumes. Location abandoned.
 Mayfield Heights - 6594 Mayfield Rd. - Walmart (store #5083, opened January 28, 2004, closed May 20, 2022)
@@ -4870,20 +4878,29 @@ Springdale - 800 Kemper Commons Cir. - Walmart (store #2172, opened June 29, 199
 Trotwood - 5331 Salem Ave - Walmart (store #1725, opened December 31, 1991, closed January 1, 2007). Currently U-Haul
 !Oklahoma
 Jay - 1107 S Main St - Walmart (store #327, opened April 7, 1981, closed January 1, 2020)
+Luther - 19250 E Hwy 66 - Neighborhood Market (formerly Walmart Express) (store #4633, opened January 1, 1900, closed January 28, 2016)
+Okemah - 124 E. Columbia St. - Neighborhood Market (formerly Walmart Express) (store #3756, opened January 1, 1900, closed January 28, 2016)
 Perry - 1506 Fir Ave - Walmart (store #1278, opened November 1, 1988, closed July 15, 2017)
+Prague - 2310 West Main - Neighborhood Market (formerly Walmart Express) (store #2456 opened January 1, 1900, closed January 28, 2016)
+Stroud - 1600 West Hwy 66 - Neighborhood Market (formerly Walmart Express) (store #2462, opened January 1, 1900, closed January 28, 2016)
+Watonga - 812 N Clarence Nash Blvd - Neighborhood Market (formerly Walmart Express) (store #3767, opened January 1, 1900, closed January 28, 2016)
+Wewoka - 2324 Seran Drive - Neighborhood Market (formerly Walmart Express) (store #3766, opened January 1, 1900, closed January 28, 2016)
 !Oregon
+Lake Oswego - 17711 Jean Way - Neighborhood Market (store #5995, opened January 1, 1900, closed January 28, 2016)
 Medford - 3615 Crater Lake Hwy - Walmart (store #2029, opened September 28, 1993, closed September 11, 2013) Demolished for Supercenter #5839.
+Portland - 8235 SW Apple Way - Neighborhood Market (store #3097, opened January 1, 1900, closed January 17, 2016)
 !Pennsylvania
 Dickson City - 1315 Scranton-Carbondale Hwy - Walmart (store #0000, opened January 1, 1992, closed January 1, 1996) due to rocks and other debris rolling down the mountain and hitting the back of the store.)
 Norristown - 53 W Germantown Pike - Walmart (store #3565, opened July 17, 2002, closed January 1, 2019)
 !South Carolina
 Columbia - 3603 Broad River Rd. - Neighborhood Market (store #5318, opened January 27, 2016, closed January 1, 2022)
 Columbia - 1326 Bush River Rd. - Walmart Supercenter (store #4379, opened May 9, 2007, closed February 15, 2021)
+Gray Court - 9032 Hwy 14 - Walmart Express (store #1250, opened January 1, 1900, closed January 28, 2016)
 Pacolet - 7013 South Pine Street - Walmart Express (store #3798, opened January 1, 1900, closed January 17, 2016)
-Winnboro - 721 US Hwy 321 BYP S - Walmart Supercenter (store #2606, closed January 17, 2016)
+Winnsboro - 721 US Hwy 321 BYP S - Walmart Supercenter (store #2606, closed January 28, 2016)
 !Tennessee
 Chattanooga - 4110 Shallowford Rd. - Neighborhood Market (store #4671, opened January 27, 2016, closed January 1, 2022)
-Dover - 934 US-79 - Neighborhood Market (formerly Walmart Express) (store #4306, closed January 17, 2016) Currently Dollar General
+Dover - 934 US-79 - Neighborhood Market (formerly Walmart Express) (store #4306, closed January 28, 2016) Currently Dollar General
 Knoxville - 2501 University Commons Way - Walmart (store #4167, opened August 6, 2014, closed March 29, 2019)
 Memphis - 5000 American Way - Walmart (store #1031, opened August 4, 1987, closed January 1, 2007)
 !Texas
