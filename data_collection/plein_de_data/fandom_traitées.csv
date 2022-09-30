@@ -4786,24 +4786,35 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1250,SC,Gray Court,9032 Hwy 14,Walmart Express,1900-01-01,2016-01-28
 3798,SC,Pacolet,7013 South Pine Street,Walmart Express,1900-01-01,2016-01-17
 2606,SC,Winnsboro,721 US Hwy 321 BYP S,Walmart Supercenter,,2016-01-28
+2375,TN,Chapel Hill,4718 Nashville Hwy,Neighborhood Market,,2016-01-28
 4671,TN,Chattanooga,4110 Shallowford Rd.,Neighborhood Market,2016-01-27,2022-01-01
-4306,TN,Dover,934 US-79,Neighborhood Market,,2016-01-17
+4301,TN,Cornersville,400 North Main St.,Neighborhood Market,,2016-01-28
+4306,TN,Dover,934 US-79,Neighborhood Market,,2016-01-28
 4167,TN,Knoxville,2501 University Commons Way,Walmart,2014-08-06,2019-03-29
+2413,TN,Loretto,523 N Military St.,Neighborhood Market,,2016-01-28
 1031,TN,Memphis,5000 American Way,Walmart,1987-08-04,2007-01-01
-5478,TX,Austin,8201 N FM 620,Walmart Supercenter,,2016-01-17
+3306,TN,Nashville,1220 Gallatin Ave.,Neighborhood Market,,2016-01-28
+5478,TX,Austin,8201 N FM 620,Walmart Supercenter,,2016-01-28
 1092,TX,Brownfield,1405 Tahoka Rd,Walmart,1987-11-03,2017-01-31
 5493,TX,Brownsville,7480 Padre Island Hwy,Walmart Supercenter,1900-01-01,2016-01-28
+4126,TX,Bryan,1901 S. Texas Ave.,Neighborhood Market,1900-01-01,2016-01-28
 949,TX,Dallas (Duncanville),3155 W Wheatland Rd,Walmart Supercenter,1986-09-02,2019-01-01
+3171,TX,Dallas (Greenville),2218 Greenville Ave.,Neighborhood Market,1900-01-01,2016-01-28
 474,TX,Edna,1002 N Wells,Walmart,1982-11-02,2018-01-01
 926,TX,Falfurrias,US-281 South,Walmart,,2015-01-01
-5986,TX,Frisco,4268 Legacy Drive,Neighborhood Market,,2016-01-17
-597,TX,Houston,7075 FM 1960 Rd W,Walmart Supercenter,1984-09-18,2016-01-17
-1050,TX,Lamesa,2406 Lubbock Hwy,Walmart,1987-01-13,2016-01-17
+5986,TX,Frisco,4268 Legacy Drive,Neighborhood Market,1900-01-01,2016-01-17
+597,TX,Houston,7075 FM 1960 Rd W,Walmart Supercenter,1984-09-18,2016-01-28
+3451,TX,Houston,2740 Gessner Rd.,Neighborhood Market,1900-01-01,2016-01-28
+1050,TX,Lamesa,2406 Lubbock Hwy,Walmart,1987-01-13,2016-10-01
 883,TX,Raymondville,14091 FM 490,Walmart Supercenter,1986-02-04,2016-01-28
 883,TX,San Antonio,3847 Pleasanton Rd.,Neighborhood Market,2016-05-11,2018-10-12
+5985,TX,Soutlake,2201 West Southlake Blvd.,Neighborhood Market,1900-01-01,2016-01-28
 8855,UT,Millcreek,3701 S Highland Dr.,Walmart Pickup,2017-07-19,2022-01-01
 8862,UT,Murray,5596 S Van Winkle Expy.,Walmart Pickup,2017-06-07,2022-01-01
 650,VA,Big Stone Gap,1959 Neeley Rd,Walmart,1984-09-18,2019-01-01
 5939,WA,Bellevue,12620 SE 41st Pl.,Walmart,2012-10-17,2022-04-22
-3811,WV,Kimball,61 Plaza Drive,Walmart Supercenter,2015-10-26,2016-01-17
-3496,WI,Milwaukee,5825 W Hope Ave,Walmart,2002-08-14,2016-01-17
+3811,WV,Kimball,61 Plaza Drive,Walmart Supercenter,2015-10-26,2016-01-28
+3031,WI,Menomonee Falls,N88W15559 Main St.,Neighborhood Market,1900-01-01,2016-01-28
+3496,WI,Milwaukee,5825 W Hope Ave,Walmart,2002-08-14,2016-01-28
+5698,WI,Waukesha,S14W22605 Coral Drive,Neighborhood Market,1900-01-01,2016-01-28
+3030,WI,Wauwatosa,3850 N 124th St.,Neighborhood Market,1900-01-01,2016-01-28
