@@ -3305,9 +3305,9 @@ Woodward - 3215 Williams Ave. - Walmart Supercenter (store #150, opened October 
 Yukon - 1001 E Main Street - Neighborhood Market (store #3637, opened January 31, 2015)
 Yukon - 1200 Garth Brooks Blvd. - Walmart Supercenter (store #221, opened October 31, 1978)
 !Oregon
-Albany - 1330 Goldfish Farm Rd. SE - Supercenter (store #5396, opened January 25, 2012)
+Albany - 1330 Goldfish Farm Rd. SE - Walmart Supercenter (store #5396, opened January 25, 2012)
 Beaverton - 9055 SW Murray Blvd. - Neighborhood Market (store #3050, opened March 7, 2014)
-Beaverton - 17275 NW Cornell Rd. - Neighborhood Marker (store #5993, opened May 30, 2012)
+Beaverton - 17275 NW Cornell Rd. - Neighborhood Market (store #5993, opened May 30, 2012)
 Bend - 20120 Pinebrook Blvd. - Walmart Supercenter (store #2075, opened October 26, 1994)
 Coos Bay - 2051 Newmark Ave. - Walmart Supercenter (store #1880, opened January 5, 1993)
 Cornelius - 220 N Adair St. - Walmart Supercenter (store #4221, opened August 18, 2010)
