@@ -654,7 +654,7 @@ Yreka - 1906 Fort Jones Rd. - Walmart Supercenter (store #1630, opened February 
 Yuba City - 1150 Harter Rd. - Walmart Supercenter (store #1903, opened January 5, 1993)
 Yucca Valley - 58501 29 Palms Hwy. - Walmart Supercenter (store #1915, opened February 2, 1993)
 !Colorado
-Anamosa - 3333 Clark St. - Walmart Supercenter (store #869, opened January 21, 1986)
+Alamosa - 3333 Clark St. - Walmart Supercenter (store #869, opened January 21, 1986)
 Arvada - 9400 Ralston Rd. - Walmart Supercenter (store #4734, opened August 9, 2017)
 Aurora - 21475 E Quincy Ave. - Neighborhood Market (store #3740, opened November 11, 2015)
 Aurora - 15240 E Iliff Avenue - Neighborhood Market (store #4196, opened November 6, 2013)
