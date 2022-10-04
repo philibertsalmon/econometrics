@@ -94,7 +94,7 @@ for state in by_states:
     for line in lines[1:]:
         if line != '':
             splitted_line = line.split(' - ')
-
+            print(line)
             data_line = [state_name, splitted_line[0], splitted_line[1]] # State, town, street
             data_line.append(splitted_line[2].split(' (')[0]) # Category
             
