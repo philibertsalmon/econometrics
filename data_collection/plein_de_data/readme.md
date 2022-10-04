@@ -1,5 +1,10 @@
 ## README : sources des données en vrac
 
+database us cities with GPS coordinates :
+access at : https://simplemaps.com/data/us-cities
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 Quelqu'un se pose la même question que nous (réponse : walmart_opening_1962_2006.csv, puis état des lieux (localisation de tous les magasins us) en 2017 - cf source suivante)
 accès depuis : https://opendata.stackexchange.com/questions/13475/historical-walmart-stores-data-set
 
