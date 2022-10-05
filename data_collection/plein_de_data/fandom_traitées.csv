@@ -1224,7 +1224,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 5814,GA,Holly Springs,2200 Holly Springs Parkway,Walmart Supercenter,2014-06-04,
 5786,GA,Jasper,1100 Old Philadelphia Rd.,Walmart Supercenter,2010-08-18,
 2630,GA,Jesup,1100 N 1st St.,Walmart Supercenter,1998-09-16,
-2988,GA,La Fayette,2625 North Hwy. 27,Walmart Supercenter,2000-10-11,
+2988,GA,LaFayette,2625 North Hwy. 27,Walmart Supercenter,2000-10-11,
 2773,GA,LaGrange,955 Lafayette Parkway,Neighborhood Market,2015-01-21,
 614,GA,LaGrange,803 New Franklin Rd.,Walmart Supercenter,1984-05-22,
 3074,GA,Lawrenceville,3059 Lawrenceville Hwy.,Neighborhood Market,2012-06-20,
@@ -1266,7 +1266,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 658,GA,Rome,2510 Redmond Cir. NW,Walmart Supercenter,1981-07-04,
 5151,GA,Rome,825 Cartersville Hwy. SE,Walmart Supercenter,2004-04-14,
 1578,GA,Roswell,970 Mansell Rd.,Walmart Supercenter,1990-09-04,
-836,GA,Saint Marys,6586 GA Highway 40 E,Walmart Supercenter,1985-07-30,
+836,GA,St. Marys,6586 GA Highway 40 E,Walmart Supercenter,1985-07-30,
 1143,GA,Sandersville,1308 S Harris St.,Walmart Supercenter,1988-04-12,
 6592,GA,Savannah,251 Robert B. Miller Rd.,Clinic Pharmacy,2014-01-08,
 4530,GA,Savannah,10530 Abercorn St.,Neighborhood Market,2016-01-13,
@@ -1315,10 +1315,10 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3149,HI,Honolulu,1032 Fort Street Mall,Walmart,2014-07-09,
 3478,HI,Honolulu,700 Keeaumoku St.,Walmart,2004-10-13,
 3290,HI,Kahului,101 Pakaula St.,Walmart,2001-10-31,
-2321,HI,Kailua Kona,75-1015 Henry St.,Walmart,1995-08-03,
+2321,HI,Kailua,75-1015 Henry St. (Kailua-Kona),Walmart,1995-08-03,
 3883,HI,Kapolei,91-600 Farrington Hwy.,Walmart,2012-03-28,
 2308,HI,Lihue,3-3300 Kuhio Hwy.,Walmart,1995-08-01,
-2126,HI,Mililani,95-550 Lanikuhana Ave.,Walmart,1994-08-02,
+2126,HI,Mililani Town,95-550 Lanikuhana Ave.,Walmart,1994-08-02,
 5274,HI,Pearl City,1131 Kuala St.,Walmart,2006-01-31,
 2314,HI,Waipahu,94-595 Kupuohi,Walmart,1995-08-02,
 1902,ID,Ammon,1201 S 25th E,Walmart Supercenter,1993-01-05,
@@ -1450,7 +1450,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3725,IL,Niles,8500 W Golf Rd.,Walmart Supercenter,2006-10-18,
 1125,IL,Normal,300 Greenbriar Dr.,Walmart Supercenter,1987-11-17,
 1933,IL,Northlake,137 W North Ave,Walmart,1993-07-27,
-1418,IL,O Fallon,1530 W Hwy. 50,Walmart Supercenter,1990-01-31,
+1418,IL,O'Fallon,1530 W Hwy. 50,Walmart Supercenter,1990-01-31,
 254,IL,Olney,1001 North West St.,Walmart Supercenter,1979-11-13,
 4049,IL,Olympia Fields,21000 Western Ave.,Walmart Supercenter,2016-09-14,
 1556,IL,Orland Hills,9265 159th St,Walmart Supercenter,1991-10-01,
@@ -1480,7 +1480,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 4531,IL,Romeoville,420 Weber Rd.,Walmart Supercenter,2008-01-23,
 3837,IL,Roscoe,4781 E Rockton Rd.,Walmart Supercenter,2007-03-14,
 1228,IL,Round Lake Beach,2680 N IL Route 83,Walmart Supercenter,1988-12-31,
-1898,IL,Saint Charles,150 Smith Rd,Walmart Supercenter,1993-03-02,
+1898,IL,St. Charles,150 Smith Rd,Walmart Supercenter,1993-03-02,
 198,IL,Salem,1870 W Main St.,Walmart Supercenter,1977-07-01,
 3255,IL,Savoy,505 S Dunlap Ave.,Walmart Supercenter,2001-08-15,
 4259,IL,Shelbyville,2607 W Main St.,Walmart Supercenter,2007-01-22,
@@ -1777,7 +1777,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1510,KY,Florence,7625 Doering Dr.,Walmart Supercenter,1990-09-04,
 720,KY,Frankfort,301 Leonardwood Rd.,Walmart Supercenter,1981-07-04,
 282,KY,Franklin,1550 Nashville Rd.,Walmart Supercenter,1980-09-30,
-2967,KY,Ft. Wright,3450 Valley Plaza Pkwy.,Walmart Supercenter,2004-09-15,
+2967,KY,Fort Wright,3450 Valley Plaza Pkwy.,Walmart Supercenter,2004-09-15,
 106,KY,Fulton,1405 Middle Rd.,Walmart Supercenter,1974-08-01,
 7259,KY,Georgetown,1001 Cherry Blossom Way Gate 7,Clinic Pharmacy,2013-12-09,
 571,KY,Georgetown,112 Osbourne Way,Walmart Supercenter,1984-04-03,
@@ -1814,7 +1814,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 545,KY,Manchester,240 Manchester Square Shopping Center,Walmart,1983-11-15,
 430,KY,Mayfield,1225 Paris Rd.,Walmart Supercenter,1981-09-01,
 1569,KY,Maysville,240 Wal Mart Way,Walmart Supercenter,1991-01-30,
-739,KY,Middlesboro,US Hwy. 441 Hwy. 25E,Walmart Supercenter,1981-07-04,
+739,KY,Middlesborough,US Hwy. 441 Hwy. 25E,Walmart Supercenter,1981-07-04,
 4450,KY,Middletown,12981 Shelbyville Rd.,Walmart Supercenter,2007-07-18,
 1234,KY,Monticello,175 Walmart Plaza Dr.,Walmart Supercenter,1988-10-11,
 1139,KY,Morehead,200 Walmart Way,Walmart Supercenter,1988-02-02,
@@ -1836,7 +1836,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1165,KY,Radcliff,1165 Walmart Way,Walmart Supercenter,1988-09-01,
 719,KY,Richmond,820 Eastern Byp.,Walmart Supercenter,1981-07-04,
 736,KY,Russellville,120 Sam Walton Dr.,Walmart Supercenter,1981-07-04,
-5297,KY,Saint Matthews,143 Thierman Ln.,Neighborhood Market,2004-08-11,
+5297,KY,St. Matthews,143 Thierman Ln.,Neighborhood Market,2004-08-11,
 497,KY,Shelbyville,500 Taylorsville Rd.,Walmart Supercenter,1983-03-01,
 4118,KY,Shepherdsville,545 Conestoga Parkway Lot 1,Walmart Supercenter,2015-03-25,
 689,KY,Somerset,177 Washington Dr.,Walmart Supercenter,1981-07-04,
@@ -1850,7 +1850,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3727,LA,Alexandria,812 Belleau Wood,Neighborhood Market,2015-01-07,
 539,LA,Alexandria,2050 N Mall Dr.,Walmart Supercenter,1983-05-19,
 4295,LA,Alexandria,6225 Coliseum Blvd.,Walmart Supercenter,2008-05-21,
-3616,LA,Amite,1200 W Oak St.,Walmart Supercenter,2006-07-19,
+3616,LA,Amite City,1200 W Oak St.,Walmart Supercenter,2006-07-19,
 1102,LA,Baker,14507 Plank Rd.,Walmart Supercenter,1987-12-31,
 98,LA,Bastrop,6091 Mer Rouge Rd.,Walmart Supercenter,1975-02-01,
 4659,LA,Baton Rouge,5255 Highland Rd.,Neighborhood Market,2007-10-03,
@@ -1900,7 +1900,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 149,LA,Jonesboro,184 Old Winnfield Rd.,Walmart Supercenter,1977-03-01,
 3703,LA,Kenner,3520 Williams Blvd.,Neighborhood Market,2006-04-12,
 1342,LA,Kenner,300 W Esplanade Ave.,Walmart Supercenter,1989-06-01,
-961,LA,La Place,1616 W Airline Hwy.,Walmart Supercenter,1987-02-03,
+961,LA,Laplace,1616 W Airline Hwy.,Walmart Supercenter,1987-02-03,
 531,LA,Lafayette,3142 Ambassador Caffery Pkwy.,Walmart Supercenter,1985-03-05,
 2938,LA,Lafayette,2428 W Pinhook Rd.,Walmart Supercenter,2000-09-20,
 6583,LA,Lake Charles,2011 Ryan St.,Neighborhood Market,2016-01-20,
@@ -2414,7 +2414,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 17,MO,Neosho,3200 Lusk Dr.,Walmart Supercenter,1969-05-01,
 34,MO,Nevada,2250 Lincoln Ave.,Walmart Supercenter,1971-11-01,
 2702,MO,Nixa,1102 N Massey Blvd.,Walmart Supercenter,1999-01-27,
-2616,MO,O Fallon,1307 Highway K,Walmart Supercenter,1998-01-26,
+2616,MO,O'Fallon,1307 Highway K,Walmart Supercenter,1998-01-26,
 2856,MO,Oak Grove,201 SE Salem St.,Walmart Supercenter,2000-01-26,
 815,MO,Osage Beach,4252 Hwy. 54,Walmart Supercenter,1985-08-30,
 354,MO,Owensville,1888 Highway 28,Walmart Supercenter,1981-06-30,
@@ -3370,7 +3370,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2236,PA,Harleysville,651 Main St.,Walmart,1996-06-26,
 1591,PA,Harrisburg,6535 Grayson Rd.,Walmart Supercenter,1991-11-05,
 2445,PA,Hatfield,1515 Bethlehem Pike,Walmart Supercenter,1996-05-29,
-2255,PA,Hazle Township,761 Airport Rd.,Walmart Supercenter,1995-03-15,
+2255,PA,Hazleton,761 Airport Rd.,Walmart Supercenter,1995-03-15,
 1568,PA,Hermitage,1275 N Hermitage Rd.,Walmart Supercenter,1991-11-05,
 2480,PA,Honesdale,723A Old Willow Ave.,Walmart Supercenter,1998-06-17,
 5470,PA,Huntingdon,6761 Towne Center Blvd.,Walmart Supercenter,2006-01-31,
@@ -3417,8 +3417,8 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2664,PA,Punxsutawney,21920 Route 119,Walmart Supercenter,2002-06-19,
 2446,PA,Quakertown,195 N West End Blvd.,Walmart Supercenter,1998-08-09,
 1777,PA,Reading,5900 Perkiomen Ave.,Walmart Supercenter,1992-06-02,
-2535,PA,Saint Clair,500 Terry Rich Blvd.,Walmart Supercenter,2001-04-18,
-1792,PA,Saint Marys,1102 Million Dollar Hwy.,Walmart Supercenter,1992-09-01,
+2535,PA,St. Clair,500 Terry Rich Blvd.,Walmart Supercenter,2001-04-18,
+1792,PA,St. Marys,1102 Million Dollar Hwy.,Walmart Supercenter,1992-09-01,
 2208,PA,Sayre,1887 Elmira St.,Walmart Supercenter,1994-10-26,
 2185,PA,Selinsgrove,980 N Susquehanna Trl.,Walmart Supercenter,1995-01-31,
 5358,PA,Shippensburg,100 S Conestoga Dr.,Walmart Supercenter,2004-10-27,
@@ -3443,7 +3443,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 4501,PA,West Brownsville,134 Daniel Kendall Dr.,Walmart Supercenter,2013-02-01,
 2281,PA,West Mifflin,2351 Century Dr.,Walmart Supercenter,1995-01-31,
 2145,PA,Whitehall,2601 MacArthur Rd. Relocation,Walmart Supercenter,1995-01-31,
-1623,PA,Wilkes Barre,2150 Wilkes Barre Township Marketplace,Walmart Supercenter,1992-02-04,
+1623,PA,Wilkes-Barre,2150 Wilkes Barre Township Marketplace,Walmart Supercenter,1992-02-04,
 3564,PA,Willow Grove,2101 Blair Mill Rd,Walmart Supercenter,2002-05-15,
 5229,PA,Wyncote,1000 Easton Rd. Ste. 200,Walmart,2004-01-28,
 1670,PA,Wyomissing,1135 Berkshire Blvd.,Walmart,1991-09-11,
@@ -3493,7 +3493,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2703,SC,Florence,2014 S Irby St.,Walmart Supercenter,1999-01-27,
 3359,SC,Fort Mill,500 N Dobys Bridge Rd.,Neighborhood Market,2016-04-13,
 638,SC,Gaffney,165 Walton Dr.,Walmart Supercenter,1981-07-04,
-5705,SC,Garden City Beach,545 Garden City Connector,Walmart Supercenter,2010-10-13,
+5705,SC,Garden City,545 Garden City Connector,Walmart Supercenter,2010-10-13,
 625,SC,Georgetown,1310 N Fraser St.,Walmart Supercenter,1981-07-04,
 3646,SC,Goose Creek,1635 Red Bank Rd.,Neighborhood Market,2015-06-03,
 3899,SC,Goose Creek,215 St. James Avenue,Neighborhood Market,2015-06-24,
@@ -3518,7 +3518,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 5745,SC,Lake Wylie,175 Highway 274,Walmart Supercenter,2010-09-15,
 1030,SC,Lancaster,805 Hwy 9 Bypass West,Walmart Supercenter,1987-03-03,
 1130,SC,Laurens,922 E Main St.,Walmart Supercenter,1988-02-02,
-4420,SC,Leesville,115 E Church St.,Walmart Supercenter,2007-05-09,
+4420,SC,Batesburg-Leesville,115 E Church St.,Walmart Supercenter,2007-05-09,
 881,SC,Lexington,5556 Sunset Blvd.,Walmart Supercenter,1985-11-12,
 4521,SC,Lexington,1780 S Lake Dr.,Walmart Supercenter,2007-09-19,
 1017,SC,Manning,2010 Paxville Hwy.,Walmart Supercenter,1987-03-03,
@@ -3584,7 +3584,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1483,SD,Yankton,3001 Broadway Ave.,Walmart Supercenter,1990-08-01,
 672,TN,Alcoa,1030 Hunters Crossing,Walmart Supercenter,1981-07-04,
 5175,TN,Algood,589 W Main St.,Walmart Supercenter,2004-01-21,
-5058,TN,Antioch,3035 Hamilton Church Rd.,Walmart Supercenter,2003-10-29,
+5058,TN,Nashville,3035 Hamilton Church Rd.,Walmart Supercenter,2003-10-29,
 1226,TN,Ashland City,1626 Highway 12 S,Walmart Supercenter,1988-11-17,
 663,TN,Athens,1815 Decatur Pike,Walmart Supercenter,1981-07-04,
 3599,TN,Bartlett,6520 Memphis Arlington Rd.,Neighborhood Market,2002-10-09,
@@ -3612,7 +3612,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 175,TN,Collierville,560 W Poplar Ave.,Walmart Supercenter,1977-11-01,
 192,TN,Columbia,2200 Brookmeade Dr.,Walmart Supercenter,1981-09-15,
 657,TN,Cookeville,768 S Jefferson Ave.,Walmart Supercenter,1981-07-04,
-2322,TN,Cordova,577 N Germantown Pkwy.,Walmart Supercenter,1995-07-25,
+2322,TN,Memphis,577 N Germantown Pkwy.,Walmart Supercenter,1995-07-25,
 93,TN,Covington,201 Lanny Bridges Ave.,Walmart Supercenter,1974-10-01,
 687,TN,Crossville,168 Obed Plaza Ste. 108,Walmart Supercenter,1981-07-04,
 619,TN,Dayton,3034 Rhea County Hwy.,Walmart Supercenter,1984-10-16,
@@ -3627,9 +3627,9 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 674,TN,Gallatin,1112 Nashville Pike,Walmart Supercenter,1981-08-12,
 680,TN,Greeneville,3755 E Andrew Jackson Hwy.,Walmart Supercenter,1981-07-04,
 1376,TN,Hendersonville,204 North Anderson Lane,Walmart Supercenter,1990-01-31,
-710,TN,Hermitage,4424 Lebanon Pike,Walmart Supercenter,1981-07-04,
-5188,TN,Hixson,7636 Middle Valley Rd.,Neighborhood Market,2016-01-13,
-1606,TN,Hixson,5764 Highway 153,Walmart Supercenter,1990-11-14,
+710,TN,Nashville,4424 Lebanon Pike,Walmart Supercenter,1981-07-04,
+5188,TN,Chattanooga,7636 Middle Valley Rd.,Neighborhood Market,2016-01-13,
+1606,TN,Chattanooga,5764 Highway 153,Walmart Supercenter,1990-11-14,
 1115,TN,Hohenwald,612 E Main St.,Walmart Supercenter,1987-11-03,
 120,TN,Humboldt,2716 N Central Ave.,Walmart Supercenter,1976-03-01,
 161,TN,Huntingdon,180 Veterans Dr. N,Walmart Supercenter,1977-05-01,
@@ -3658,8 +3658,8 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 741,TN,Lenoir City,911 Highway 321 N,Walmart Supercenter,1981-07-04,
 737,TN,Lewisburg,1334 North Ellington Pkwy.,Walmart Supercenter,1981-07-04,
 684,TN,Lexington,547 W Church St.,Walmart Supercenter,1981-07-04,
-5107,TN,Madison,109 Gallatin Pike N,Neighborhood Market,2005-08-31,
-695,TN,Madison,2232 Gallatin Pike,Walmart Supercenter,1981-07-04,
+5107,TN,Nashville,109 Gallatin Pike N,Neighborhood Market,2005-08-31,
+695,TN,Nashville,2232 Gallatin Pike,Walmart Supercenter,1981-07-04,
 366,TN,Madisonville,4525 Highway 411,Walmart Supercenter,1983-02-01,
 308,TN,Manchester,2518 Hillsboro Blvd.,Walmart Supercenter,1981-02-10,
 107,TN,Martin,134 Courtright Rd.,Walmart Supercenter,1974-10-01,
@@ -3707,7 +3707,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 656,TN,Shelbyville,1880 N Main St.,Walmart Supercenter,1981-07-04,
 4414,TN,Smithville,515 W Broad St.,Walmart Supercenter,2007-01-22,
 406,TN,Smyrna,570 Enon Springs Rd. E,Walmart Supercenter,1981-11-03,
-477,TN,Soddy Daisy,9334 Dayton Pike,Walmart Supercenter,1982-11-16,
+477,TN,Soddy-Daisy,9334 Dayton Pike,Walmart Supercenter,1982-11-16,
 587,TN,Sparta,202 Sam Walton Dr.,Walmart Supercenter,1984-05-22,
 3017,TN,Spring Hill,4959 Main St.,Walmart Supercenter,2013-10-16,
 304,TN,Springfield,3360 Tom Austin Hwy.,Walmart Supercenter,1979-10-23,
@@ -3805,7 +3805,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 249,TX,Cleveland,831 Highway 59 S,Walmart Supercenter,1979-03-06,
 1150,TX,College Station,1815 Brothers Blvd.,Walmart Supercenter,1988-05-03,
 5614,TX,Colleyville,4904 Colleyville Blvd.,Neighborhood Market,2012-11-02,
-426,TX,Colony,4691 State Highway 121,Walmart Supercenter,1982-11-30,
+426,TX,The Colony,4691 State Highway 121,Walmart Supercenter,1982-11-30,
 503,TX,Columbus,2103 Milam St.,Walmart,1983-08-02,
 240,TX,Commerce,2701 State Highway 50,Walmart Supercenter,1979-07-19,
 400,TX,Conroe,1407 N Loop 336 W,Walmart Supercenter,1983-10-18,
@@ -3825,9 +3825,9 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 245,TX,Crowley,1301 E FM 1187,Convenience with Fuel,2017-01-18,
 3631,TX,Crowley,1221 FM 1187,Walmart Supercenter,2012-03-14,
 385,TX,Cuero,1202 E Broadway St.,Walmart,1981-07-28,
-4465,TX,Cypress,11425 Barker Cypress Road,Neighborhood Market,2016-03-02,
-7357,TX,Cypress,8208 Barker Cypress Rd.,Neighborhood Market,2015-01-21,
-5091,TX,Cypress,26270 Northwest Fwy.,Walmart Supercenter,2004-05-19,
+4465,TX,Houston,11425 Barker Cypress Road,Neighborhood Market,2016-03-02,
+7357,TX,Houston,8208 Barker Cypress Rd.,Neighborhood Market,2015-01-21,
+5091,TX,Houston,26270 Northwest Fwy.,Walmart Supercenter,2004-05-19,
 3015,TX,Dallas,2827 S Buckner Blvd.,Neighborhood Market,2013-08-14,
 3341,TX,Dallas,2305 N Central Expy.,Neighborhood Market,2005-01-19,
 5021,TX,Dallas,2275 Gus Thomasson Rd.,Neighborhood Market,2003-01-15,
@@ -3996,7 +3996,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 407,TX,Killeen,1400 Lowes Blvd.,Walmart Supercenter,1981-12-01,
 6286,TX,Killeen,3404 West Stan Schlueter Loop,Walmart Supercenter,2015-04-22,
 442,TX,Kingsville,1133 General Cavazos Blvd.,Walmart Supercenter,1982-04-20,
-3579,TX,Kingwood,2165 Northpark Dr.,Neighborhood Market,2002-08-07,
+3579,TX,Houston,2165 Northpark Dr.,Neighborhood Market,2002-08-07,
 4130,TX,Kyle,5754 Kyle Parkway,Walmart Supercenter,2015-03-25,
 846,TX,La Grange,1915 W State Hwy. 71,Walmart Supercenter,1985-10-15,
 529,TX,La Marque,6410 Interstate 45,Walmart Supercenter,1983-07-01,
@@ -4230,7 +4230,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 414,TX,Wichita Falls,5131 Greenbriar Rd.,Walmart Supercenter,1982-06-29,
 420,TX,Wichita Falls,2700 Central Fwy.,Walmart Supercenter,1982-05-31,
 1148,TX,Wichita Falls,3130 Lawrence Rd.,Walmart Supercenter,1988-11-01,
-3390,TX,Woodlands,10001 Woodlands Pkwy.,Walmart Supercenter,2006-05-17,
+3390,TX,The Woodlands,10001 Woodlands Pkwy.,Walmart Supercenter,2006-05-17,
 288,TX,Woodville,115 Cobb Mill Rd.,Walmart Supercenter,1979-10-30,
 6078,TX,Wylie,1400 McCreary Road,Neighborhood Market,2015-01-21,
 5210,TX,Wylie,2050 N Highway 78,Walmart Supercenter,2004-08-25,
@@ -4242,7 +4242,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 5110,UT,Draper,1360 Draper Pkwy.,Neighborhood Market,2003-08-06,
 2794,UT,Ephraim,777 N Main St.,Walmart Supercenter,2000-08-16,
 2921,UT,Harrisville,534 N Harrisville Rd.,Walmart Supercenter,2001-02-28,
-4696,UT,Heber City,1274 S US 189,Walmart Supercenter,2011-08-17,
+4696,UT,Heber,1274 S US 189,Walmart Supercenter,2011-08-17,
 7168,UT,Herriman,5056 W 13400 S,Neighborhood Market,2015-01-28,
 4678,UT,Hurricane,180 N 3400 W,Walmart Supercenter,2009-03-18,
 5205,UT,Layton,1356 E Highway 193,Neighborhood Market,2004-03-03,
@@ -4285,11 +4285,11 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 5109,UT,West Valley City,4570 S 4000 W,Neighborhood Market,2003-01-15,
 3568,UT,West Valley City,3180 S 5600 W,Walmart Supercenter,2002-10-16,
 5233,UT,West Valley City,5675 W 6200 S,Walmart Supercenter,2004-07-21,
-2289,VT,Bennington,210 Northside Dr.,Walmart Supercenter,1995-09-19,
+2289,VT,Old Bennington,210 Northside Dr.,Walmart Supercenter,1995-09-19,
 2682,VT,Berlin,282 Berlin Mall Rd.,Walmart Supercenter,1999-01-27,
-4156,VT,Derby,115 Seymour Drive,Walmart Supercenter,2016-11-16,
+4156,VT,Newport,115 Seymour Drive,Walmart Supercenter,2016-11-16,
 2530,VT,Rutland,1 Rutland Shopping Plaza,Walmart,1997-01-29,
-2332,VT,Saint Albans,700 Tuckers Way,Walmart,2013-10-16,
+2332,VT,St. Albans,700 Tuckers Way,Walmart,2013-10-16,
 2224,VT,Williston,863 Harvest Ln.,Walmart,1997-01-29,
 154,VA,Abingdon,16032 Fifteen Mile Boulevard,Walmart Supercenter,2016-11-16,
 2194,VA,Alexandria,5885 Kingstowne Blvd.,Walmart,1995-11-01,
@@ -4344,7 +4344,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1726,VA,Harrisonburg,171 Burgess Road,Walmart Supercenter,1991-11-05,
 2807,VA,Harrisonburg,2160 John Wayland Hwy.,Walmart Supercenter,2000-01-26,
 3077,VA,Haymarket,6530 Trading Sq.,Walmart Supercenter,2012-09-12,
-7032,VA,Henrico,5001 Nine Mile Rd.,Walmart Supercenter,2017-07-19,
+7032,VA,Richmond,5001 Nine Mile Rd.,Walmart Supercenter,2017-07-19,
 3772,VA,Jonesville,468 Trade Center Ln.,Walmart Supercenter,2006-08-16,
 4350,VA,Kilmarnock,200 Old Fairgrounds Way,Walmart Supercenter,2007-10-24,
 5779,VA,King George,16375 Merchant Ln.,Walmart Supercenter,2011-08-17,
@@ -4390,17 +4390,17 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1301,VA,Roanoke,5350 Clearbrook Village Ln.,Walmart Supercenter,1989-06-29,
 2312,VA,Roanoke,4807 Valley View Blvd. NW,Walmart Supercenter,1996-01-24,
 3243,VA,Roanoke,4524 Challenger Ave.,Walmart Supercenter,2002-09-18,
-7177,VA,Rockingham,1942 Port Republic Road,Neighborhood Market,2016-06-15,
+7177,VA,Harrisonburg,1942 Port Republic Road,Neighborhood Market,2016-06-15,
 2337,VA,Rocky Mount,550 Old Franklin Tpke.,Walmart Supercenter,1996-07-17,
 4638,VA,Ruckersville,135 Stoneridge Dr.,Walmart Supercenter,2010-08-18,
 1309,VA,Salem,1851 W Main St.,Walmart Supercenter,1989-06-01,
 1345,VA,South Boston,3471 Old Halifax Rd.,Walmart Supercenter,1989-10-02,
 1934,VA,South Hill,315 Furr St.,Walmart Supercenter,1993-02-02,
-6936,VA,Stafford,14 N Stafford Complex Center,Neighborhood Market,2017-06-28,
-2438,VA,Stafford,217 Garrisonville Rd.,Walmart Supercenter,1995-12-28,
+6936,VA,Stafford Courthouse,14 N Stafford Complex Center,Neighborhood Market,2017-06-28,
+2438,VA,Stafford Courthouse,217 Garrisonville Rd.,Walmart Supercenter,1995-12-28,
 1344,VA,Staunton,1028 Richmond Avenue Connector,Walmart Supercenter,1989-12-30,
 2038,VA,Sterling,45415 Dulles Crossing Plaza,Walmart Supercenter,1994-01-25,
-3770,VA,Stewart,19265 Jeb Stuart Hwy.,Walmart Supercenter,2006-04-19,
+3770,VA,Stuart,19265 Jeb Stuart Hwy.,Walmart Supercenter,2006-04-19,
 1687,VA,Suffolk,1200 N Main St.,Walmart Supercenter,1991-10-01,
 3214,VA,Suffolk,6259 College Dr.,Walmart Supercenter,2001-01-24,
 1730,VA,Tappahannock,1660 Tappahannock Blvd.,Walmart Supercenter,1991-11-05,
@@ -4450,7 +4450,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3537,WA,Lakewood,7001 Bridgeport Way W,Walmart Supercenter,2007-01-22,
 2469,WA,Longview,540 7th Ave.,Walmart Supercenter,1996-04-02,
 5853,WA,Longview,3715 Ocean Beach Hwy. 2,Walmart Supercenter,2011-10-26,
-5678,WA,Lynwood,17222 Highway 99,Neighborhood Market,2012-10-17,
+5678,WA,Lynnwood,17222 Highway 99,Neighborhood Market,2012-10-17,
 2594,WA,Lynnwood,1400 164th St. SW,Walmart,1999-10-27,
 2595,WA,Marysville,8924 Quilceda Blvd.,Walmart Supercenter,2001-04-18,
 3801,WA,Marysville,8713 64th St NE,Walmart Supercenter,2013-09-18,
@@ -4547,7 +4547,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3247,WI,Delavan,1819 E Geneva St.,Walmart Supercenter,2003-01-22,
 847,WI,Dodgeville,601 E Leffler St.,Walmart Supercenter,1985-09-17,
 1669,WI,Eau Claire,3915 Gateway Dr.,Walmart Supercenter,1991-07-31,
-1643,WI,Fon du Lac,377 N Rolling Meadows Dr.,Walmart Supercenter,1991-09-11,
+1643,WI,Fond du Lac,377 N Rolling Meadows Dr.,Walmart Supercenter,1991-09-11,
 1551,WI,Franklin,6701 S 27th St.,Walmart Supercenter,1991-01-30,
 1515,WI,Germantown,W190N9855 Appleton Ave.,Walmart Supercenter,1990-10-01,
 1453,WI,Green Bay,2440 W Mason St,Walmart Supercenter,1990-01-31,
@@ -4596,7 +4596,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1446,WI,Rice Lake,2501 West Ave,Walmart Supercenter,1990-08-01,
 1007,WI,Richland Center,2401 US Hwy. 14 E,Walmart Supercenter,1987-02-03,
 1931,WI,Rhinelander,2121 Lincoln St,Walmart Supercenter,1992-11-02,
-2421,WI,Saint Croix Falls,2212 Glacier Dr.,Walmart Supercenter,1995-07-25,
+2421,WI,St. Croix Falls,2212 Glacier Dr.,Walmart Supercenter,1995-07-25,
 1650,WI,Saukville,825 E Green Bay Ave.,Walmart Supercenter,1991-01-30,
 2271,WI,Shawano,1244 E Green Bay St,Walmart Supercenter,1995-01-03,
 1276,WI,Sheboygan,3711 S Taylor Dr.,Walmart Supercenter,1989-08-01,
@@ -4707,7 +4707,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1818,IL,Aurora,2131 Galena Blvd,Walmart,,2016-10-28
 3065,IL,Chicago,3636 N Broadway St,Neighborhood Market,,2016-01-17
 3039,IL,Chicago,225 W Chicago Ave,Neighborhood Market,,2016-01-17
-487,IL,Cinton,10 Clinton Plaza,Walmart,1983-03-01,2018-07-20
+487,IL,Clinton,10 Clinton Plaza,Walmart,1983-03-01,2018-07-20
 6167,IL,Des Plaines,727 W Golf Rd.,Neighborhood Market,2014-08-20,2021-08-06
 460,IL,Pana,10 W 2nd,Walmart,1983-11-29,2018-10-12
 5406,IN,Indianapolis,8010 E. 38th St.,Neighborhood Market,,2019-07-12
@@ -4734,7 +4734,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3815,LA,Iowa,501 W Hwy 90,Neighborhood Market,,2016-01-28
 3849,LA,Kentwood,920 Avenue G,Neighborhood Market,,2016-01-28
 534,LA,Lafayette,1229 NE. Evangeline Trwy,Walmart Supercenter,1983-05-17,2019-01-01
-3753,LA,Lake Aurthur,620 N Hwy 26,Neighborhood Market,,2016-01-28
+3753,LA,Lake Arthur,620 N Hwy 26,Neighborhood Market,,2016-01-28
 3755,LA,Mamou,1445 Old Hwy 13,Neighborhood Market,,2016-01-28
 3879,LA,Zwolle,1495 Obrie St,Neighborhood Market,,2016-01-28
 3507,MD,Baltimore,2701 Port Covington Dr,Walmart,2002-04-17,2016-01-17
@@ -4823,11 +4823,11 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1092,TX,Brownfield,1405 Tahoka Rd,Walmart,1987-11-03,2017-01-31
 5493,TX,Brownsville,7480 Padre Island Hwy,Walmart Supercenter,1900-01-01,2016-01-28
 4126,TX,Bryan,1901 S. Texas Ave.,Neighborhood Market,1900-01-01,2016-01-28
-3506,TX,Cypress,12742 N Eldridge Pkwy,Neighborhood Market,1900-01-01,2019-11-01
-949,TX,Dallas (Duncanville),3155 W Wheatland Rd,Walmart Supercenter,1986-09-02,2019-01-01
-3171,TX,Dallas (Greenville),2218 Greenville Ave.,Neighborhood Market,1900-01-01,2016-01-28
+3506,TX,Houston,12742 N Eldridge Pkwy,Neighborhood Market,1900-01-01,2019-11-01
+949,TX,Dallas,3155 W Wheatland Rd,Walmart Supercenter,1986-09-02,2019-01-01
+3171,TX,Dallas,2218 Greenville Ave.,Neighborhood Market,1900-01-01,2016-01-28
 5931,TX,Dallas,13739 N Central Expy,Walmart Supercenter,2013-01-01,2021-03-15
-4343,TX,Dekalb,12522 Fm 1840,Neighborhood Market,,2016-01-28
+4343,TX,De Kalb,12522 Fm 1840,Neighborhood Market,,2016-01-28
 4316,TX,Diana,1787 US Hwy 259 S,Neighborhood Market,,2016-01-28
 2363,TX,Edgewood,504 W Pine St.,Neighborhood Market,,2016-01-28
 474,TX,Edna,1002 N Wells,Walmart,1982-11-02,2018-01-01
@@ -4836,7 +4836,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 5986,TX,Frisco,4268 Legacy Drive,Neighborhood Market,1900-01-01,2016-01-17
 3820,TX,Godley,501 N Main,Neighborhood Market,,2016-01-28
 3822,TX,Grandview,416 N Third St.,Neighborhood Market,,2016-01-28
-2779,TX,Haskel,5 N 14th St.,Neighborhood Market,,2016-01-28
+2779,TX,Haskell,5 N 14th St.,Neighborhood Market,,2016-01-28
 597,TX,Houston,7075 FM 1960 Rd W,Walmart Supercenter,1984-09-18,2016-01-28
 3451,TX,Houston,2740 Gessner Rd.,Neighborhood Market,1900-01-01,2016-01-28
 4327,TX,Hughes Springs,870 Taylor St.,Neighborhood Market,,2016-01-28
@@ -4854,7 +4854,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 5324,TX,San Antonio,3847 Pleasanton Road,Neighborhood Market,2016-05-11,2022-01-01
 4670,TX,San Antonio,3418 E. Southcross Blvd,Neighborhood Market,2016-03-16,2018-10-15
 4661,TX,San Antonio,6938 Walzem Road,Neighborhood Market,1900-01-01,2018-10-15
-5985,TX,Soutlake,2201 West Southlake Blvd.,Neighborhood Market,1900-01-01,2016-01-28
+5985,TX,Southlake,2201 West Southlake Blvd.,Neighborhood Market,1900-01-01,2016-01-28
 4320,TX,Waskom,1005 Texas Avenue E,Neighborhood Market,,2016-01-28
 2364,TX,Whitewright,301 Hwy 69 S,Neighborhood Market,,2016-01-28
 2863,TX,Winters,1010 N Main St.,Neighborhood Market,,2016-01-28
