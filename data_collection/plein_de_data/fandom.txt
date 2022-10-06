@@ -2153,7 +2153,7 @@ Ionia - 152 W Sprague Rd. - Walmart Supercenter (store #5411, opened June 15, 20
 Iron Mountain - 1920 S Stephenson Ave - Walmart Supercenter (store #2434, opened December 28, 1995)
 Ironwood - 10305 Country Club Road - Walmart Supercenter (store #5444, opened March 7, 2008)
 Jackson - 1700 W Michigan Ave. - Walmart Supercenter (store #5160, opened July 21, 2004)
-Jonesboro - 701 Olds St. - Walmart Supercenter (store #1809, opened September 30, 1992)
+Jonesville - 701 Olds St. - Walmart Supercenter (store #1809, opened September 30, 1992)
 Kalamazoo - 6065 Gull Rd. - Walmart Supercenter (store #5064, opened March 19, 2003)
 Kalamazoo - 501 N 9th St. - Walmart Supercenter (store #5065, opened January 21, 2004)
 Lansing - 3225 Towne Centre Blvd. - Walmart (store #2867, opened August 25, 2004)
@@ -2168,7 +2168,7 @@ Monroe - 2150 N Telegraph Rd. - Walmart Supercenter (store #1790, opened Septemb
 Mount Pleasant - 4730 Encore Blvd. - Walmart Supercenter (store #1428, opened December 30, 1989)
 Muskegon - 1879 E Sherman Blvd. - Walmart Supercenter (store #2238, opened August 31, 1994)
 Muskegon - 3285 Henry St. - Walmart Supercenter (store #3876, opened July 19, 2006)
-New Hudson - 30729 Lyon Center Dr. E - Walmart Supercenter (store #5048, opened August 20, 2003)
+South Lyon - 30729 Lyon Center Dr. E (New Hudson) - Walmart Supercenter (store #5048, opened August 20, 2003)
 Niles - 2107 S 11th St. - Walmart Supercenter (store #2010, opened July 27, 1993)
 Novi - 26090 Ingersol Dr. - Walmart Supercenter (store #5893, opened August 15, 2012)
 Okemos - 5110 Times Square Pl. - Walmart (store #2866, opened July 16, 2003)
@@ -2181,11 +2181,11 @@ Rochester Hills - 2500 S Adams Rd. - Walmart Supercenter (store #2354, opened Ma
 Roseville - 28804 Gratiot Ave. - Walmart Supercenter (store #2959, opened July 18, 2001)
 Saginaw - 5825 Brockway Rd. - Walmart Supercenter (store #2644, opened January 27, 1999)
 Saginaw - 5650 Bay Rd. - Walmart Supercenter (store #5097, opened September 24, 2003)
-Saint Johns - 1165 Superior Dr. - Walmart Supercenter (store #1423, opened April 2, 1990)
+St. Johns - 1165 Superior Dr. - Walmart Supercenter (store #1423, opened April 2, 1990)
 Saline - 8777 Platt Rd. - Clinic Pharmacy (store #7260, opened April 10, 2017)
 Saline - 7000 E Michigan Ave. - Walmart Supercenter (store #5472, opened October 14, 2009)
 Sandusky - 655 W Sanilac Rd. - Walmart Supercenter (store #3632, opened August 24, 2005)
-Sault Sainte Marie - 3763 I-75 Business Spur - Walmart Supercenter (store #1936, opened November 2, 1992)
+Sault Ste. Marie - 3763 I-75 Business Spur - Walmart Supercenter (store #1936, opened November 2, 1992)
 Shelby Township - 51450 Shelby Pkwy. - Walmart Supercenter (store #3487, opened October 30, 2002)
 South Haven - 201 73rd St - Walmart Supercenter (store #1540, opened October 29, 1990)
 Southgate - 14900 Dix Toledo Rd. - Walmart Supercenter (store #5842, opened September 14, 2011)
@@ -2197,7 +2197,7 @@ Taylor - 7555 Telegraph Rd. - Walmart Supercenter (store #2912, opened January 2
 Three Rivers - 101 S Tolbert Dr. - Walmart Supercenter (store #3791, opened August 8, 2007)
 Traverse City - 2640 S Crossing Cir. - Walmart Supercenter (store #2338, opened January 29, 1997)
 Troy - 2001 W Maple Rd. - Walmart Supercenter (store #2873, opened January 24, 2001)
-Van Buren Twp. - 10563 Belleville Rd. - Walmart Supercenter (store #2872, opened January 24, 2001)
+Van Buren Township - 10563 Belleville Rd. - Walmart Supercenter (store #2872, opened January 24, 2001)
 Warren - 29176 Van Dyke Ave. - Walmart Supercenter (store #4424, opened March 5, 2014)
 West Branch - 2750 Cook Rd. - Walmart Supercenter (store #5159, opened January 21, 2004)
 White Lake - 9190 Highland Rd. - Walmart Supercenter (store #2700, opened August 18, 1999)
@@ -4840,7 +4840,7 @@ Owings Mills - 9750 Reistertown Road A - Walmart (store #2290, opened June 19, 2
 Hanover - 1775 Washington St - Walmart (store #5380, opened November 3, 2004, closed January 1, 2019)
 !Michigan
 Hartland - 10400 Highland Rd. Hartland Plaza - Walmart Supercenter (store #4584, opened January 1, 2009, closed January 28, 2016) replaced by Rural King
-Ysplanti - 2515 Ellsworth Rd - Walmart (store #1824, opened August 4, 1992, closed January 1, 2020)
+Ypsilanti - 2515 Ellsworth Rd - Walmart (store #1824, opened August 4, 1992, closed January 1, 2020)
 !Minnesota
 Blue Earth - 1210 Giant Dr - Walmart (store #983, opened February 3, 1987, closed October 3, 2017) Currently Bomgaar's
 Midway - 1450 University Avenue W - Walmart (store #5437, opened May 19, 2004, closed January 1, 2019) Currently At Home.
