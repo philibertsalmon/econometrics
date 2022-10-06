@@ -2131,7 +2131,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2434,MI,Iron Mountain,1920 S Stephenson Ave,Walmart Supercenter,1995-12-28,
 5444,MI,Ironwood,10305 Country Club Road,Walmart Supercenter,2008-03-07,
 5160,MI,Jackson,1700 W Michigan Ave.,Walmart Supercenter,2004-07-21,
-1809,MI,Jonesboro,701 Olds St.,Walmart Supercenter,1992-09-30,
+1809,MI,Jonesville,701 Olds St.,Walmart Supercenter,1992-09-30,
 5064,MI,Kalamazoo,6065 Gull Rd.,Walmart Supercenter,2003-03-19,
 5065,MI,Kalamazoo,501 N 9th St.,Walmart Supercenter,2004-01-21,
 2867,MI,Lansing,3225 Towne Centre Blvd.,Walmart,2004-08-25,
@@ -2146,7 +2146,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 1428,MI,Mount Pleasant,4730 Encore Blvd.,Walmart Supercenter,1989-12-30,
 2238,MI,Muskegon,1879 E Sherman Blvd.,Walmart Supercenter,1994-08-31,
 3876,MI,Muskegon,3285 Henry St.,Walmart Supercenter,2006-07-19,
-5048,MI,New Hudson,30729 Lyon Center Dr. E,Walmart Supercenter,2003-08-20,
+5048,MI,South Lyon,30729 Lyon Center Dr. E (New Hudson),Walmart Supercenter,2003-08-20,
 2010,MI,Niles,2107 S 11th St.,Walmart Supercenter,1993-07-27,
 5893,MI,Novi,26090 Ingersol Dr.,Walmart Supercenter,2012-08-15,
 2866,MI,Okemos,5110 Times Square Pl.,Walmart,2003-07-16,
@@ -2159,11 +2159,11 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2959,MI,Roseville,28804 Gratiot Ave.,Walmart Supercenter,2001-07-18,
 2644,MI,Saginaw,5825 Brockway Rd.,Walmart Supercenter,1999-01-27,
 5097,MI,Saginaw,5650 Bay Rd.,Walmart Supercenter,2003-09-24,
-1423,MI,Saint Johns,1165 Superior Dr.,Walmart Supercenter,1990-04-02,
+1423,MI,St. Johns,1165 Superior Dr.,Walmart Supercenter,1990-04-02,
 7260,MI,Saline,8777 Platt Rd.,Clinic Pharmacy,2017-04-10,
 5472,MI,Saline,7000 E Michigan Ave.,Walmart Supercenter,2009-10-14,
 3632,MI,Sandusky,655 W Sanilac Rd.,Walmart Supercenter,2005-08-24,
-1936,MI,Sault Sainte Marie,3763 I-75 Business Spur,Walmart Supercenter,1992-11-02,
+1936,MI,Sault Ste. Marie,3763 I-75 Business Spur,Walmart Supercenter,1992-11-02,
 3487,MI,Shelby Township,51450 Shelby Pkwy.,Walmart Supercenter,2002-10-30,
 1540,MI,South Haven,201 73rd St,Walmart Supercenter,1990-10-29,
 5842,MI,Southgate,14900 Dix Toledo Rd.,Walmart Supercenter,2011-09-14,
@@ -2175,7 +2175,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 3791,MI,Three Rivers,101 S Tolbert Dr.,Walmart Supercenter,2007-08-08,
 2338,MI,Traverse City,2640 S Crossing Cir.,Walmart Supercenter,1997-01-29,
 2873,MI,Troy,2001 W Maple Rd.,Walmart Supercenter,2001-01-24,
-2872,MI,Van Buren Twp.,10563 Belleville Rd.,Walmart Supercenter,2001-01-24,
+2872,MI,Van Buren Township,10563 Belleville Rd.,Walmart Supercenter,2001-01-24,
 4424,MI,Warren,29176 Van Dyke Ave.,Walmart Supercenter,2014-03-05,
 5159,MI,West Branch,2750 Cook Rd.,Walmart Supercenter,2004-01-21,
 2700,MI,White Lake,9190 Highland Rd.,Walmart Supercenter,1999-08-18,
@@ -4741,7 +4741,7 @@ Store_id,State,Town,Street,Category,Opening_date,Closing_date
 2290,MD,Owings Mills,9750 Reistertown Road A,Walmart,2002-06-19,2021-06-30
 5380,MA,Hanover,1775 Washington St,Walmart,2004-11-03,2019-01-01
 4584,MI,Hartland,10400 Highland Rd. Hartland Plaza,Walmart Supercenter,2009-01-01,2016-01-28
-1824,MI,Ysplanti,2515 Ellsworth Rd,Walmart,1992-08-04,2020-01-01
+1824,MI,Ypsilanti,2515 Ellsworth Rd,Walmart,1992-08-04,2020-01-01
 983,MN,Blue Earth,1210 Giant Dr,Walmart,1987-02-03,2017-10-03
 5437,MN,Midway,1450 University Avenue W,Walmart,2004-05-19,2019-01-01
 3856,MS,Belmont,410 2nd St,Neighborhood Market,,2016-01-28
