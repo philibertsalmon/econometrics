@@ -67,15 +67,32 @@ for state in by_states:
         if line != '':
             try:
                 splitted_line = line.split(' - ')
-                data_line = [state_name, splitted_line[0], splitted_line[1]] # State, town, street
-                data_line.append(splitted_line[2].split(' (')[0]) # Category
-                data_line.append(re.search('#(.*), opened', splitted_line[2]).group(1)) # Store id
-                date = splitted_line[2].split('opened ')[1] # opening date
+
+                # State
+                data_line = [state_name]
+
+                # Town
+                data_line.append(splitted_line[0])
+
+                # Street
+                data_line.append(splitted_line[1])
+                
+                # Category
+                data_line.append(splitted_line[2].split(' (')[0])
+
+                # Store id
+                data_line.append(re.search('#(.*), opened', splitted_line[2]).group(1))
+
+                # Opening date
+                date = splitted_line[2].split('opened ')[1]
                 data_line.append(new_format(date))
-                data_line.append(None) # closing date
+
+                # Closing date
+                data_line.append(None)
                 data.append(data_line)
+
             except:
-                reluctant_lines.append(line)
+               reluctant_lines.append(line)
 
 df_current = pd.DataFrame(data, columns=['State', 'Town', 'Street', 'Category', 'Store_id', 'Opening_date', 'Closing_date'])
 
@@ -95,8 +112,17 @@ for state in by_states:
         if line != '':
             splitted_line = line.split(' - ')
             
-            data_line = [state_name, splitted_line[0], splitted_line[1]] # State, town, street
-            data_line.append(splitted_line[2].split(' (')[0]) # Category
+            # State
+            data_line = [state_name]
+
+            # Town
+            data_line.append(splitted_line[0])
+
+            # Street
+            data_line.append(splitted_line[1])
+
+            # Category
+            data_line.append(splitted_line[2].split(' (')[0])
             
             # Store id
             try:
@@ -133,20 +159,21 @@ df_former = pd.DataFrame(data, columns=['State', 'Town', 'Street', 'Category', '
 
 
 df = pd.concat((df_current, df_former))
-df = df.set_index('Store_id')
 df.Opening_date = pd.to_datetime(df.Opening_date, errors='coerce', format = '%Y-%m-%d')
 df.Closing_date = pd.to_datetime(df.Closing_date, errors='coerce', format = '%Y-%m-%d')
 
-"""
-# Closing dates 2016
 
-df_closing_date = pd.read_csv('wallmart_exit2016_données_traitées.csv')
+# Merging for County, latitude and longitude
+uscities = pd.read_csv('../../data_display/cb_2018_us_state_20m/uscities.csv')[["city", "state_id", "lat", "lng", "county_name", "county_fips"]]
 
-for index, store in df[df.Closing_date == '2016'].iterrows():
-    closing_date = '2016'
-    if store['Town'] in 
-    store['Closing_date'] = closing_date
-"""
+df = pd.merge(df, uscities,  how='inner', left_on=['Town','State'], right_on = ['city','state_id'])
+
+
+# Cosmetic finalization
+df = df.rename(columns={'lat': 'Town_lat', 'lng': 'Town_lng', 'county_name': 'County_name', 'county_fips': 'County_fips'})[['State', 'County_name', 'County_fips', 'Town', 'Town_lat', 'Town_lng', 'Street', 'Category', 'Store_id', 'Opening_date', 'Closing_date']]
+df = df.set_index('Store_id')
+df.to_csv('fandom_traitées.csv')
+
+
 df_reluctant = pd.DataFrame(reluctant_lines)
 df_reluctant.to_csv('reluctant_lines.csv')
-df.to_csv('fandom_traitées.csv')
