@@ -17,8 +17,8 @@ uscities = uscities[["city", "state_id", "lat", "lng"]]
 df = pd.read_csv(r'C:\Users\inesn\Documents\Mines\2A\TR\econometrics\data_collection\plein_de_data\fandom_traitées.csv', parse_dates = ["Opening_date", "Closing_date"])
 
 #creating boolean columns for entry/exit in 2016 (no entry and exit in 2016 for a single store)
-df['opened_2016'] = (df.Opening_date>='2016-01-31')&(df.Opening_date<'2017-01-31')
-df['closed_2016'] = (df.Closing_date>='2016-01-31')&(df.Closing_date<'2017-01-31')
+df['opened_2016'] = (df.Opening_date>='2016-01-31')&(df.Opening_date<='2017-01-31')
+df['closed_2016'] = (df.Closing_date>='2016-01-31')&(df.Closing_date<='2017-01-31')
 
 #keeping only stores with entry/exit in 2016
 df = df[df.opened_2016 | df.closed_2016]
@@ -46,6 +46,4 @@ geo_map_data.crs = 'EPSG:4326'
 geo_map_data = geo_map_data.to_crs(shape.crs)
 
 #plot
-base = shape.boundary.plot(figsize=(10, 5))
-geo_map_data.plot(ax=base, marker='o', color=geo_map_data['color'], markersize=1);
-plt.show()
+geo_map_data.explore()
