@@ -4819,7 +4819,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 5017,NC,Cumberland,37051,Stedman,35.0114,-78.6996,7670 Clinton Rd,Neighborhood Market,,2016-01-28
 1127,NC,Anson,37007,Wadesboro,34.9645,-80.0746,1047 E Caswell St,Walmart,1988-11-17,2020-01-01
 3036,NC,Caswell,37033,Yanceyville,36.4101,-79.3356,1593 NC Hwy 86 N,Neighborhood Market,,2016-01-28
-4342,OH,Cuyahoga,39035,Bedford,41.3919,-81.5360,22209 Rockside Rd,Walmart Supercenter,,2016-01-28
+4342,OH,Cuyahoga,39035,Bedford,41.3919,-81.5360,22209 Rockside Rd,Walmart Supercenter,2008-01-16,2016-01-28
 3326,OH,Cuyahoga,39035,Garfield Heights,41.4199,-81.6038,City View Center,Walmart,1900-01-01,2008-01-01
 5083,OH,Cuyahoga,39035,Mayfield Heights,41.5174,-81.4534,6594 Mayfield Rd.,Walmart,2004-01-28,2022-05-20
 2172,OH,Hamilton,39061,Springdale,39.2909,-84.4760,800 Kemper Commons Cir.,Walmart,1994-06-29,2008-01-01

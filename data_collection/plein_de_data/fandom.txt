@@ -4892,7 +4892,7 @@ Stedman - 7670 Clinton Rd - Neighborhood Market (formerly Walmart Express) (stor
 Wadesboro - 1047 E Caswell St - Walmart (store #1127, opened November 17, 1988, closed January 1, 2020)
 Yanceyville - 1593 NC Hwy 86 N - Neighborhood Market (formerly Walmart Express) (store #3036, closed January 28, 2016)
 !Ohio
-Bedford - 22209 Rockside Rd - Walmart Supercenter (store #4342, closed January 28, 2016)
+Bedford - 22209 Rockside Rd - Walmart Supercenter (store #4342, opened January 16, 2008, closed January 28, 2016)
 Cincinnati - 1143 Smiley Ave. - Walmart Supercenter (store #3656, opened May 17, 2006, closed April 22, 2022)
 Garfield Heights - City View Center - Walmart (store #3326, opened January 1, 1900, closed January 1, 2008) due to toxic fumes. Location abandoned.
 Mayfield Heights - 6594 Mayfield Rd. - Walmart (store #5083, opened January 28, 2004, closed May 20, 2022)
