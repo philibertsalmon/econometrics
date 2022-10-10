@@ -324,7 +324,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 126,AR,Pulaski,5119,Little Rock,34.7256,-92.3577,2700 S Shackleford Rd.,Walmart Supercenter,1976-03-01,
 5244,AR,Pulaski,5119,Little Rock,34.7256,-92.3577,19301 Cantrell Rd.,Walmart Supercenter,2004-08-18,
 5706,AR,Pulaski,5119,Little Rock,34.7256,-92.3577,700 Bowman Rd.,Walmart Supercenter,2012-10-26,
-5666,AR,Pulaski,5119,Little Rock,34.7256,-92.3577,2510 Cantrell Rd,Neighborhood Market,,2022-01-01
+5666,AR,Pulaski,5119,Little Rock,34.7256,-92.3577,2510 Cantrell Rd,Neighborhood Market,1900-01-01,2022-01-01
 169,AR,Lonoke,5085,Lonoke,34.7906,-91.9072,322 Brownsville Loop,Walmart Supercenter,1977-09-01,
 83,AR,Columbia,5027,Magnolia,33.2775,-93.2261,79 US-60,Walmart Supercenter,1974-08-01,
 127,AR,Hot Spring,5059,Malvern,34.3734,-92.8205,1910 Martin Luther King Blvd.,Walmart Supercenter,1976-02-01,
@@ -373,7 +373,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 468,AR,Miller,5091,Texarkana,33.436,-93.9959,133 Arkansas Blvd.,Walmart Supercenter,1982-11-16,
 229,AR,Poinsett,5111,Trumann,35.677,-90.5259,512 Industrial Park Dr,Walmart Supercenter,1978-10-31,
 16,AR,Crawford,5033,Van Buren,35.4483,-94.3528,2214 Fayetteville Rd.,Walmart Supercenter,1969-04-01,
-3819,AR,Crawford,5033,Van Buren,35.4483,-94.3528,8848 N Hwy 59,Neighborhood Market,,2016-01-17
+3819,AR,Crawford,5033,Van Buren,35.4483,-94.3528,8848 N Hwy 59,Neighborhood Market,2014-09-19,2016-01-17
 57,AR,Lawrence,5075,Walnut Ridge,36.0848,-90.9467,1600 W Main St.,Walmart,1972-10-01,
 70,AR,Crittenden,5035,West Memphis,35.153,-90.1996,798 W Service Rd.,Walmart Supercenter,1974-07-01,
 68,AR,Cross,5037,Wynne,35.2322,-90.7897,800 US-64,Walmart Supercenter,1973-08-01,
@@ -1382,7 +1382,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 233,IL,Union,17181,Anna,37.4612,-89.2388,300 Leigh Ave.,Walmart Supercenter,1978-11-21,
 5199,IL,Lake,17097,Antioch,42.4742,-88.0721,475 East Route 173,Walmart Supercenter,2004-10-27,
 4405,IL,Kane,17089,Aurora,41.7638,-88.2902,2900 Kirk Rd,Walmart Supercenter,2008-03-07,
-1818,IL,Kane,17089,Aurora,41.7638,-88.2902,2131 Galena Blvd,Walmart,,2016-10-28
+1818,IL,Kane,17089,Aurora,41.7638,-88.2902,2131 Galena Blvd,Walmart,1992-03-03,2016-10-28
 5352,IL,Kane,17089,Batavia,41.8479,-88.3109,801 N Randall Rd.,Walmart Supercenter,2005-10-26,
 1451,IL,Cass,17017,Beardstown,39.9993,-90.4178,100 Lincoln Ave.,Walmart Supercenter,1990-01-31,
 1938,IL,Cook,17031,Bedford Park,41.7669,-87.7915,7050 S Cicero Ave.,Walmart Supercenter,1993-03-02,
@@ -1413,8 +1413,8 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 5617,IL,Cook,17031,Chicago,41.8375,-87.6866,4626 W Diversey Ave.,Walmart Supercenter,2013-07-17,
 5781,IL,Cook,17031,Chicago,41.8375,-87.6866,8331 S Stewart Ave.,Walmart Supercenter,2012-01-25,
 5965,IL,Cook,17031,Chicago,41.8375,-87.6866,10900 S Doty Avenue,Walmart Supercenter,2013-09-11,
-3065,IL,Cook,17031,Chicago,41.8375,-87.6866,3636 N Broadway St,Neighborhood Market,,2016-01-17
-3039,IL,Cook,17031,Chicago,41.8375,-87.6866,225 W Chicago Ave,Neighborhood Market,,2016-01-17
+3065,IL,Cook,17031,Chicago,41.8375,-87.6866,3636 N Broadway St,Neighborhood Market,2011-09-27,2016-01-17
+3039,IL,Cook,17031,Chicago,41.8375,-87.6866,225 W Chicago Ave,Neighborhood Market,2011-09-27,2016-01-17
 3004,IL,Cook,17031,Cicero,41.8445,-87.7593,3320 South Cicero Avenue,Walmart Supercenter,2014-05-21,
 2425,IL,Madison,17119,Collinsville,38.677,-90.0063,1101 Belt Line Rd.,Neighborhood Market,2017-07-26,
 361,IL,Madison,17119,Collinsville,38.677,-90.0063,1040 Collinsville Crossing Blvd.,Walmart Supercenter,1981-07-08,
@@ -1599,7 +1599,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 3529,IN,Marion,18097,Indianapolis,39.7771,-86.1458,10735 Pendleton Pike,Walmart Supercenter,2003-04-19,
 3781,IN,Marion,18097,Indianapolis,39.7771,-86.1458,4545 Lafayette Rd.,Walmart Supercenter,2008-01-23,
 5443,IN,Marion,18097,Indianapolis,39.7771,-86.1458,4650 S Emerson Ave.,Walmart Supercenter,2005-05-25,
-5406,IN,Marion,18097,Indianapolis,39.7771,-86.1458,8010 E. 38th St.,Neighborhood Market,,2019-07-12
+5406,IN,Marion,18097,Indianapolis,39.7771,-86.1458,8010 E. 38th St.,Neighborhood Market,2006-07-16,2019-07-12
 870,IN,Dubois,18037,Jasper,38.3933,-86.9402,4040 N Newton St.,Walmart Supercenter,1985-10-22,
 1388,IN,Noble,18113,Kendallville,41.4441,-85.2578,2501 E North St.,Walmart Supercenter,1989-12-30,
 1962,IN,Howard,18067,Kokomo,40.464,-86.1277,1920 E Markland Ave.,Walmart Supercenter,1993-08-31,
@@ -2721,7 +2721,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 821,NM,Curry,35009,Clovis,34.4376,-103.1923,3728 N Prince St.,Walmart Supercenter,1985-10-16,
 5166,NM,Luna,35029,Deming,32.2631,-107.7525,1021 E Pine St.,Walmart Supercenter,2003-08-20,
 4201,NM,Santa Fe,35049,Edgewood,35.1318,-106.2151,66 State Road 344,Walmart Supercenter,2008-03-07,
-2656,NM,Rio Arriba,35039,Española,36.0044,-106.0686,1610 North Riverside Drive,Walmart Supercenter,1999-01-27,
+2656,NM,Rio Arriba,35039,Espanola,36.0044,-106.0686,1610 North Riverside Drive,Walmart Supercenter,1999-01-27,
 826,NM,San Juan,35045,Farmington,36.7555,-108.1823,4600 E Main St.,Walmart Supercenter,1985-07-02,
 3428,NM,San Juan,35045,Farmington,36.7555,-108.1823,1400 W Main St.,Walmart Supercenter,2006-05-03,
 906,NM,McKinley,35031,Gallup,35.5182,-108.7431,1650 W Maloney Ave.,Walmart Supercenter,1986-07-15,
@@ -4716,27 +4716,27 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 1508,WY,Sheridan,56033,Sheridan,44.7961,-106.9642,1695 Coffeen Ave.,Walmart Supercenter,1990-10-29,
 3814,AK,Juneau,2110,Juneau,58.4546,-134.1739,6525 Glacier Hwy,Walmart Supercenter,2007-09-12,2016-02-05
 2186,AL,Henry,1067,Abbeville,31.5664,-85.2528,407 West Washington St,Neighborhood Market,1901-01-01,2016-01-28
-2011,AL,Houston,1069,Ashford,31.1858,-85.2359,18 Apple Way,Neighborhood Market,,2016-01-28
+2011,AL,Houston,1069,Ashford,31.1858,-85.2359,18 Apple Way,Neighborhood Market,2014-07-22,2016-01-28
 763,AL,Jefferson,1073,Fairfield,33.4747,-86.9194,7201 Aaron Aronov Drive,Walmart Supercenter,1984-11-13,2016-01-28
-2235,AL,Madison,1089,Gurley,34.7072,-86.3768,6361 Hwy 72,Neighborhood Market,,2016-01-28
-3769,AL,Marshall,1095,Grant,34.519,-86.2492,3530 Cathedral Caverns Hwy,Neighborhood Market,,2016-01-28
-2173,AL,Henry,1067,Headland,31.3501,-85.3523,14331 CR-99,Neighborhood Market,,2016-01-28
-3779,AL,Madison,1089,New Hope,34.537,-86.4128,10188 Hwy 431 South,Neighborhood Market,,2016-01-28
-2165,AL,Geneva,1061,Slocomb,31.1103,-85.5954,952 E Lawrence Harris Hwy,Neighborhood Market,,2016-01-28
-2260,AL,Blount,1009,Snead,34.1162,-86.3902,87395 US Hwy 278,Neighborhood Market,,2016-01-28
+2235,AL,Madison,1089,Gurley,34.7072,-86.3768,6361 Hwy 72,Neighborhood Market,2014-08-21,2016-01-28
+3769,AL,Marshall,1095,Grant,34.519,-86.2492,3530 Cathedral Caverns Hwy,Neighborhood Market,2014-08-21,2016-01-28
+2173,AL,Henry,1067,Headland,31.3501,-85.3523,14331 CR-99,Neighborhood Market,2014-09-24,2016-01-28
+3779,AL,Madison,1089,New Hope,34.537,-86.4128,10188 Hwy 431 South,Neighborhood Market,2014-08-21,2016-01-28
+2165,AL,Geneva,1061,Slocomb,31.1103,-85.5954,952 E Lawrence Harris Hwy,Neighborhood Market,2014-08-21,2016-01-28
+2260,AL,Blount,1009,Snead,34.1162,-86.3902,87395 US Hwy 278,Neighborhood Market,1900-01-01,2016-01-28
 "84, ",AR,Monroe,5095,Brinkley,34.89,-91.1902,1401 N Main St,Walmart,1974-05-01,2009-01-01
-2601,AR,Franklin,5047,Charleston,35.2948,-94.0484,814 W Main,Neighborhood Market,,2016-01-17
-2669,AR,Johnson,5071,Coal Hill,35.4375,-93.6647,1531 E Hwy 64,Neighborhood Market,,2016-01-17
+2601,AR,Franklin,5047,Charleston,35.2948,-94.0484,814 W Main,Neighborhood Market,2014-10-07,2016-01-17
+2669,AR,Johnson,5071,Coal Hill,35.4375,-93.6647,1531 E Hwy 64,Neighborhood Market,2014-10-09,2016-01-17
 235,AR,Clay,5021,Corning,36.4134,-90.5839,1900 W Main,Walmart,1978-11-28,2018-07-20
-3878,AR,Van Buren,5141,Damascus,35.3671,-92.4108,5 Hwy 124 W,Neighborhood Market,,2016-01-17
-4217,AR,Benton,5007,Decatur,36.3402,-94.4578,154 E Roller,Neighborhood Market,,2016-01-17
+3878,AR,Van Buren,5141,Damascus,35.3671,-92.4108,5 Hwy 124 W,Neighborhood Market,2014-10-07,2016-01-17
+4217,AR,Benton,5007,Decatur,36.3402,-94.4578,154 E Roller,Neighborhood Market,2014-10-07,2016-01-17
 349,AR,Desha,5041,Dumas,33.8834,-91.4857,Highway 65 South,Walmart,1980-11-18,2005-01-01
-3032,AR,Benton,5007,Gentry,36.2571,-94.4908,905 S Gentry Blvd,Neighborhood Market,,2016-01-17
-3033,AR,Benton,5007,Gravette,36.4291,-94.3712,800 1st Ave SE,Neighborhood Market,,2016-01-17
-2498,AR,Scott,5127,Mansfield,35.0635,-94.2373,720 N Hwy 71,Neighborhood Market,,2016-01-17
+3032,AR,Benton,5007,Gentry,36.2571,-94.4908,905 S Gentry Blvd,Neighborhood Market,2011-03-28,2016-01-17
+3033,AR,Benton,5007,Gravette,36.4291,-94.3712,800 1st Ave SE,Neighborhood Market,2011-06-17,2016-01-17
+2498,AR,Scott,5127,Mansfield,35.0635,-94.2373,720 N Hwy 71,Neighborhood Market,2014-10-07,2016-01-17
 5783,AR,Pulaski,5119,Maumelle,34.8522,-92.4000,117 Audubon Drive,Neighborhood Market,2008-06-25,2016-01-17
-2578,AR,Crawford,5033,Mulberry,35.51,-94.0740,3500 Mulberry Hwy 64 W,Neighborhood Market,,2016-01-17
-3034,AR,Washington,5143,Prairie Grove,35.9858,-94.3049,881 W Buchanan,Neighborhood Market,,2016-01-17
+2578,AR,Crawford,5033,Mulberry,35.51,-94.0740,3500 Mulberry Hwy 64 W,Neighborhood Market,2014-09-19,2016-01-17
+3034,AR,Washington,5143,Prairie Grove,35.9858,-94.3049,881 W Buchanan,Neighborhood Market,2011-04-18,2016-01-17
 380,AR,Scott,5127,Waldron,34.9022,-94.0953,1359 W 2nd St,Walmart,1982-02-02,2017-07-01
 5642,CA,Los Angeles,6037,Altadena,34.1927,-118.1346,2408 Lincoln Ave.,Neighborhood Market,1900-01-01,2016-01-28
 5688,CA,Los Angeles,6037,Bell Gardens,33.9663,-118.1550,6820 Eastern Ave.,Neighborhood Market,1900-01-01,2016-01-28
@@ -4745,20 +4745,20 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 5457,CA,Alameda,6001,Oakland,37.7904,-122.2166,8400 Edgewater Dr,Walmart,2005-08-24,2016-01-17
 3096,CO,Boulder,8013,Boulder,40.0248,-105.2524,2972 Iris Avenue,Neighborhood Market,1900-01-01,2022-01-01
 1208,CO,Jefferson,8059,Wheat Ridge,39.7728,-105.1028,3600 Youngfield St,Walmart,1988-05-03,2017-07-07
-2896,CT,New Haven,9009,Derby,41.3265,-73.0833,656 Derby Ave,Walmart,,2016-07-31
+2896,CT,New Haven,9009,Derby,41.3265,-73.0833,656 Derby Ave,Walmart,2000-10-11,2016-07-31
 3544,CT,New Haven,9009,Guilford Center,41.2818,-72.6763,900 Boston Post Rd.,Walmart,2002-10-16,2022-05-20
 2570,CT,Hartford,9003,New Britain,41.6759,-72.7862,655 Farmington Ave,Walmart,1997-09-10,2009-01-01
 2303,CT,Hartford,9003,West Hartford,41.7678,-72.7539,333 N Main St,Neighborhood Market,2013-01-01,2016-01-28
-4267,FL,Dixie,12029,Cross City,29.6386,-83.1248,15726 SE Hwy 19,Neighborhood Market,,2016-01-28
-3358,FL,Putnam,12107,Interlachen,29.6203,-81.8963,1113 SR-20,Neighborhood Market,,2016-01-28
-4265,FL,Gilchrist,12041,Trenton,29.6092,-82.8147,1209 E Wade St,Neighborhood Market,,2016-01-28
-4229,GA,Bacon,13005,Alma,31.5432,-82.4745,1041 S US Hwy 1,Neighborhood Market,,2016-01-28
-4234,GA,Turner,13287,Ashburn,31.7096,-83.6528,155 W Washington Ave,Neighborhood Market,,2016-01-28
-4254,GA,Seminole,13253,Donalsonville,31.0404,-84.8792,907 Marianna Hwy,Neighborhood Market,,2016-01-28
-4228,GA,Schley,13249,Ellaville,32.238,-84.3089,560 Broad St,Neighborhood Market,,2016-01-28
-4263,GA,Lanier,13173,Lakeland,31.0409,-83.0748,142 S Valdosta Rd,Neighborhood Market,,2016-01-28
-4261,GA,Atkinson,13003,Pearson,31.297,-82.8544,290 Albany Ave W,Neighborhood Market,,2016-01-28
-4251,GA,Mitchell,13205,Pelham,31.1267,-84.1515,398 Barrow Ave SW,Neighborhood Market,,2016-01-28
+4267,FL,Dixie,12029,Cross City,29.6386,-83.1248,15726 SE Hwy 19,Neighborhood Market,2015-03-17,2016-01-28
+3358,FL,Putnam,12107,Interlachen,29.6203,-81.8963,1113 SR-20,Neighborhood Market,2015-02-04,2016-01-28
+4265,FL,Gilchrist,12041,Trenton,29.6092,-82.8147,1209 E Wade St,Neighborhood Market,2015-03-19,2016-01-28
+4229,GA,Bacon,13005,Alma,31.5432,-82.4745,1041 S US Hwy 1,Neighborhood Market,2015-02-05,2016-01-28
+4234,GA,Turner,13287,Ashburn,31.7096,-83.6528,155 W Washington Ave,Neighborhood Market,2014-10-22,2016-01-28
+4254,GA,Seminole,13253,Donalsonville,31.0404,-84.8792,907 Marianna Hwy,Neighborhood Market,2014-10-17,2016-01-28
+4228,GA,Schley,13249,Ellaville,32.238,-84.3089,560 Broad St,Neighborhood Market,2014-10-21,2016-01-28
+4263,GA,Lanier,13173,Lakeland,31.0409,-83.0748,142 S Valdosta Rd,Neighborhood Market,2014-10-21,2016-01-28
+4261,GA,Atkinson,13003,Pearson,31.297,-82.8544,290 Albany Ave W,Neighborhood Market,2014-10-23,2016-01-28
+4251,GA,Mitchell,13205,Pelham,31.1267,-84.1515,398 Barrow Ave SW,Neighborhood Market,2014-10-21,2016-01-28
 487,IL,De Witt,17039,Clinton,40.1468,-88.9633,10 Clinton Plaza,Walmart,1983-03-01,2018-07-20
 6167,IL,Cook,17031,Des Plaines,42.0345,-87.9008,727 W Golf Rd.,Neighborhood Market,2014-08-20,2021-08-06
 460,IL,Christian,17021,Pana,39.3829,-89.0642,10 W 2nd,Walmart,1983-11-29,2018-10-12

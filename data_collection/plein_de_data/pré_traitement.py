@@ -134,6 +134,7 @@ for state in by_states:
             
             # Opening date
             if 'opened' in splitted_line[2]:
+                print(line)
                 raw_opening_date = re.search('opened (.*), closed', splitted_line[2]).group(1)
                 try: # Try to normalize the format, if day, month and year give
                     opening_date = new_format(raw_opening_date+')')

@@ -1,14 +1,14 @@
-import geopandas as gpd
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import geopandas as gpd
 
 #uscities df
 uscities = pd.read_csv('uscities.csv')
 uscities = uscities[["city", "state_id", "lat", "lng"]]
 
 #our df
-df = pd.read_csv(r'C:\Users\inesn\Documents\Mines\2A\TR\econometrics\data_collection\plein_de_data\fandom_traitées.csv', parse_dates = ["Opening_date", "Closing_date"])
+df = pd.read_csv('../../data_collection/plein_de_data/fandom_traitées.csv', parse_dates = ["Opening_date", "Closing_date"])
 
 #creating boolean columns for entry/exit in 2016 (no entry and exit in 2016 for a single store)
 df['opened_2016'] = (df.Opening_date>='2016-01-31')&(df.Opening_date<'2017-01-31')
@@ -39,3 +39,5 @@ geo_map_data = gpd.GeoDataFrame(
     map_data, geometry=gpd.points_from_xy(map_data.lng, map_data.lat))
 geo_map_data.explore(column='Walmart entry or/and exit (2016, per city)', cmap=["blue","green","red"], 
                      style_kwds={"style_function": lambda x: {"radius": x["properties"]["count"]*2}})
+
+plt.show()
