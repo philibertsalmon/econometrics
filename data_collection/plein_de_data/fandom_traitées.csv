@@ -1747,7 +1747,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 5219,KS,Douglas,20045,Lawrence,38.9597,-95.2642,550 Congressional Dr.,Walmart Supercenter,2009-04-29,
 26,KS,Leavenworth,20103,Leavenworth,39.3239,-94.9240,5000 10th Ave.,Walmart Supercenter,1970-11-01,
 799,KS,Seward,20175,Liberal,37.0466,-100.9295,250 E Tucker Rd.,Walmart Supercenter,1985-07-02,
-4628,KS,Seward,20175,Liberal,37.0466,-100.9295,712 N. Western Ave.,Neighborhood Market,1900-01-01,2022-01-01
+4628,KS,Seward,20175,Liberal,37.0466,-100.9295,712 N. Western Ave.,Neighborhood Market,2015-06-30,2022-01-01
 35,KS,Riley,20161,Manhattan,39.1886,-96.6048,101 Bluemont Ave.,Walmart Supercenter,1971-10-01,
 341,KS,Marshall,20117,Marysville,39.8432,-96.6387,1174 Pony Express Hwy.,Walmart Supercenter,1980-11-18,
 993,KS,McPherson,20113,McPherson,38.3714,-97.6605,205 S Centennial Dr.,Walmart Supercenter,1986-11-18,
@@ -3840,11 +3840,11 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 456,TX,Cameron,48061,Brownsville,25.9975,-97.4580,3500 W Alton Gloor Blvd.,Walmart Supercenter,1982-10-05,
 1000,TX,Cameron,48061,Brownsville,25.9975,-97.4580,2721 Boca Chica Blvd.,Walmart Supercenter,1987-02-03,
 4112,TX,Cameron,48061,Brownsville,25.9975,-97.4580,"2205 E Ruben Torres, Sr. Blvd.",Walmart Supercenter,2015-04-22,
-5493,TX,Cameron,48061,Brownsville,25.9975,-97.4580,7480 Padre Island Hwy,Walmart Supercenter,1900-01-01,2016-01-28
+5493,TX,Cameron,48061,Brownsville,25.9975,-97.4580,7480 Padre Island Hwy,Walmart Supercenter,2006-07-18,2016-01-28
 813,TX,Brown,48049,Brownwood,31.7127,-98.9767,401 W Commerce St.,Walmart Supercenter,1985-10-08,
 322,TX,Brazos,48041,Bryan,30.665,-96.3807,2200 Briarcrest Dr.,Walmart Supercenter,1982-06-29,
 4183,TX,Brazos,48041,Bryan,30.665,-96.3807,643 N Harvey Mitchell Parkway,Walmart Supercenter,2014-03-12,
-4126,TX,Brazos,48041,Bryan,30.665,-96.3807,1901 S. Texas Ave.,Neighborhood Market,1900-01-01,2016-01-28
+4126,TX,Brazos,48041,Bryan,30.665,-96.3807,1901 S. Texas Ave.,Neighborhood Market,2013-03-11,2016-01-28
 4219,TX,Hays,48209,Buda,30.0758,-97.8487,690 Old San Antonio Rd.,Walmart Supercenter,2006-08-16,
 3653,TX,Johnson,48251,Burleson,32.517,-97.3344,965 NW John Jones Dr.,Neighborhood Market,2015-02-25,
 220,TX,Johnson,48251,Burleson,32.517,-97.3344,951 SW Wilshire Blvd.,Walmart Supercenter,1978-10-17,
@@ -3853,7 +3853,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 793,TX,Randall,48381,Canyon,34.9911,-101.9190,1701 N 23rd St.,Walmart Supercenter,1985-10-01,
 1046,TX,Dimmit,48127,Carrizo Springs,28.5267,-99.8589,2214 N 1st St.,Walmart,1987-05-12,
 2625,TX,Dallas,48113,Carrollton,32.989,-96.8999,1025 West Trinity Mills Rd.,Clinic Pharmacy,1997-06-30,
-8899,TX,Dallas,48113,Carrollton,32.989,-96.8999,1025 W Trinity Mills Rd.,Clinic Pharmacy,1900-01-01,
+8899,TX,Dallas,48113,Carrollton,32.989,-96.8999,1025 W Trinity Mills Rd.,Clinic Pharmacy,2006-07-19,
 3198,TX,Dallas,48113,Carrollton,32.989,-96.8999,4025 Old Denton Rd.,Neighborhood Market,2012-10-24,
 1216,TX,Dallas,48113,Carrollton,32.989,-96.8999,1213 E Trinity Mills Rd.,Walmart Supercenter,1988-10-03,
 523,TX,Panola,48365,Carthage,32.1526,-94.3368,4609 NW Loop 436,Walmart Supercenter,1983-11-29,
@@ -3919,7 +3919,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 3579,TX,Harris,48201,Houston,29.786,-95.3885,2165 Northpark Dr.,Neighborhood Market,2002-08-07,
 3506,TX,Harris,48201,Houston,29.786,-95.3885,12742 N Eldridge Pkwy,Neighborhood Market,1900-01-01,2019-11-01
 597,TX,Harris,48201,Houston,29.786,-95.3885,7075 FM 1960 Rd W,Walmart Supercenter,1984-09-18,2016-01-28
-3451,TX,Harris,48201,Houston,29.786,-95.3885,2740 Gessner Rd.,Neighborhood Market,1900-01-01,2016-01-28
+3451,TX,Harris,48201,Houston,29.786,-95.3885,2740 Gessner Rd.,Neighborhood Market,2006-07-16,2016-01-28
 3015,TX,Dallas,48113,Dallas,32.7935,-96.7667,2827 S Buckner Blvd.,Neighborhood Market,2013-08-14,
 3341,TX,Dallas,48113,Dallas,32.7935,-96.7667,2305 N Central Expy.,Neighborhood Market,2005-01-19,
 5021,TX,Dallas,48113,Dallas,32.7935,-96.7667,2275 Gus Thomasson Rd.,Neighborhood Market,2003-01-15,
@@ -3935,7 +3935,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 5889,TX,Dallas,48113,Dallas,32.7935,-96.7667,9410 Webb Chapel Rd.,Walmart Supercenter,2013-01-23,
 8930,TX,Dallas,48113,Dallas,32.7935,-96.7667,15757 Coit Rd.,Walmart Supercenter,2015-12-02,
 949,TX,Dallas,48113,Dallas,32.7935,-96.7667,3155 W Wheatland Rd,Walmart Supercenter,1986-09-02,2019-01-01
-3171,TX,Dallas,48113,Dallas,32.7935,-96.7667,2218 Greenville Ave.,Neighborhood Market,1900-01-01,2016-01-28
+3171,TX,Dallas,48113,Dallas,32.7935,-96.7667,2218 Greenville Ave.,Neighborhood Market,2012-05-31,2016-01-28
 5931,TX,Dallas,48113,Dallas,32.7935,-96.7667,13739 N Central Expy,Walmart Supercenter,2013-01-01,2021-03-15
 421,TX,Wise,48497,Decatur,33.2263,-97.5875,800 S Highway 287,Walmart Supercenter,1982-06-29,
 447,TX,Val Verde,48465,Del Rio,29.3708,-100.8801,2410 Dodson Ave.,Walmart Supercenter,1982-11-16,
@@ -4001,7 +4001,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2463,TX,Collin,48085,Frisco,33.156,-96.8216,355 Stonebrook Pkwy.,Walmart Supercenter,2017-11-01,
 3777,TX,Collin,48085,Frisco,33.156,-96.8216,12220 FM 423,Walmart Supercenter,2007-04-18,
 5866,TX,Collin,48085,Frisco,33.156,-96.8216,8555 Preston Rd.,Walmart Supercenter,2011-05-18,
-5986,TX,Collin,48085,Frisco,33.156,-96.8216,4268 Legacy Drive,Neighborhood Market,1900-01-01,2016-01-17
+5986,TX,Collin,48085,Frisco,33.156,-96.8216,4268 Legacy Drive,Neighborhood Market,2011-08-25,2016-01-17
 185,TX,Cooke,48097,Gainesville,33.639,-97.1487,1800 Lawrence St.,Walmart Supercenter,1993-07-21,
 504,TX,Galveston,48167,Galveston,29.2484,-94.8913,6702 Seawall Blvd.,Walmart Supercenter,1983-08-02,
 2433,TX,Dallas,48113,Garland,32.91,-96.6304,101 W Buckingham Rd.,Neighborhood Market,2014-01-15,
@@ -4240,7 +4240,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 883,TX,Bexar,48029,San Antonio,29.4632,-98.5238,3847 Pleasanton Rd.,Neighborhood Market,2016-05-11,2018-10-12
 5324,TX,Bexar,48029,San Antonio,29.4632,-98.5238,3847 Pleasanton Road,Neighborhood Market,2016-05-11,2022-01-01
 4670,TX,Bexar,48029,San Antonio,29.4632,-98.5238,3418 E. Southcross Blvd,Neighborhood Market,2016-03-16,2018-10-15
-4661,TX,Bexar,48029,San Antonio,29.4632,-98.5238,6938 Walzem Road,Neighborhood Market,1900-01-01,2018-10-15
+4661,TX,Bexar,48029,San Antonio,29.4632,-98.5238,6938 Walzem Road,Neighborhood Market,2015-10-08,2018-10-15
 1296,TX,Cameron,48061,San Benito,26.1298,-97.6440,1126 W US Highway 77,Walmart Supercenter,1989-02-02,
 404,TX,Hays,48209,San Marcos,29.8734,-97.9356,1015 Highway 80,Walmart Supercenter,1982-03-02,
 3391,TX,Bexar,48029,Schertz,29.565,-98.2535,6102 FM 3009,Walmart Supercenter,2005-03-23,
@@ -4770,7 +4770,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 4651,KS,Marion,20115,Hillsboro,38.3527,-97.1992,605 Orchard Dr,Neighborhood Market,2015-02-12,2016-01-28
 4362,KS,Butler,20015,Rose Hill,37.5702,-97.1361,120 W Rosewood St,Neighborhood Market,2014-10-29,2016-01-28
 3839,LA,East Feliciana,22037,Clinton,30.8613,-91.0150,9181 Hwy 67,Neighborhood Market,2015-02-16,2016-01-28
-4634,LA,Grant,22043,Colfax,31.5208,-92.7001,1506 Main St,Neighborhood Market,2015-02-13,2016-01-28
+4634,LA,Grant,22043,Colfax,31.5208,-92.7001,1506 Main St,Neighborhood Market,2015-05-13,2016-01-28
 270,LA,Claiborne,22027,Homer,32.793,-93.0582,906 W Main St,Walmart,1981-08-04,2006-01-01
 4647,LA,Tangipahoa,22105,Independence,30.6361,-90.5056,515 3rd St,Neighborhood Market,2013-03-25,2016-01-28
 3815,LA,Calcasieu,22019,Iowa,30.2393,-93.0130,501 W Hwy 90,Neighborhood Market,2014-10-07,2016-01-28
@@ -4863,7 +4863,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 4338,TX,Morris,48343,Naples,33.2029,-94.6777,504 WL Doc Dodson,Neighborhood Market,2014-10-01,2016-01-28
 3834,TX,Ellis,48139,Palmer,32.4258,-96.6724,428 N Dallas St.,Neighborhood Market,2014-10-01,2016-01-28
 883,TX,Willacy,48489,Raymondville,26.4759,-97.7769,14091 FM 490,Walmart Supercenter,1986-02-04,2016-01-28
-5985,TX,Tarrant,48439,Southlake,32.9545,-97.1503,2201 West Southlake Blvd.,Neighborhood Market,1900-01-01,2016-01-28
+5985,TX,Tarrant,48439,Southlake,32.9545,-97.1503,2201 West Southlake Blvd.,Neighborhood Market,2012-03-09,2016-01-28
 4320,TX,Harrison,48203,Waskom,32.4766,-94.0646,1005 Texas Avenue E,Neighborhood Market,2014-09-19,2016-01-28
 2364,TX,Grayson,48181,Whitewright,33.5108,-96.3956,301 Hwy 69 S,Neighborhood Market,2014-08-10,2016-01-28
 2863,TX,Runnels,48399,Winters,31.9564,-99.9292,1010 N Main St.,Neighborhood Market,2014-01-01,2016-01-28
