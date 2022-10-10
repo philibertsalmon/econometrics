@@ -1382,7 +1382,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 233,IL,Union,17181,Anna,37.4612,-89.2388,300 Leigh Ave.,Walmart Supercenter,1978-11-21,
 5199,IL,Lake,17097,Antioch,42.4742,-88.0721,475 East Route 173,Walmart Supercenter,2004-10-27,
 4405,IL,Kane,17089,Aurora,41.7638,-88.2902,2900 Kirk Rd,Walmart Supercenter,2008-03-07,
-1818,IL,Kane,17089,Aurora,41.7638,-88.2902,2131 Galena Blvd,Walmart,,2016-10-28
+1818,IL,Kane,17089,Aurora,41.7638,-88.2902,2131 Galena Blvd,Walmart,1992-03-03,2016-10-28
 5352,IL,Kane,17089,Batavia,41.8479,-88.3109,801 N Randall Rd.,Walmart Supercenter,2005-10-26,
 1451,IL,Cass,17017,Beardstown,39.9993,-90.4178,100 Lincoln Ave.,Walmart Supercenter,1990-01-31,
 1938,IL,Cook,17031,Bedford Park,41.7669,-87.7915,7050 S Cicero Ave.,Walmart Supercenter,1993-03-02,
@@ -2721,7 +2721,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 821,NM,Curry,35009,Clovis,34.4376,-103.1923,3728 N Prince St.,Walmart Supercenter,1985-10-16,
 5166,NM,Luna,35029,Deming,32.2631,-107.7525,1021 E Pine St.,Walmart Supercenter,2003-08-20,
 4201,NM,Santa Fe,35049,Edgewood,35.1318,-106.2151,66 State Road 344,Walmart Supercenter,2008-03-07,
-2656,NM,Rio Arriba,35039,Española,36.0044,-106.0686,1610 North Riverside Drive,Walmart Supercenter,1999-01-27,
+2656,NM,Rio Arriba,35039,Espanola,36.0044,-106.0686,1610 North Riverside Drive,Walmart Supercenter,1999-01-27,
 826,NM,San Juan,35045,Farmington,36.7555,-108.1823,4600 E Main St.,Walmart Supercenter,1985-07-02,
 3428,NM,San Juan,35045,Farmington,36.7555,-108.1823,1400 W Main St.,Walmart Supercenter,2006-05-03,
 906,NM,McKinley,35031,Gallup,35.5182,-108.7431,1650 W Maloney Ave.,Walmart Supercenter,1986-07-15,
@@ -4847,7 +4847,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 4316,TX,Upshur,48459,Diana,32.706,-94.7513,1787 US Hwy 259 S,Neighborhood Market,,2016-01-28
 2363,TX,Van Zandt,48467,Edgewood,32.6943,-95.8833,504 W Pine St.,Neighborhood Market,,2016-01-28
 474,TX,Jackson,48239,Edna,28.9757,-96.6483,1002 N Wells,Walmart,1982-11-02,2018-01-01
-926,TX,Brooks,48047,Falfurrias,27.2243,-98.1452,US-281 South,Walmart,,2015-01-01
+926,TX,Brooks,48047,Falfurrias,27.2243,-98.1452,US-281 South,Walmart,1986-09-16,2015-01-01
 4312,TX,Anderson,48001,Frankston,32.0561,-95.5043,440 E Pine St.,Neighborhood Market,,2016-01-28
 3820,TX,Johnson,48251,Godley,32.455,-97.5302,501 N Main,Neighborhood Market,,2016-01-28
 3822,TX,Johnson,48251,Grandview,32.2685,-97.1775,416 N Third St.,Neighborhood Market,,2016-01-28

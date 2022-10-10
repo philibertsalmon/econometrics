@@ -4796,7 +4796,7 @@ Pearson - 290 Albany Ave W - Neighborhood Market (formerly Walmart Express) (sto
 Pelham - 398 Barrow Ave SW - Neighborhood Market (formerly Walmart Express) (store #4251, closed January 28, 2016)
 Roswell - 4651 Woodstock Rd Ne Suite 150 - Neighborhood Market (store #2375, opened January 1, 1900, closed April 15, 2017)
 !Illinois
-Aurora - 2131 Galena Blvd - Walmart (store #1818, closed October 28, 2016)
+Aurora - 2131 Galena Blvd - Walmart (store #1818, opened March 3, 1992, closed October 28, 2016)
 Chicago - 3636 N Broadway St - Neighborhood Market (formerly Walmart Express) (store #3065, closed January 17, 2016)
 Chicago - 225 W Chicago Ave - Neighborhood Market (formerly Walmart Express) (store #3039, closed January 17, 2016)
 Clinton - 10 Clinton Plaza - Walmart (store #487, opened March 1, 1983, closed July 20, 2018)
@@ -4945,7 +4945,7 @@ De Kalb - 12522 Fm 1840 - Neighborhood Market (formerly Walmart Express) (store 
 Diana - 1787 US Hwy 259 S - Neighborhood Market (formerly Walmart Express) (store #4316, closed January 28, 2016)
 Edgewood - 504 W Pine St. - Neighborhood Market (formerly Walmart Express) (store #2363, closed January 28, 2016)
 Edna - 1002 N Wells - Walmart (store #474, opened November 2, 1982, closed January 1, 2018)
-Falfurrias - US-281 South - Walmart (store #926, openend September 16, 1986, closed January 1, 2015)
+Falfurrias - US-281 South - Walmart (store #926, opened September 16, 1986, closed January 1, 2015)
 Frankston - 440 E Pine St. - Neighborhood Market (formerly Walmart Express) (store #4312, closed January 28, 2016)
 Frisco - 4268 Legacy Drive - Neighborhood Market (store #5986, opened January 1, 1900, closed January 17, 2016)
 Godley - 501 N Main - Neighborhood Market (formerly Walmart Express) (store #3820, closed January 28, 2016)
