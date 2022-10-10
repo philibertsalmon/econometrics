@@ -2486,7 +2486,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 219,MO,Pettis,29159,Sedalia,38.7059,-93.2340,3201 W Broadway Blvd.,Walmart Supercenter,1978-10-03,
 3061,MO,St. Louis,29189,Shrewsbury,38.5866,-90.3282,7437 Watson Road,Walmart Supercenter,2015-09-23,
 9,MO,Scott,29201,Sikeston,36.8854,-89.5877,1303 S Main St.,Walmart Supercenter,1968-03-01,
-2839,MO,Greene,29077,Springfield,37.1943,-93.2916,444 W Grand Street,Neighborhood Market,2016-03-16,
+2839,MO,Greene,29077,Springfield,37.1943,-93.2916,444 W Grand Street,Neighborhood Market,2015-10-29,
 3062,MO,Greene,29077,Springfield,37.1943,-93.2916,3536 W Mount Vernon St.,Neighborhood Market,2012-10-17,
 3111,MO,Greene,29077,Springfield,37.1943,-93.2916,545 El Camino Alto Dr.,Neighborhood Market,2012-10-03,
 3238,MO,Greene,29077,Springfield,37.1943,-93.2916,3720 East Sunshine Street,Neighborhood Market,2015-01-07,
@@ -3717,7 +3717,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 5734,TN,Sullivan,47163,Kingsport,36.5224,-82.5454,750 Lynn Garden Dr.,Neighborhood Market,2015-11-11,
 599,TN,Sullivan,47163,Kingsport,36.5224,-82.5454,3200 Ft. Henry Drive,Walmart Supercenter,1984-08-31,
 742,TN,Sullivan,47163,Kingsport,36.5224,-82.5454,2500 W Stone Dr.,Walmart Supercenter,1984-08-31,
-3959,TN,Knox,47093,Knoxville,35.9692,-83.9496,3120 McKamey Road,Neighborhood Market,2017-01-25,
+3959,TN,Knox,47093,Knoxville,35.9692,-83.9496,3120 McKamey Road,Neighborhood Market,2016-10-07,
 1318,TN,Knox,47093,Knoxville,35.9692,-83.9496,6777 Clinton Hwy.,Walmart Supercenter,1989-08-31,
 1319,TN,Knox,47093,Knoxville,35.9692,-83.9496,7550 Norris Fwy.,Walmart Supercenter,1989-08-31,
 1320,TN,Knox,47093,Knoxville,35.9692,-83.9496,7420 Chapman Hwy.,Walmart Supercenter,1990-01-31,
@@ -4427,7 +4427,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2821,VA,Richmond,51760,Richmond,37.5295,-77.4756,2410 Sheila Ln.,Walmart Supercenter,2000-03-15,
 3869,VA,Richmond,51760,Richmond,37.5295,-77.4756,1504 N Parham Rd.,Walmart Supercenter,2007-01-22,
 4191,VA,Richmond,51760,Richmond,37.5295,-77.4756,6920 Forest Avenue,Walmart Supercenter,2014-05-21,
-4502,VA,Richmond,51760,Richmond,37.5295,-77.4756,912 W Grace St,Neighborhood Market,1900-01-01,2022-01-01
+4502,VA,Richmond,51760,Richmond,37.5295,-77.4756,912 W Grace St,Neighborhood Market,2015-05-02,2022-01-01
 3772,VA,Lee,51105,Jonesville,36.687,-83.1153,468 Trade Center Ln.,Walmart Supercenter,2006-08-16,
 4350,VA,Lancaster,51103,Kilmarnock,37.7118,-76.3834,200 Old Fairgrounds Way,Walmart Supercenter,2007-10-24,
 5779,VA,King George,51099,King George,38.2807,-77.1896,16375 Merchant Ln.,Walmart Supercenter,2011-08-17,
@@ -4455,7 +4455,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 1811,VA,Norfolk,51710,Norfolk,36.8945,-76.2590,1170 N Military Hwy.,Walmart Supercenter,1992-06-30,
 5488,VA,Norfolk,51710,Norfolk,36.8945,-76.2590,7530 Tidewater Dr.,Walmart Supercenter,2007-01-22,
 7174,VA,Chesterfield,51041,North Chesterfield,37.38,-77.59,5700 Hopkins Road,Neighborhood Market,2015-03-04,
-3892,VA,Chesterfield,51041,North Chesterfield,37.38,-77.59,7000 Iron Bridge Rd,Neighborhood Market,1900-01-01,2019-03-29
+3892,VA,Chesterfield,51041,North Chesterfield,37.38,-77.59,7000 Iron Bridge Rd,Neighborhood Market,2015-05-26,2019-03-29
 1302,VA,Norton,51720,Norton,36.9314,-82.6262,780 Commonwealth Dr.,Walmart Supercenter,1989-08-01,
 4378,VA,Accomack,51001,Onley,37.6915,-75.7180,26036 Lankford Hwy.,Walmart Supercenter,2010-07-21,
 2646,VA,Giles,51071,Pearisburg,37.3289,-80.7275,160 Kinter Way,Walmart Supercenter,1998-09-16,
@@ -4469,7 +4469,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 1301,VA,Roanoke,51770,Roanoke,37.2785,-79.9581,5350 Clearbrook Village Ln.,Walmart Supercenter,1989-06-29,
 2312,VA,Roanoke,51770,Roanoke,37.2785,-79.9581,4807 Valley View Blvd. NW,Walmart Supercenter,1996-01-24,
 3243,VA,Roanoke,51770,Roanoke,37.2785,-79.9581,4524 Challenger Ave.,Walmart Supercenter,2002-09-18,
-3618,VA,Roanoke,51770,Roanoke,37.2785,-79.9581,3419 Orange Ave Ne,Neighborhood Market,1900-01-01,2018-01-30
+3618,VA,Roanoke,51770,Roanoke,37.2785,-79.9581,3419 Orange Ave Ne,Neighborhood Market,2014-10-23,2018-01-30
 2337,VA,Franklin,51067,Rocky Mount,37.0045,-79.8854,550 Old Franklin Tpke.,Walmart Supercenter,1996-07-17,
 4638,VA,Greene,51079,Ruckersville,38.2314,-78.3756,135 Stoneridge Dr.,Walmart Supercenter,2010-08-18,
 1309,VA,Salem,51775,Salem,37.2864,-80.0555,1851 W Main St.,Walmart Supercenter,1989-06-01,
@@ -4492,7 +4492,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 3216,VA,Virginia Beach,51810,Virginia Beach,36.7335,-76.0435,1149 Nimmo Pkwy.,Walmart Supercenter,2001-05-16,
 4064,VA,Virginia Beach,51810,Virginia Beach,36.7335,-76.0435,4821 Virginia Beach Blvd.,Walmart Supercenter,2014-10-08,
 5922,VA,Virginia Beach,51810,Virginia Beach,36.7335,-76.0435,546  Colonial Road,Walmart Supercenter,2017-06-07,
-6574,VA,Virginia Beach,51810,Virginia Beach,36.7335,-76.0435,2864 Virginia Beach Boulevard,Neighborhood Market,1900-01-01,2022-01-01
+6574,VA,Virginia Beach,51810,Virginia Beach,36.7335,-76.0435,2864 Virginia Beach Boulevard,Neighborhood Market,2014-07-23,2022-01-01
 2437,VA,Fauquier,51061,Warrenton,38.7176,-77.7976,700 James Madison Hwy.,Walmart Supercenter,1999-09-15,
 4388,VA,Waynesboro,51820,Waynesboro,38.0674,-78.9014,1211 W Broad St. Ste. A,Neighborhood Market,2016-08-03,
 5117,VA,Waynesboro,51820,Waynesboro,38.0674,-78.9014,116 Lucy Ln.,Walmart Supercenter,2004-01-21,
@@ -4825,13 +4825,13 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2172,OH,Hamilton,39061,Springdale,39.2909,-84.4760,800 Kemper Commons Cir.,Walmart,1994-06-29,2008-01-01
 1725,OH,Montgomery,39113,Trotwood,39.7926,-84.3165,5331 Salem Ave,Walmart,1991-12-31,2007-01-01
 327,OK,Delaware,40041,Jay,36.4271,-94.7956,1107 S Main St,Walmart,1981-04-07,2020-01-01
-4633,OK,Oklahoma,40109,Luther,35.6682,-97.1905,19250 E Hwy 66,Neighborhood Market,1900-01-01,2016-01-28
-3756,OK,Okfuskee,40107,Okemah,35.4292,-96.2998,124 E. Columbia St.,Neighborhood Market,1900-01-01,2016-01-28
+4633,OK,Oklahoma,40109,Luther,35.6682,-97.1905,19250 E Hwy 66,Neighborhood Market,2015-03-19,2016-01-28
+3756,OK,Okfuskee,40107,Okemah,35.4292,-96.2998,124 E. Columbia St.,Neighborhood Market,2014-10-09,2016-01-28
 1278,OK,Noble,40103,Perry,36.2837,-97.3094,1506 Fir Ave,Walmart,1988-11-01,2017-07-15
-2456,OK,Lincoln,40081,Prague,35.499,-96.7001,2310 West Main,Neighborhood Market,1900-01-01,2016-01-28
-2462,OK,Lincoln,40081,Stroud,35.7686,-96.6467,1600 West Hwy 66,Neighborhood Market,1900-01-01,2016-01-28
-3767,OK,Blaine,40011,Watonga,35.8691,-98.4166,812 N Clarence Nash Blvd,Neighborhood Market,1900-01-01,2016-01-28
-3766,OK,Seminole,40133,Wewoka,35.1441,-96.4968,2324 Seran Drive,Neighborhood Market,1900-01-01,2016-01-28
+2456,OK,Lincoln,40081,Prague,35.499,-96.7001,2310 West Main,Neighborhood Market,2014-09-19,2016-01-28
+2462,OK,Lincoln,40081,Stroud,35.7686,-96.6467,1600 West Hwy 66,Neighborhood Market,2014-09-09,2016-01-28
+3767,OK,Blaine,40011,Watonga,35.8691,-98.4166,812 N Clarence Nash Blvd,Neighborhood Market,2014-10-09,2016-01-28
+3766,OK,Seminole,40133,Wewoka,35.1441,-96.4968,2324 Seran Drive,Neighborhood Market,2014-12-04,2016-01-28
 5995,OR,Clackamas,41005,Lake Oswego,45.4129,-122.7004,17711 Jean Way,Neighborhood Market,1900-01-01,2016-01-28
 5177,PA,Bucks,42017,Bristol,40.1012,-74.8508,100 Commerce Cir,Neighborhood Market,1900-01-01,2017-11-09
 1250,SC,Laurens,45059,Gray Court,34.6079,-82.1143,9032 Hwy 14,Walmart Express,1900-01-01,2016-01-28
@@ -4870,6 +4870,6 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 8855,UT,Salt Lake,49035,Millcreek,40.6892,-111.8292,3701 S Highland Dr.,Walmart Pickup,2017-07-19,2022-01-01
 8862,UT,Salt Lake,49035,Murray,40.6498,-111.8874,5596 S Van Winkle Expy.,Walmart Pickup,2017-06-07,2022-01-01
 650,VA,Wise,51195,Big Stone Gap,36.8626,-82.7769,1959 Neeley Rd,Walmart,1984-09-18,2019-01-01
-3811,WV,McDowell,54047,Kimball,37.4268,-81.5078,61 Plaza Drive,Walmart Supercenter,2015-10-26,2016-01-28
+3811,WV,McDowell,54047,Kimball,37.4268,-81.5078,61 Plaza Drive,Walmart Supercenter,2006-07-18,2016-01-28
 3031,WI,Waukesha,55133,Menomonee Falls,43.1487,-88.1227,N88W15559 Main St.,Neighborhood Market,1900-01-01,2016-01-28
 3030,WI,Milwaukee,55079,Wauwatosa,43.0616,-88.0347,3850 N 124th St.,Neighborhood Market,1900-01-01,2016-01-28

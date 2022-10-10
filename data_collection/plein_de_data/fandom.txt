@@ -2466,7 +2466,7 @@ Salem - 1101 W Highway 32 - Walmart Supercenter (store #27, opened February 1, 1
 Sedalia - 3201 W Broadway Blvd. - Walmart Supercenter (store #219, opened October 3, 1978)
 Shrewsbury - 7437 Watson Road - Walmart Supercenter (store #3061, opened September 23, 2015)
 Sikeston - 1303 S Main St. - Walmart Supercenter (store #9, opened March 1, 1968)
-Springfield - 444 W Grand Street - Neighborhood Market (store #2839, opened March 16, 2016)
+Springfield - 444 W Grand Street - Neighborhood Market (store #2839, opened October 29, 2015)
 Springfield - 3536 W Mount Vernon St. - Neighborhood Market (store #3062, opened October 17, 2012)
 Springfield - 545 El Camino Alto Dr. - Neighborhood Market (store #3111, opened October 3, 2012)
 Springfield - 3720 East Sunshine Street - Neighborhood Market (store #3238, opened January 7, 2015)
@@ -3717,7 +3717,7 @@ Kimball - 525 Kimball Crossing Dr. - Walmart Supercenter (store #1089, opened Au
 Kingsport - 750 Lynn Garden Dr. - Neighborhood Market (store #5734, opened November 11, 2015)
 Kingsport - 3200 Ft. Henry Drive - Walmart Supercenter (store #599, opened August 31, 1984)
 Kingsport - 2500 W Stone Dr. - Walmart Supercenter (store #742, opened August 31, 1984)
-Knoxville - 3120 McKamey Road - Neighborhood Market (store #3959, opened January 25, 2017)
+Knoxville - 3120 McKamey Road - Neighborhood Market (store #3959, opened October 7, 2016)
 Knoxville - 6777 Clinton Hwy. - Walmart Supercenter (store #1318, opened August 31, 1989)
 Knoxville - 7550 Norris Fwy. - Walmart Supercenter (store #1319, opened August 31, 1989)
 Knoxville - 7420 Chapman Hwy. - Walmart Supercenter (store #1320, opened January 31, 1990)
@@ -4900,13 +4900,13 @@ Springdale - 800 Kemper Commons Cir. - Walmart (store #2172, opened June 29, 199
 Trotwood - 5331 Salem Ave - Walmart (store #1725, opened December 31, 1991, closed January 1, 2007). Currently U-Haul
 !Oklahoma
 Jay - 1107 S Main St - Walmart (store #327, opened April 7, 1981, closed January 1, 2020)
-Luther - 19250 E Hwy 66 - Neighborhood Market (formerly Walmart Express) (store #4633, opened January 1, 1900, closed January 28, 2016)
-Okemah - 124 E. Columbia St. - Neighborhood Market (formerly Walmart Express) (store #3756, opened January 1, 1900, closed January 28, 2016)
+Luther - 19250 E Hwy 66 - Neighborhood Market (formerly Walmart Express) (store #4633, opened March 19, 2015, closed January 28, 2016)
+Okemah - 124 E. Columbia St. - Neighborhood Market (formerly Walmart Express) (store #3756, opened October 9, 2014, closed January 28, 2016)
 Perry - 1506 Fir Ave - Walmart (store #1278, opened November 1, 1988, closed July 15, 2017)
-Prague - 2310 West Main - Neighborhood Market (formerly Walmart Express) (store #2456 opened January 1, 1900, closed January 28, 2016)
-Stroud - 1600 West Hwy 66 - Neighborhood Market (formerly Walmart Express) (store #2462, opened January 1, 1900, closed January 28, 2016)
-Watonga - 812 N Clarence Nash Blvd - Neighborhood Market (formerly Walmart Express) (store #3767, opened January 1, 1900, closed January 28, 2016)
-Wewoka - 2324 Seran Drive - Neighborhood Market (formerly Walmart Express) (store #3766, opened January 1, 1900, closed January 28, 2016)
+Prague - 2310 West Main - Neighborhood Market (formerly Walmart Express) (store #2456 opened September 19, 2014, closed January 28, 2016)
+Stroud - 1600 West Hwy 66 - Neighborhood Market (formerly Walmart Express) (store #2462, opened September 9, 2014, closed January 28, 2016)
+Watonga - 812 N Clarence Nash Blvd - Neighborhood Market (formerly Walmart Express) (store #3767, opened October 9, 2014, closed January 28, 2016)
+Wewoka - 2324 Seran Drive - Neighborhood Market (formerly Walmart Express) (store #3766, opened December 4, 2014, closed January 28, 2016)
 !Oregon
 Lake Oswego - 17711 Jean Way - Neighborhood Market (store #5995, opened January 1, 1900, closed January 28, 2016)
 Medford - 3615 Crater Lake Hwy - Walmart (store #2029, opened September 28, 1993, closed September 11, 2013) Demolished for Supercenter #5839.
@@ -4978,15 +4978,15 @@ Murray - 5596 S Van Winkle Expy. - Walmart Pickup (store #8862, opened June 7, 2
 South Jordan - 3706 W 9800 S - Neighborhood Market (store #5120, opened January 1, 1900, closed January 1, 2022)
 !Virginia
 Big Stone Gap - 1959 Neeley Rd - Walmart (store #650, opened September 18, 1984, closed January 1, 2019)
-North Chesterfield - 7000 Iron Bridge Rd - Neighborhood Market (store #3892, opened January 1, 1900, closed March 29, 2019)
-Richmond - 912 W Grace St - Neighborhood Market (store #4502, opened January 1, 1900, closed January 1, 2022)
-Roanoke - 3419 Orange Ave Ne - Neighborhood Market (store #3618, opened January 1, 1900, closed January 30, 2018)
-Virginia Beach - 2864 Virginia Beach Boulevard - Neighborhood Market (store #6574, opened January 1, 1900, closed January 1, 2022)
+North Chesterfield - 7000 Iron Bridge Rd - Neighborhood Market (store #3892, opened May 26, 2015, closed March 29, 2019)
+Richmond - 912 W Grace St - Neighborhood Market (store #4502, opened May 2, 2015, closed January 1, 2022)
+Roanoke - 3419 Orange Ave Ne - Neighborhood Market (store #3618, opened October 23, 2014, closed January 30, 2018)
+Virginia Beach - 2864 Virginia Beach Boulevard - Neighborhood Market (store #6574, opened July 23, 2014, closed January 1, 2022)
 !Washington
 Bellevue - 12620 SE 41st Pl. - Walmart (store #5939, opened October 17, 2012, closed April 22, 2022)
 Vancouver - 7809 Ne Vancouver Plaza Dr - Neighborhood Market (store #3052, opened January 1, 1900, closed January 1, 2022)
 !West Virginia
-Kimball - 61 Plaza Drive - Walmart Supercenter (store #3811, opened October 26, 2015, closed January 28, 2016)
+Kimball - 61 Plaza Drive - Walmart Supercenter (store #3811, opened July 18, 2006, closed January 28, 2016)
 !Wisconsin
 Menomonee Falls - N88W15559 Main St. - Neighborhood Market (store #3031, opened January 1, 1900, closed January 28, 2016)
 Milwaukee - 5825 W Hope Ave - Walmart (store #3496, opened August 14, 2002, closed January 28, 2016)
