@@ -4886,9 +4886,9 @@ Oriental - 1400 N Broad St - Neighborhood Market (formerly Walmart Express) (sto
 Pikeville - 303 S Goldsboro St - Neighborhood Market (formerly Walmart Express) (store #2573, closed January 28, 2016)
 Princeton - 509 Dr. Donnie H. Jones Blvd W - Neighborhood Market (formerly Walmart Express) (store #3211, closed January 28, 2016)
 Red Springs - 908 E 4th Ave - Neighborhood Market (formerly Walmart Express) (store #5015, closed January 28, 2016)
-Richfield - 139 N Hwy 49 - Neighborhood Market (formerly Walmart Express) (store #3007, closed January 17, 2016)
-Snow Hill - 905 SE 2nd St - Neighborhood Market (formerly Walmart Express) (store #3037, closed January 28, 2016)
-Stedman - 7670 Clinton Rd - Neighborhood Market (formerly Walmart Express) (store #5017, closed January 28, 2016)
+Richfield - 139 N Hwy 49 - Neighborhood Market (formerly Walmart Express) (store #3007, opened April 1, 2011, closed January 17, 2016)
+Snow Hill - 905 SE 2nd St - Neighborhood Market (formerly Walmart Express) (store #3037, opened August 1, 2011, closed January 28, 2016)
+Stedman - 7670 Clinton Rd - Neighborhood Market (formerly Walmart Express) (store #5017, opened February 20, 2013, closed January 28, 2016)
 Wadesboro - 1047 E Caswell St - Walmart (store #1127, opened November 17, 1988, closed January 1, 2020)
 Yanceyville - 1593 NC Hwy 86 N - Neighborhood Market (formerly Walmart Express) (store #3036, opened October 1, 2014, closed January 28, 2016)
 !Ohio
