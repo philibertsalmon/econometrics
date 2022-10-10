@@ -4814,9 +4814,9 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2573,NC,Wayne,37191,Pikeville,35.4972,-77.9877,303 S Goldsboro St,Neighborhood Market,,2016-01-28
 3211,NC,Johnston,37101,Princeton,35.4671,-78.1613,509 Dr. Donnie H. Jones Blvd W,Neighborhood Market,,2016-01-28
 5015,NC,Robeson,37155,Red Springs,34.8046,-79.1822,908 E 4th Ave,Neighborhood Market,,2016-01-28
-3007,NC,Stanly,37167,Richfield,35.4716,-80.2586,139 N Hwy 49,Neighborhood Market,,2016-01-17
-3037,NC,Greene,37079,Snow Hill,35.4506,-77.6769,905 SE 2nd St,Neighborhood Market,,2016-01-28
-5017,NC,Cumberland,37051,Stedman,35.0114,-78.6996,7670 Clinton Rd,Neighborhood Market,,2016-01-28
+3007,NC,Stanly,37167,Richfield,35.4716,-80.2586,139 N Hwy 49,Neighborhood Market,2011-04-01,2016-01-17
+3037,NC,Greene,37079,Snow Hill,35.4506,-77.6769,905 SE 2nd St,Neighborhood Market,2011-08-01,2016-01-28
+5017,NC,Cumberland,37051,Stedman,35.0114,-78.6996,7670 Clinton Rd,Neighborhood Market,2013-02-20,2016-01-28
 1127,NC,Anson,37007,Wadesboro,34.9645,-80.0746,1047 E Caswell St,Walmart,1988-11-17,2020-01-01
 3036,NC,Caswell,37033,Yanceyville,36.4101,-79.3356,1593 NC Hwy 86 N,Neighborhood Market,2014-10-01,2016-01-28
 4342,OH,Cuyahoga,39035,Bedford,41.3919,-81.5360,22209 Rockside Rd,Walmart Supercenter,2011-02-01,2016-01-28
