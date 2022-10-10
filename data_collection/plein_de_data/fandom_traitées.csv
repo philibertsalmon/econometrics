@@ -4802,39 +4802,21 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2171,NJ,Mercer,34021,Princeton,40.3562,-74.6693,101 Nassau Park Blvd,Walmart,1995-05-31,2020-01-01
 2415,NY,Schenectady,36093,Niskayuna,42.7798,-73.8457,3429 State Street,Neighborhood Market,1900-01-01,2017-07-04
 3577,NY,Westchester,36119,White Plains,41.022,-73.7547,275 Main St,Walmart,1900-01-01,2018-08-10
-<<<<<<< HEAD
-3080,NC,Pitt,37147,Ayden,35.4693,-77.4167,182 NC 102 W,Neighborhood Market,,2016-01-28
-5138,NC,Johnston,37101,Benson,35.386,-78.5437,702 S Wall St,Neighborhood Market,,2016-01-28
-3257,NC,Lee,37105,Broadway,35.4579,-79.0547,112 N Main St,Neighborhood Market,,2016-01-28
-2500,NC,Moore,37125,Carthage,35.3224,-79.4114,945 Monroe St,Neighborhood Market,,2016-01-28
-3249,NC,Harnett,37085,Coats,35.407,-78.6684,511 N McKinley St,Neighborhood Market,,2016-01-28
-5024,NC,Johnston,37101,Four Oaks,35.4449,-78.4159,6043 US Hwy 301 S,Neighborhood Market,2013-01-31,2016-01-28
-6997,NC,Randolph,37151,Liberty,35.8555,-79.5682,632 W Swannanoa Ave,Neighborhood Market,,2016-01-28
-3121,NC,Davidson,37057,Midway,35.9751,-80.2204,189 Hickory Tree Rd,Neighborhood Market,,2016-01-28
-7207,NC,Pamlico,37137,Oriental,35.0357,-76.6816,1400 N Broad St,Neighborhood Market,2014-02-14,2016-01-28
-2573,NC,Wayne,37191,Pikeville,35.4972,-77.9877,303 S Goldsboro St,Neighborhood Market,2013-01-23,2016-01-28
-3211,NC,Johnston,37101,Princeton,35.4671,-78.1613,509 Dr. Donnie H. Jones Blvd W,Neighborhood Market,2013-03-29,2016-01-28
-5015,NC,Robeson,37155,Red Springs,34.8046,-79.1822,908 E 4th Ave,Neighborhood Market,2012-12-20,2016-01-28
-3007,NC,Stanly,37167,Richfield,35.4716,-80.2586,139 N Hwy 49,Neighborhood Market,,2016-01-17
-3037,NC,Greene,37079,Snow Hill,35.4506,-77.6769,905 SE 2nd St,Neighborhood Market,,2016-01-28
-5017,NC,Cumberland,37051,Stedman,35.0114,-78.6996,7670 Clinton Rd,Neighborhood Market,,2016-01-28
-=======
 3080,NC,Pitt,37147,Ayden,35.4693,-77.4167,182 NC 102 W,Neighborhood Market,2011-10-01,2016-01-28
 5138,NC,Johnston,37101,Benson,35.386,-78.5437,702 S Wall St,Neighborhood Market,2013-01-01,2016-01-28
 3257,NC,Lee,37105,Broadway,35.4579,-79.0547,112 N Main St,Neighborhood Market,2013-06-01,2016-01-28
 2500,NC,Moore,37125,Carthage,35.3224,-79.4114,945 Monroe St,Neighborhood Market,2012-10-01,2016-01-28
 3249,NC,Harnett,37085,Coats,35.407,-78.6684,511 N McKinley St,Neighborhood Market,2013-06-01,2016-01-28
-5024,NC,Johnston,37101,Four Oaks,35.4449,-78.4159,6043 US Hwy 301 S,Neighborhood Market,,2016-01-28
+5024,NC,Johnston,37101,Four Oaks,35.4449,-78.4159,6043 US Hwy 301 S,Neighborhood Market,2013-01-31,2016-01-28
 6997,NC,Randolph,37151,Liberty,35.8555,-79.5682,632 W Swannanoa Ave,Neighborhood Market,2012-09-01,2016-01-28
 3121,NC,Davidson,37057,Midway,35.9751,-80.2204,189 Hickory Tree Rd,Neighborhood Market,2011-09-01,2016-01-28
-7207,NC,Pamlico,37137,Oriental,35.0357,-76.6816,1400 N Broad St,Neighborhood Market,,2016-01-28
-2573,NC,Wayne,37191,Pikeville,35.4972,-77.9877,303 S Goldsboro St,Neighborhood Market,,2016-01-28
-3211,NC,Johnston,37101,Princeton,35.4671,-78.1613,509 Dr. Donnie H. Jones Blvd W,Neighborhood Market,,2016-01-28
-5015,NC,Robeson,37155,Red Springs,34.8046,-79.1822,908 E 4th Ave,Neighborhood Market,,2016-01-28
+7207,NC,Pamlico,37137,Oriental,35.0357,-76.6816,1400 N Broad St,Neighborhood Market,2014-02-14,2016-01-28
+2573,NC,Wayne,37191,Pikeville,35.4972,-77.9877,303 S Goldsboro St,Neighborhood Market,2013-01-23,2016-01-28
+3211,NC,Johnston,37101,Princeton,35.4671,-78.1613,509 Dr. Donnie H. Jones Blvd W,Neighborhood Market,2013-03-29,2016-01-28
+5015,NC,Robeson,37155,Red Springs,34.8046,-79.1822,908 E 4th Ave,Neighborhood Market,2012-12-20,2016-01-28
 3007,NC,Stanly,37167,Richfield,35.4716,-80.2586,139 N Hwy 49,Neighborhood Market,2011-04-01,2016-01-17
 3037,NC,Greene,37079,Snow Hill,35.4506,-77.6769,905 SE 2nd St,Neighborhood Market,2011-08-01,2016-01-28
 5017,NC,Cumberland,37051,Stedman,35.0114,-78.6996,7670 Clinton Rd,Neighborhood Market,2013-02-20,2016-01-28
->>>>>>> 7b298487e7b315d25b18a0153ddab3a90ce7a508
 1127,NC,Anson,37007,Wadesboro,34.9645,-80.0746,1047 E Caswell St,Walmart,1988-11-17,2020-01-01
 3036,NC,Caswell,37033,Yanceyville,36.4101,-79.3356,1593 NC Hwy 86 N,Neighborhood Market,2014-10-01,2016-01-28
 4342,OH,Cuyahoga,39035,Bedford,41.3919,-81.5360,22209 Rockside Rd,Walmart Supercenter,2011-02-01,2016-01-28
