@@ -4785,7 +4785,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 983,MN,Faribault,27043,Blue Earth,43.6409,-94.1005,1210 Giant Dr,Walmart,1987-02-03,2017-10-03
 5437,MN,Mahnomen,27087,Midway,47.317,-95.7838,1450 University Avenue W,Walmart,2004-05-19,2019-01-01
 3856,MS,Tishomingo,28141,Belmont,34.5046,-88.2080,410 2nd St,Neighborhood Market,2014-08-22,2016-01-28
-4294,MS,Calhoun,28013,Derma,33.8589,-89.2878,519 W Veterans Ave,Neighborhood Market,,2016-01-28
+4294,MS,Calhoun,28013,Derma,33.8589,-89.2878,519 W Veterans Ave,Neighborhood Market,2014-09-05,2016-01-28
 3863,MS,Itawamba,28057,Mantachie,34.3251,-88.4961,2795 Hwy 371 N,Neighborhood Market,2014-08-22,2016-01-28
 4296,MS,Monroe,28095,Nettleton,34.0852,-88.6248,7104 Will Robbins Hwy,Neighborhood Market,2014-08-22,2016-01-28
 3865,MS,Panola,28107,Sardis,34.4355,-89.9114,420 E Lee St,Neighborhood Market,2014-08-22,2016-01-28
@@ -4802,39 +4802,21 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2171,NJ,Mercer,34021,Princeton,40.3562,-74.6693,101 Nassau Park Blvd,Walmart,1995-05-31,2020-01-01
 2415,NY,Schenectady,36093,Niskayuna,42.7798,-73.8457,3429 State Street,Neighborhood Market,1900-01-01,2017-07-04
 3577,NY,Westchester,36119,White Plains,41.022,-73.7547,275 Main St,Walmart,1900-01-01,2018-08-10
-<<<<<<< HEAD
-3080,NC,Pitt,37147,Ayden,35.4693,-77.4167,182 NC 102 W,Neighborhood Market,,2016-01-28
-5138,NC,Johnston,37101,Benson,35.386,-78.5437,702 S Wall St,Neighborhood Market,,2016-01-28
-3257,NC,Lee,37105,Broadway,35.4579,-79.0547,112 N Main St,Neighborhood Market,,2016-01-28
-2500,NC,Moore,37125,Carthage,35.3224,-79.4114,945 Monroe St,Neighborhood Market,,2016-01-28
-3249,NC,Harnett,37085,Coats,35.407,-78.6684,511 N McKinley St,Neighborhood Market,,2016-01-28
-5024,NC,Johnston,37101,Four Oaks,35.4449,-78.4159,6043 US Hwy 301 S,Neighborhood Market,2013-01-31,2016-01-28
-6997,NC,Randolph,37151,Liberty,35.8555,-79.5682,632 W Swannanoa Ave,Neighborhood Market,,2016-01-28
-3121,NC,Davidson,37057,Midway,35.9751,-80.2204,189 Hickory Tree Rd,Neighborhood Market,,2016-01-28
-7207,NC,Pamlico,37137,Oriental,35.0357,-76.6816,1400 N Broad St,Neighborhood Market,2014-02-14,2016-01-28
-2573,NC,Wayne,37191,Pikeville,35.4972,-77.9877,303 S Goldsboro St,Neighborhood Market,2013-01-23,2016-01-28
-3211,NC,Johnston,37101,Princeton,35.4671,-78.1613,509 Dr. Donnie H. Jones Blvd W,Neighborhood Market,2013-03-29,2016-01-28
-5015,NC,Robeson,37155,Red Springs,34.8046,-79.1822,908 E 4th Ave,Neighborhood Market,2012-12-20,2016-01-28
-3007,NC,Stanly,37167,Richfield,35.4716,-80.2586,139 N Hwy 49,Neighborhood Market,,2016-01-17
-3037,NC,Greene,37079,Snow Hill,35.4506,-77.6769,905 SE 2nd St,Neighborhood Market,,2016-01-28
-5017,NC,Cumberland,37051,Stedman,35.0114,-78.6996,7670 Clinton Rd,Neighborhood Market,,2016-01-28
-=======
 3080,NC,Pitt,37147,Ayden,35.4693,-77.4167,182 NC 102 W,Neighborhood Market,2011-10-01,2016-01-28
 5138,NC,Johnston,37101,Benson,35.386,-78.5437,702 S Wall St,Neighborhood Market,2013-01-01,2016-01-28
 3257,NC,Lee,37105,Broadway,35.4579,-79.0547,112 N Main St,Neighborhood Market,2013-06-01,2016-01-28
 2500,NC,Moore,37125,Carthage,35.3224,-79.4114,945 Monroe St,Neighborhood Market,2012-10-01,2016-01-28
 3249,NC,Harnett,37085,Coats,35.407,-78.6684,511 N McKinley St,Neighborhood Market,2013-06-01,2016-01-28
-5024,NC,Johnston,37101,Four Oaks,35.4449,-78.4159,6043 US Hwy 301 S,Neighborhood Market,,2016-01-28
+5024,NC,Johnston,37101,Four Oaks,35.4449,-78.4159,6043 US Hwy 301 S,Neighborhood Market,2013-01-31,2016-01-28
 6997,NC,Randolph,37151,Liberty,35.8555,-79.5682,632 W Swannanoa Ave,Neighborhood Market,2012-09-01,2016-01-28
 3121,NC,Davidson,37057,Midway,35.9751,-80.2204,189 Hickory Tree Rd,Neighborhood Market,2011-09-01,2016-01-28
-7207,NC,Pamlico,37137,Oriental,35.0357,-76.6816,1400 N Broad St,Neighborhood Market,,2016-01-28
-2573,NC,Wayne,37191,Pikeville,35.4972,-77.9877,303 S Goldsboro St,Neighborhood Market,,2016-01-28
-3211,NC,Johnston,37101,Princeton,35.4671,-78.1613,509 Dr. Donnie H. Jones Blvd W,Neighborhood Market,,2016-01-28
-5015,NC,Robeson,37155,Red Springs,34.8046,-79.1822,908 E 4th Ave,Neighborhood Market,,2016-01-28
+7207,NC,Pamlico,37137,Oriental,35.0357,-76.6816,1400 N Broad St,Neighborhood Market,2014-02-14,2016-01-28
+2573,NC,Wayne,37191,Pikeville,35.4972,-77.9877,303 S Goldsboro St,Neighborhood Market,2013-01-23,2016-01-28
+3211,NC,Johnston,37101,Princeton,35.4671,-78.1613,509 Dr. Donnie H. Jones Blvd W,Neighborhood Market,2013-03-29,2016-01-28
+5015,NC,Robeson,37155,Red Springs,34.8046,-79.1822,908 E 4th Ave,Neighborhood Market,2012-12-20,2016-01-28
 3007,NC,Stanly,37167,Richfield,35.4716,-80.2586,139 N Hwy 49,Neighborhood Market,2011-04-01,2016-01-17
 3037,NC,Greene,37079,Snow Hill,35.4506,-77.6769,905 SE 2nd St,Neighborhood Market,2011-08-01,2016-01-28
 5017,NC,Cumberland,37051,Stedman,35.0114,-78.6996,7670 Clinton Rd,Neighborhood Market,2013-02-20,2016-01-28
->>>>>>> 7b298487e7b315d25b18a0153ddab3a90ce7a508
 1127,NC,Anson,37007,Wadesboro,34.9645,-80.0746,1047 E Caswell St,Walmart,1988-11-17,2020-01-01
 3036,NC,Caswell,37033,Yanceyville,36.4101,-79.3356,1593 NC Hwy 86 N,Neighborhood Market,2014-10-01,2016-01-28
 4342,OH,Cuyahoga,39035,Bedford,41.3919,-81.5360,22209 Rockside Rd,Walmart Supercenter,2011-02-01,2016-01-28
@@ -4857,7 +4839,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2606,SC,Fairfield,45039,Winnsboro,34.3718,-81.0907,721 US Hwy 321 BYP S,Walmart Supercenter,2013-01-01,2016-01-28
 2375,TN,Marshall,47117,Chapel Hill,35.6283,-86.6970,4718 Nashville Hwy,Neighborhood Market,2014-09-01,2016-01-28
 4301,TN,Marshall,47117,Cornersville,35.3634,-86.8584,400 North Main St.,Neighborhood Market,2014-09-01,2016-01-28
-4306,TN,Stewart,47161,Dover,36.4818,-87.8438,934 US-79,Neighborhood Market,,2016-01-28
+4306,TN,Stewart,47161,Dover,36.4818,-87.8438,934 US-79,Neighborhood Market,2014-10-07,2016-01-28
 2413,TN,Lawrence,47099,Loretto,35.0792,-87.4401,523 N Military St.,Neighborhood Market,2014-09-01,2016-01-28
 2410,TX,Jones,48253,Anson,32.755,-99.8963,122 Commercial Ave.,Neighborhood Market,2014-09-09,2016-01-28
 1092,TX,Terry,48445,Brownfield,33.1757,-102.2730,1405 Tahoka Rd,Walmart,1987-11-03,2017-01-31
@@ -4872,10 +4854,10 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2779,TX,Haskell,48207,Haskell,33.1597,-99.7320,5 N 14th St.,Neighborhood Market,2014-04-12,2016-01-28
 4327,TX,Cass,48067,Hughes Springs,32.9987,-94.6311,870 Taylor St.,Neighborhood Market,2014-10-01,2016-01-28
 2345,TX,Ellis,48139,Italy,32.1857,-96.8867,721 Dale Evans Drive,Neighborhood Market,2014-10-01,2016-01-28
-2346,TX,Kaufman,48257,Kemp,32.4351,-96.2240,221 S State Hwy 274,Neighborhood Market,,2016-01-28
+2346,TX,Kaufman,48257,Kemp,32.4351,-96.2240,221 S State Hwy 274,Neighborhood Market,2014-11-06,2016-01-28
 1050,TX,Dawson,48115,Lamesa,32.7333,-101.9541,2406 Lubbock Hwy,Walmart,1987-01-13,2016-10-01
 3832,TX,Fannin,48147,Leonard,33.3829,-96.2467,420 S US 69,Neighborhood Market,2015-02-11,2016-01-28
-4331,TX,Morris,48343,Lone Star,32.9392,-94.7090,914 North Main St.,Neighborhood Market,,2016-01-28
+4331,TX,Morris,48343,Lone Star,32.9392,-94.7090,914 North Main St.,Neighborhood Market,2014-10-06,2016-01-28
 4345,TX,Bowie,48037,Maud,33.3299,-94.3461,114 Redwater Boulevard West,Neighborhood Market,2014-10-01,2016-01-28
 2461,TX,Taylor,48441,Merkel,32.4698,-100.0111,1003 Telephone Cir.,Neighborhood Market,2014-07-01,2016-01-28
 4338,TX,Morris,48343,Naples,33.2029,-94.6777,504 WL Doc Dodson,Neighborhood Market,2014-10-01,2016-01-28
