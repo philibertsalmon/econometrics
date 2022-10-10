@@ -37,6 +37,7 @@ map_data = pd.merge(df4, uscities,  how='inner', left_on=['Town','State'], right
 #plotting the map
 geo_map_data = gpd.GeoDataFrame(
     map_data, geometry=gpd.points_from_xy(map_data.lng, map_data.lat))
+geo_map_data.crs = 'EPSG:4326'
 geo_map_data.explore(column='Walmart entry or/and exit (2016, per city)', cmap=["blue","green","red"], 
                      style_kwds={"style_function": lambda x: {"radius": x["properties"]["count"]*2}})
 
