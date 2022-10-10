@@ -4890,7 +4890,7 @@ Richfield - 139 N Hwy 49 - Neighborhood Market (formerly Walmart Express) (store
 Snow Hill - 905 SE 2nd St - Neighborhood Market (formerly Walmart Express) (store #3037, closed January 28, 2016)
 Stedman - 7670 Clinton Rd - Neighborhood Market (formerly Walmart Express) (store #5017, closed January 28, 2016)
 Wadesboro - 1047 E Caswell St - Walmart (store #1127, opened November 17, 1988, closed January 1, 2020)
-Yanceyville - 1593 NC Hwy 86 N - Neighborhood Market (formerly Walmart Express) (store #3036, closed January 28, 2016)
+Yanceyville - 1593 NC Hwy 86 N - Neighborhood Market (formerly Walmart Express) (store #3036, opened October 1, 2014, closed January 28, 2016)
 !Ohio
 Bedford - 22209 Rockside Rd - Walmart Supercenter (store #4342, opened February 1, 2011, closed January 28, 2016)
 Cincinnati - 1143 Smiley Ave. - Walmart Supercenter (store #3656, opened May 17, 2006, closed April 22, 2022)
@@ -4920,7 +4920,7 @@ Columbia - 3603 Broad River Rd. - Neighborhood Market (store #5318, opened Janua
 Columbia - 1326 Bush River Rd. - Walmart Supercenter (store #4379, opened May 9, 2007, closed February 15, 2021)
 Gray Court - 9032 Hwy 14 - Walmart Express (store #1250, opened January 1, 1900, closed January 28, 2016)
 Pacolet - 7013 South Pine Street - Walmart Express (store #3798, opened January 1, 1900, closed January 17, 2016)
-Winnsboro - 721 US Hwy 321 BYP S - Walmart Supercenter (store #2606, January 1, 2013, closed January 28, 2016)
+Winnsboro - 721 US Hwy 321 BYP S - Walmart Supercenter (store #2606, opened January 1, 2013, closed January 28, 2016)
 !Tennessee
 Chapel Hill - 4718 Nashville Hwy - Neighborhood Market (formerly Walmart Express) (store #2375, opened September 1, 2014, closed January 28, 2016)
 Chattanooga - 4110 Shallowford Rd. - Neighborhood Market (store #4671, opened January 27, 2016, closed January 1, 2022)
