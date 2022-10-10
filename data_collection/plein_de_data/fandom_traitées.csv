@@ -544,7 +544,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2526,CA,Los Angeles,6037,Los Angeles,34.1141,-118.4068,19821 Rinaldi St. (Porter Ranch),Walmart Supercenter,2000-01-26,
 5152,CA,Los Angeles,6037,Los Angeles,34.1141,-118.4068,6433 Fallbrook Ave. (West Hills),Walmart,2004-01-28,
 2960,CA,Los Angeles,6037,Los Angeles,34.1141,-118.4068,4101 Crenshaw Blvd,Walmart,2003-01-22,2016-01-17
-3086,CA,Los Angeles,6037,Los Angeles,34.1141,-118.4068,701 W Cesar E Chavez Ave.,Neighborhood Market,1900-01-01,2016-01-17
+3086,CA,Los Angeles,6037,Los Angeles,34.1141,-118.4068,701 W Cesar E Chavez Ave.,Neighborhood Market,2013-09-19,2016-01-17
 2110,CA,Los Angeles,6037,Paramount,33.8977,-118.1651,14501 Lakewood Blvd.,Walmart Supercenter,1994-05-17,
 2099,CA,San Luis Obispo,6079,El Paso de Robles,35.6394,-120.6560,180 Niblick Rd.,Walmart,1994-09-27,
 5843,CA,Stanislaus,6099,Patterson,37.4758,-121.1536,1030 Sperry Ave.,Walmart Supercenter,2013-01-23,
@@ -584,11 +584,11 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2735,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,6051 Florin Rd.,Walmart Supercenter,2001-10-24,
 3081,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,8915 Gerber Road,Walmart Supercenter,2015-11-18,
 5230,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,3460 El Camino Ave,Walmart Supercenter,1900-01-01,2018-02-09
-6530,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,4420 Florin Rd,Neighborhood Market,1900-01-01,2019-11-01
+6530,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,4420 Florin Rd,Neighborhood Market,2008-06-01,2019-11-01
 2458,CA,Monterey,6053,Salinas,36.6883,-121.6317,1800 N Main St.,Walmart Supercenter,1997-01-29,
 5751,CA,Monterey,6053,Salinas,36.6883,-121.6317,1375 N Davis Rd.,Walmart Supercenter,2010-11-17,
 3276,CA,San Bernardino,6071,San Bernardino,34.1416,-117.2943,4001 Hallmark Pkwy.,Walmart,2003-08-20,
-5690,CA,San Bernardino,6071,San Bernardino,34.1416,-117.2943,2045 E Highland Ave.,Neighborhood Market,1900-01-01,2016-01-28
+5690,CA,San Bernardino,6071,San Bernardino,34.1416,-117.2943,2045 E Highland Ave.,Neighborhood Market,2011-05-01,2016-01-28
 2527,CA,Orange,6059,San Clemente,33.4499,-117.6102,951 Avenida Pico,Walmart,1999-09-15,
 5638,CA,San Diego,6073,San Diego,32.8313,-117.1222,2121 Imperial Avenue,Neighborhood Market,2013-07-17,
 2150,CA,San Diego,6073,San Diego,32.8313,-117.1222,710 Dennery Rd.,Walmart,1995-01-03,
@@ -4738,9 +4738,9 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2578,AR,Crawford,5033,Mulberry,35.51,-94.0740,3500 Mulberry Hwy 64 W,Neighborhood Market,2014-09-19,2016-01-17
 3034,AR,Washington,5143,Prairie Grove,35.9858,-94.3049,881 W Buchanan,Neighborhood Market,2011-04-18,2016-01-17
 380,AR,Scott,5127,Waldron,34.9022,-94.0953,1359 W 2nd St,Walmart,1982-02-02,2017-07-01
-5642,CA,Los Angeles,6037,Altadena,34.1927,-118.1346,2408 Lincoln Ave.,Neighborhood Market,1900-01-01,2016-01-28
-5688,CA,Los Angeles,6037,Bell Gardens,33.9663,-118.1550,6820 Eastern Ave.,Neighborhood Market,1900-01-01,2016-01-28
-4173,CA,Los Angeles,6037,Hawaiian Gardens,33.8304,-118.0728,12120 Carson St.,Neighborhood Market,1900-01-01,2016-01-28
+5642,CA,Los Angeles,6037,Altadena,34.1927,-118.1346,2408 Lincoln Ave.,Neighborhood Market,2013-03-01,2016-01-28
+5688,CA,Los Angeles,6037,Bell Gardens,33.9663,-118.1550,6820 Eastern Ave.,Neighborhood Market,2012-10-17,2016-01-28
+4173,CA,Los Angeles,6037,Hawaiian Gardens,33.8304,-118.0728,12120 Carson St.,Neighborhood Market,2013-06-01,2016-01-28
 5164,CA,Los Angeles,6037,Norwalk,33.9069,-118.0829,11729 Imperial Highway,Walmart Supercenter,2004-01-28,2019-01-01
 5457,CA,Alameda,6001,Oakland,37.7904,-122.2166,8400 Edgewater Dr,Walmart,2005-08-24,2016-01-17
 3096,CO,Boulder,8013,Boulder,40.0248,-105.2524,2972 Iris Avenue,Neighborhood Market,1900-01-01,2022-01-01
