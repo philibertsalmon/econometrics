@@ -4763,40 +4763,40 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 6167,IL,Cook,17031,Des Plaines,42.0345,-87.9008,727 W Golf Rd.,Neighborhood Market,2014-08-20,2021-08-06
 460,IL,Christian,17021,Pana,39.3829,-89.0642,10 W 2nd,Walmart,1983-11-29,2018-10-12
 1262,IN,Rush,18139,Rushville,39.6171,-85.4463,1850 N Main,Walmart,1988-11-17,2018-02-28
-4353,KS,Coffey,20031,Burlington,38.1931,-95.7452,505 Housatonic St,Neighborhood Market,,2016-01-28
-3369,KS,Sedgwick,20173,Clearwater,37.5096,-97.4975,900 E Ross Ave,Neighborhood Market,,2016-01-28
-4360,KS,Cherokee,20021,Columbus,37.1716,-94.8440,705 N High School Ave,Neighborhood Market,,2016-01-28
-4361,KS,Ellsworth,20053,Ellsworth,38.7327,-98.2285,1105 E 15th St,Neighborhood Market,,2016-01-28
-4651,KS,Marion,20115,Hillsboro,38.3527,-97.1992,605 Orchard Dr,Neighborhood Market,,2016-01-28
-4362,KS,Butler,20015,Rose Hill,37.5702,-97.1361,120 W Rosewood St,Neighborhood Market,,2016-01-28
-3839,LA,East Feliciana,22037,Clinton,30.8613,-91.0150,9181 Hwy 67,Neighborhood Market,,2016-01-28
-4634,LA,Grant,22043,Colfax,31.5208,-92.7001,1506 Main St,Neighborhood Market,,2016-01-28
+4353,KS,Coffey,20031,Burlington,38.1931,-95.7452,505 Housatonic St,Neighborhood Market,2014-10-07,2016-01-28
+3369,KS,Sedgwick,20173,Clearwater,37.5096,-97.4975,900 E Ross Ave,Neighborhood Market,2014-10-07,2016-01-28
+4360,KS,Cherokee,20021,Columbus,37.1716,-94.8440,705 N High School Ave,Neighborhood Market,2014-01-01,2016-01-28
+4361,KS,Ellsworth,20053,Ellsworth,38.7327,-98.2285,1105 E 15th St,Neighborhood Market,2014-10-29,2016-01-28
+4651,KS,Marion,20115,Hillsboro,38.3527,-97.1992,605 Orchard Dr,Neighborhood Market,2015-02-12,2016-01-28
+4362,KS,Butler,20015,Rose Hill,37.5702,-97.1361,120 W Rosewood St,Neighborhood Market,2014-10-29,2016-01-28
+3839,LA,East Feliciana,22037,Clinton,30.8613,-91.0150,9181 Hwy 67,Neighborhood Market,2015-02-16,2016-01-28
+4634,LA,Grant,22043,Colfax,31.5208,-92.7001,1506 Main St,Neighborhood Market,2015-02-13,2016-01-28
 270,LA,Claiborne,22027,Homer,32.793,-93.0582,906 W Main St,Walmart,1981-08-04,2006-01-01
-4647,LA,Tangipahoa,22105,Independence,30.6361,-90.5056,515 3rd St,Neighborhood Market,,2016-01-28
-3815,LA,Calcasieu,22019,Iowa,30.2393,-93.0130,501 W Hwy 90,Neighborhood Market,,2016-01-28
-3849,LA,Tangipahoa,22105,Kentwood,30.9339,-90.5153,920 Avenue G,Neighborhood Market,,2016-01-28
-3753,LA,Jefferson Davis,22053,Lake Arthur,30.0795,-92.6773,620 N Hwy 26,Neighborhood Market,,2016-01-28
-3755,LA,Evangeline,22039,Mamou,30.6349,-92.4179,1445 Old Hwy 13,Neighborhood Market,,2016-01-28
-3879,LA,Sabine,22085,Zwolle,31.6398,-93.6412,1495 Obrie St,Neighborhood Market,,2016-01-28
+4647,LA,Tangipahoa,22105,Independence,30.6361,-90.5056,515 3rd St,Neighborhood Market,2013-03-25,2016-01-28
+3815,LA,Calcasieu,22019,Iowa,30.2393,-93.0130,501 W Hwy 90,Neighborhood Market,2014-10-07,2016-01-28
+3849,LA,Tangipahoa,22105,Kentwood,30.9339,-90.5153,920 Avenue G,Neighborhood Market,2015-02-10,2016-01-28
+3753,LA,Jefferson Davis,22053,Lake Arthur,30.0795,-92.6773,620 N Hwy 26,Neighborhood Market,2014-09-11,2016-01-28
+3755,LA,Evangeline,22039,Mamou,30.6349,-92.4179,1445 Old Hwy 13,Neighborhood Market,2014-09-19,2016-01-28
+3879,LA,Sabine,22085,Zwolle,31.6398,-93.6412,1495 Obrie St,Neighborhood Market,2014-12-04,2016-01-28
 2290,MD,Baltimore,24005,Owings Mills,39.4115,-76.7913,9750 Reistertown Road A,Walmart,2002-06-19,2021-06-30
 5380,MA,Plymouth,25023,Hanover,42.1162,-70.8477,1775 Washington St,Walmart,2004-11-03,2019-01-01
 4584,MI,Livingston,26093,Hartland,42.6597,-83.7446,10400 Highland Rd. Hartland Plaza,Walmart Supercenter,2009-01-01,2016-01-28
 1824,MI,Washtenaw,26161,Ypsilanti,42.244,-83.6208,2515 Ellsworth Rd,Walmart,1992-08-04,2020-01-01
 983,MN,Faribault,27043,Blue Earth,43.6409,-94.1005,1210 Giant Dr,Walmart,1987-02-03,2017-10-03
 5437,MN,Mahnomen,27087,Midway,47.317,-95.7838,1450 University Avenue W,Walmart,2004-05-19,2019-01-01
-3856,MS,Tishomingo,28141,Belmont,34.5046,-88.2080,410 2nd St,Neighborhood Market,,2016-01-28
+3856,MS,Tishomingo,28141,Belmont,34.5046,-88.2080,410 2nd St,Neighborhood Market,2014-08-22,2016-01-28
 4294,MS,Calhoun,28013,Derma,33.8589,-89.2878,519 W Veterans Ave,Neighborhood Market,,2016-01-28
-3863,MS,Itawamba,28057,Mantachie,34.3251,-88.4961,2795 Hwy 371 N,Neighborhood Market,,2016-01-28
-4296,MS,Monroe,28095,Nettleton,34.0852,-88.6248,7104 Will Robbins Hwy,Neighborhood Market,,2016-01-28
-3865,MS,Panola,28107,Sardis,34.4355,-89.9114,420 E Lee St,Neighborhood Market,,2016-01-28
-3866,MS,Tippah,28139,Walnut,34.9497,-88.9236,28191 Hwy 15,Neighborhood Market,,2016-01-28
+3863,MS,Itawamba,28057,Mantachie,34.3251,-88.4961,2795 Hwy 371 N,Neighborhood Market,2014-08-22,2016-01-28
+4296,MS,Monroe,28095,Nettleton,34.0852,-88.6248,7104 Will Robbins Hwy,Neighborhood Market,2014-08-22,2016-01-28
+3865,MS,Panola,28107,Sardis,34.4355,-89.9114,420 E Lee St,Neighborhood Market,2014-08-22,2016-01-28
+3866,MS,Tippah,28139,Walnut,34.9497,-88.9236,28191 Hwy 15,Neighborhood Market,2014-08-22,2016-01-28
 215,MS,Montgomery,28097,Winona,33.4899,-89.7280,620 S Applegate St,Walmart,1900-01-01,2022-01-01
-4269,MO,McDonald,29119,Anderson,36.6532,-94.4441,224 E Hwy 76,Neighborhood Market,,2016-01-28
+4269,MO,McDonald,29119,Anderson,36.6532,-94.4441,224 E Hwy 76,Neighborhood Market,2014-10-07,2016-01-28
 156,MO,Pemiscot,29155,Caruthersville,36.1814,-89.6664,156 W 3rd St,Walmart,1900-01-01,2017-01-20
-4289,MO,Christian,29043,Clever,37.0333,-93.4729,414 N Elm,Neighborhood Market,,2016-01-28
-4270,MO,McDonald,29119,Noel,36.5432,-94.4888,508 N Cliffside Dr,Neighborhood Market,,2016-01-28
+4289,MO,Christian,29043,Clever,37.0333,-93.4729,414 N Elm,Neighborhood Market,2014-10-09,2016-01-28
+4270,MO,McDonald,29119,Noel,36.5432,-94.4888,508 N Cliffside Dr,Neighborhood Market,2014-10-09,2016-01-28
 946,MO,Wayne,29223,Piedmont,37.1491,-90.6970,#15 Hals Plaza Dr,Walmart,1987-02-03,2017-01-20
-4282,MO,Barry,29009,Seligman,36.5231,-93.9387,33597 State Hwy 112,Neighborhood Market,,2016-01-28
+4282,MO,Barry,29009,Seligman,36.5231,-93.9387,33597 State Hwy 112,Neighborhood Market,2014-09-11,2016-01-28
 2246,NH,Hillsborough,33011,Bedford,42.9463,-71.5132,17 Colby Court,Walmart,1995-01-31,2019-01-01
 5069,NJ,Somerset,34035,Branchburg,40.5868,-74.6986,3576 Us Highway 22,Walmart,1900-01-01,2022-01-01
 2171,NJ,Mercer,34021,Princeton,40.3562,-74.6693,101 Nassau Park Blvd,Walmart,1995-05-31,2020-01-01
