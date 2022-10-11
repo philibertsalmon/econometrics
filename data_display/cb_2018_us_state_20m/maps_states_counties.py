@@ -22,3 +22,5 @@ for state in geo_map_data.State.unique():
     plt.ylabel("Latitude (°)")
     plt.title(f"{state} - Walmart stores exit and entry per city (January, 1, 2016 - January 31, 2017)")
     plt.show()
+
+print("For each city where there is at least an entry or exit, the circle's radius is proportional to the number of stores' openings and closings (stores' changes) in the city for year 2016 (from January, 1, 2016 to January 31, 2017).")
