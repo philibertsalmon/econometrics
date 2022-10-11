@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from map_US_per_state import geo_map_data
+from matplotlib.colors import LinearSegmentedColormap
 
 #counties basemap
 shape_path = 'cb_2018_us_county_5m.shp'
@@ -14,21 +15,24 @@ continent_shape = shape.drop(shape[mask].index)
 
 continent_shape = continent_shape.dropna()
 
-#dot's colors
+#dots' colors
 def legend2(x):
-    if x == 1 :
-        return 'g'
-    if x == 2 :
-        return 'r'
-    return 'b'
+    if x == 'Entry only' :
+        return 0.6
+    if x == 'Exit only' :
+        return 1
+    return 0
 
 legend2_v = np.vectorize(legend2)
-geo_map_data['Walmart store entry or/and exit (2016, per city)']= legend2_v(1*geo_map_data['opened_2016_city']+2*geo_map_data['closed_2016_city'])
+geo_map_data['color']= legend2_v(geo_map_data['Walmart store entry or/and exit (2016, per city)'])
+cmap = LinearSegmentedColormap.from_list(
+    'mycmap', [(0, 'blue'), (0.6, 'green'), (1, 'red')])
+
 
 #plot continental US
 cont_geo_map_data= geo_map_data.drop(geo_map_data[geo_map_data.State == "AK"].index)
-base = continent_shape.boundary.plot(figsize=(18, 9), linewidth = 0.5)
-ax = cont_geo_map_data.plot(ax=base, marker='o', color=cont_geo_map_data['Walmart store entry or/and exit (2016, per city)'], markersize=(cont_geo_map_data["Stores' changes"]*20), edgecolors = "black")
+base = continent_shape.boundary.plot(figsize=(18, 9), linewidth = 0.3, color = 'black')
+ax = cont_geo_map_data.plot(ax=base, marker='o', column ='Walmart store entry or/and exit (2016, per city)', legend=True, categorical = True, markersize=(cont_geo_map_data["Stores' changes"]*20), cmap = cmap, alpha = 1, edgecolors = "black", linewidth = 0.5)
 plt.xlabel("Longitude (°)")
 plt.ylabel("Latitude (°)")
 plt.title("Walmart stores exit and entry per city in the contiguous United States (January, 1, 2016 - January 31, 2017)")
