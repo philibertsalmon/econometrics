@@ -16,8 +16,8 @@ for state in geo_map_data.State.unique():
     statefp = geo_map_data2['State_nb'].iloc[0]
     if len(statefp)==1:
         statefp = '0'+statefp
-    base = shape[shape.STATEFP == statefp].boundary.plot(figsize=(18, 9), linewidth = 0.5)
-    ax = geo_map_data2.plot(ax=base, marker='o', column ='Walmart store entry or/and exit (2016, per city)', legend=True, markersize=(geo_map_data["Stores' changes"]*20), cmap = cmap, alpha = 1, edgecolors = "black", linewidth = 0.5)
+    base = shape[shape.STATEFP == statefp].boundary.plot(figsize=(15, 7), linewidth = 0.3, zorder = 1)
+    ax = geo_map_data2.plot(ax=base, marker='o', column ='Walmart store entry or/and exit (2016, per city)', legend=True, categorical = True, markersize=(geo_map_data["Stores' changes"]*20), cmap = cmap, edgecolors = "black", linewidth = 0.3, zorder=2)
     plt.xlabel("Longitude (°)")
     plt.ylabel("Latitude (°)")
     plt.title(f"{state} - Walmart stores exit and entry per city (January, 1, 2016 - January 31, 2017)")

@@ -31,8 +31,8 @@ cmap = LinearSegmentedColormap.from_list(
 
 #plot continental US
 cont_geo_map_data= geo_map_data.drop(geo_map_data[geo_map_data.State == "AK"].index)
-base = continent_shape.boundary.plot(figsize=(18, 9), linewidth = 0.3, color = 'black')
-ax = cont_geo_map_data.plot(ax=base, marker='o', column ='Walmart store entry or/and exit (2016, per city)', legend=True, categorical = True, markersize=(cont_geo_map_data["Stores' changes"]*20), cmap = cmap, alpha = 1, edgecolors = "black", linewidth = 0.5)
+base = continent_shape.boundary.plot(figsize=(15, 7), linewidth = 0.3, zorder = 1)
+ax = cont_geo_map_data.plot(ax=base, marker='o', column ='Walmart store entry or/and exit (2016, per city)', legend=True, categorical = True, markersize=(cont_geo_map_data["Stores' changes"]*20), cmap = cmap, edgecolors = "black", linewidth = 0.3, zorder=2)
 plt.xlabel("Longitude (°)")
 plt.ylabel("Latitude (°)")
 plt.title("Walmart stores exit and entry per city in the contiguous United States (January, 1, 2016 - January 31, 2017)")
