@@ -4929,7 +4929,7 @@ Dover - 934 US-79 - Neighborhood Market (formerly Walmart Express) (store #4306,
 Knoxville - 2501 University Commons Way - Walmart (store #4167, opened August 6, 2014, closed March 29, 2019)
 Loretto - 523 N Military St. - Neighborhood Market (formerly Walmart Express) (store #2413, opened September 1, 2014, closed January 28, 2016)
 Memphis - 5000 American Way - Walmart (store #1031, opened August 4, 1987, closed January 1, 2007)
-Morristown - 1757 W Andrew Johnson Hwy - Neighborhood Market (store #1031, opened January 1, 2014, closed April 19, 2019)
+Morristown - 1757 W Andrew Johnson Hwy - Neighborhood Market (store #1031, opened April 13, 2016, closed April 19, 2019)
 Nashville - 1220 Gallatin Ave. - Neighborhood Market (store #3306, opened January 1, 2014, closed January 28, 2016)
 !Texas
 Anson - 122 Commercial Ave. - Neighborhood Market (formerly Walmart Express) (store #2410, opened September 9, 2014, closed January 28, 2016)
