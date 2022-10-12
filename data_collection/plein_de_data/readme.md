@@ -4,6 +4,15 @@ database us cities with GPS coordinates :
 access at : https://simplemaps.com/data/us-cities
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+density per county :
+
+2014-2018, Census Bureau Estimation, 3220 counties (American Community Survey) (but not all counties ?)
+access at : https://covid19.census.gov/datasets/USCensus::average-household-size-and-population-density-county/explore?location=11.669973%2C0.315550%2C1.84&showTable=true
+
+Per year, Census Bureau Estimation, 3141 counties (but issues with the database entry - not specific enough ?)
+access at : 
+https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Quelqu'un se pose la même question que nous (réponse : walmart_opening_1962_2006.csv, puis état des lieux (localisation de tous les magasins us) en 2017 - cf source suivante)
 accès depuis : https://opendata.stackexchange.com/questions/13475/historical-walmart-stores-data-set
