@@ -165,7 +165,7 @@ df.Closing_date = pd.to_datetime(df.Closing_date, errors='coerce', format = '%Y-
 
 
 # Merging for County, latitude and longitude
-uscities = pd.read_csv('../../data_display/cb_2018_us_state_20m/uscities.csv')[["city", "state_id", "lat", "lng", "county_name", "county_fips"]]
+uscities = pd.read_csv('../../data_display/uscities.csv')[["city", "state_id", "lat", "lng", "county_name", "county_fips"]]
 
 df = pd.merge(df, uscities,  how='inner', left_on=['Town','State'], right_on = ['city','state_id'])
 
