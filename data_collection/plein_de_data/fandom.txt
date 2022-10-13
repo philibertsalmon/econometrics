@@ -4858,6 +4858,7 @@ Winona - 620 S Applegate St - Walmart (store #215, opened January 1, 1900, close
 Anderson - 224 E Hwy 76 - Neighborhood Market (formerly Walmart Express) (store #4269, opened October 7, 2014, closed January 28, 2016)
 Caruthersville - 156 W 3rd St - Walmart (store #156, opened January 1, 1900, closed January 20, 2017)
 Clever - 414 N Elm - Neighborhood Market (formerly Walmart Express) (store #4289, opened October 9, 2014, closed January 28, 2016)
+Columbia - 308 S. Ninth St Ste 105 - Neighborhood Market (formerly Walmart Express) (store #6933, opened January 8, 2014, closed October 7, 2016)
 Noel - 508 N Cliffside Dr - Neighborhood Market (formerly Walmart Express) (store #4270, opened October 9, 2014, closed January 28, 2016)
 Piedmont - #15 Hals Plaza Dr - Walmart (store #946, opened February 3, 1987, closed January 20, 2017) Currently Vacant
 Seligman - 33597 State Hwy 112 - Neighborhood Market (formerly Walmart Express) (store #4282, opened September 11, 2014, closed January 28, 2016)
