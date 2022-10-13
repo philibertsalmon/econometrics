@@ -566,7 +566,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 1693,CA,San Bernardino,6071,Redlands,34.0512,-117.1712,2050 W Redlands Blvd.,Walmart,1991-11-05,
 3131,CA,San Bernardino,6071,Rialto,34.1175,-117.3892,300 West Baseline Rd.,Neighborhood Market,2013-11-15,
 1862,CA,San Bernardino,6071,Rialto,34.1175,-117.3892,1366 S Riverside Ave.,Walmart Supercenter,1993-02-02,
-7418,CA,San Bernardino,6071,Rialto,34.1175,-117.3892,1610 S Riverside Ave Tba 1862,Walmart,1900-01-01,2022-01-01
+7418,CA,San Bernardino,6071,Rialto,34.1175,-117.3892,1610 S Riverside Ave Tba 1862,Walmart,2006-07-16,2022-01-01
 3455,CA,Contra Costa,6013,Richmond,37.9477,-122.3389,1400 Hilltop Mall Rd.,Walmart,2007-04-11,
 1600,CA,Kern,6029,Ridgecrest,35.6308,-117.6622,201 East Bowman Road,Walmart Supercenter,1991-01-30,
 1899,CA,Riverside,6065,Riverside,33.9381,-117.3949,6250 Valley Springs Pkwy.,Walmart Supercenter,1993-03-02,
@@ -583,7 +583,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 2464,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,8270 Delta Shores Circle,Walmart Supercenter,2017-11-01,
 2735,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,6051 Florin Rd.,Walmart Supercenter,2001-10-24,
 3081,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,8915 Gerber Road,Walmart Supercenter,2015-11-18,
-5230,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,3460 El Camino Ave,Walmart Supercenter,1900-01-01,2018-02-09
+5230,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,3460 El Camino Ave,Walmart Supercenter,2006-07-16,2018-02-09
 6530,CA,Sacramento,6067,Sacramento,38.5677,-121.4685,4420 Florin Rd,Neighborhood Market,2008-06-01,2019-11-01
 2458,CA,Monterey,6053,Salinas,36.6883,-121.6317,1800 N Main St.,Walmart Supercenter,1997-01-29,
 5751,CA,Monterey,6053,Salinas,36.6883,-121.6317,1375 N Davis Rd.,Walmart Supercenter,2010-11-17,
@@ -1156,7 +1156,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 5797,GA,Dougherty,13095,Albany,31.5776,-84.1762,262 Cordele Rd.,Walmart Supercenter,2011-05-18,
 2941,GA,Fulton,13121,Alpharetta,34.0704,-84.2738,5200 Windward Pkwy.,Walmart Supercenter,2002-01-23,
 4436,GA,Fulton,13121,Alpharetta,34.0704,-84.2738,5455 Atlanta Hwy.,Walmart Supercenter,2008-03-05,
-3186,GA,Fulton,13121,Alpharetta,34.0704,-84.2738,11770 Haynes Bridge Rd,Neighborhood Market,1900-01-01,2017-05-07
+3186,GA,Fulton,13121,Alpharetta,34.0704,-84.2738,11770 Haynes Bridge Rd,Neighborhood Market,2012-07-12,2017-05-07
 758,GA,Sumter,13261,Americus,32.0736,-84.2248,1711 E Lamar St.,Walmart Supercenter,1984-11-13,
 5267,GA,Clarke,13059,Athens,33.9508,-83.3689,3130 Atlanta Hwy.,Neighborhood Market,2016-01-27,
 1400,GA,Clarke,13059,Athens,33.9508,-83.3689,1911 Epps Bridge Pkwy.,Walmart Supercenter,1990-06-27,
@@ -1166,6 +1166,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 3709,GA,Fulton,13121,Atlanta,33.7628,-84.4220,2427 Gresham Rd. SE,Walmart Supercenter,2006-03-22,
 3741,GA,Fulton,13121,Atlanta,33.7628,-84.4220,1105 Research Center Atlanta Drive SW,Walmart Supercenter,2013-10-23,
 3775,GA,Fulton,13121,Atlanta,33.7628,-84.4220,1801 Howell Mill Rd. NW,Walmart Supercenter,2006-10-18,
+6180,GA,Fulton,13121,Atlanta,33.7628,-84.4220,86 Fith St. NW,Walmart on Campus,2013-08-14,2015-07-03
 4206,GA,Richmond,13245,Augusta,33.3645,-82.0708,300 South Belair Rd.,Neighborhood Market,2015-01-28,
 1227,GA,Richmond,13245,Augusta,33.3645,-82.0708,260 Bobby Jones Expy.,Walmart Supercenter,1988-11-10,
 1293,GA,Richmond,13245,Augusta,33.3645,-82.0708,3209 Deans Bridge Rd.,Walmart Supercenter,1989-04-03,
@@ -1260,7 +1261,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 3205,GA,Douglas,13097,Lithia Springs,33.7811,-84.6487,1100 Thornton Rd.,Walmart Supercenter,2001-03-14,
 1340,GA,DeKalb,13089,Lithonia,33.7129,-84.1060,5401 Fairington Rd.,Walmart Supercenter,1989-06-29,
 4472,GA,DeKalb,13089,Lithonia,33.7129,-84.1060,8424 Mall Parkway,Walmart Supercenter,2013-10-02,
-4143,GA,DeKalb,13089,Lithonia,33.7129,-84.1060,6152 Covington Hwy,Neighborhood Market,1900-01-01,2018-01-30
+4143,GA,DeKalb,13089,Lithonia,33.7129,-84.1060,6152 Covington Hwy,Neighborhood Market,2013-09-06,2018-01-30
 5709,GA,Henry,13151,Locust Grove,33.3446,-84.1071,4949 Bill Gardner Pkwy.,Walmart Supercenter,2011-03-16,
 5252,GA,Walton,13297,Loganville,33.8353,-83.8958,4221 Atlanta Hwy.,Walmart Supercenter,2004-03-17,
 5363,GA,Clayton,13063,Lovejoy,33.4426,-84.3177,11465 Tara Blvd.,Walmart Supercenter,2005-01-26,
@@ -1275,7 +1276,8 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 1766,GA,Cobb,13067,Marietta,33.9533,-84.5422,3100 Johnson Ferry Rd.,Walmart Supercenter,1992-04-01,
 3611,GA,Cobb,13067,Marietta,33.9533,-84.5422,6520 Earnest Barrett Parkway,Walmart Supercenter,2006-11-08,
 5390,GA,Cobb,13067,Marietta,33.9533,-84.5422,210 Cobb Pkwy. S,Walmart Supercenter,2005-10-26,
-3116,GA,Cobb,13067,Marietta,33.9533,-84.5422,3372 Canton Rd Ste 142,Neighborhood Market,1900-01-01,2017-12-01
+3116,GA,Cobb,13067,Marietta,33.9533,-84.5422,3372 Canton Rd Ste 142,Neighborhood Market,2013-01-31,2017-12-01
+3068,GA,Cobb,13067,Marietta,33.9533,-84.5422,1167 Powder Spings St.,Neighborhood Market,2013-01-16,2022-01-01
 5813,GA,Columbia,13073,Martinez,33.5209,-82.0985,3851 Evans to Locks Road,Neighborhood Market,2013-10-02,
 3201,GA,Henry,13151,McDonough,33.4397,-84.1505,135 Willow Ln.,Walmart Supercenter,2001-03-14,
 1121,GA,Baldwin,13009,Milledgeville,33.0874,-83.2414,2592 N Columbia St.,Walmart Supercenter,1987-08-04,
@@ -1294,7 +1296,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 658,GA,Floyd,13115,Rome,34.2662,-85.1863,2510 Redmond Cir. NW,Walmart Supercenter,1981-07-04,
 5151,GA,Floyd,13115,Rome,34.2662,-85.1863,825 Cartersville Hwy. SE,Walmart Supercenter,2004-04-14,
 1578,GA,Fulton,13121,Roswell,34.0391,-84.3513,970 Mansell Rd.,Walmart Supercenter,1990-09-04,
-2375,GA,Fulton,13121,Roswell,34.0391,-84.3513,4651 Woodstock Rd Ne Suite 150,Neighborhood Market,1900-01-01,2017-04-15
+2375,GA,Fulton,13121,Roswell,34.0391,-84.3513,4651 Woodstock Rd Ne Suite 150,Neighborhood Market,2013-08-30,2017-04-15
 836,GA,Camden,13039,St. Marys,30.7567,-81.5722,6586 GA Highway 40 E,Walmart Supercenter,1985-07-30,
 1143,GA,Washington,13303,Sandersville,32.9827,-82.8089,1308 S Harris St.,Walmart Supercenter,1988-04-12,
 6592,GA,Chatham,13051,Savannah,32.0286,-81.1821,251 Robert B. Miller Rd.,Clinic Pharmacy,2014-01-08,
