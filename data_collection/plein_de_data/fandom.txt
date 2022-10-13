@@ -4982,7 +4982,7 @@ South Jordan - 3706 W 9800 S - Neighborhood Market (store #5120, opened January 
 Big Stone Gap - 1959 Neeley Rd - Walmart (store #650, opened September 18, 1984, closed January 1, 2019)
 North Chesterfield - 7000 Iron Bridge Rd - Neighborhood Market (store #3892, opened May 26, 2015, closed March 29, 2019)
 Richmond - 912 W Grace St - Neighborhood Market (store #4502, opened May 2, 2015, closed January 1, 2022)
-Roanoke - 3419 Orange Ave Ne - Neighborhood Market (store #3618, opened October 23, 2014, closed January 30, 2018)
+Roanoke - 3419 Orange Ave Ne - Neighborhood Market (store #3618, opened April 8, 2015, closed January 30, 2018)
 Virginia Beach - 2864 Virginia Beach Boulevard - Neighborhood Market (store #6574, opened July 23, 2014, closed March 29, 2019)
 !Washington
 Bellevue - 12620 SE 41st Pl. - Walmart (store #5939, opened October 17, 2012, closed April 22, 2022)
