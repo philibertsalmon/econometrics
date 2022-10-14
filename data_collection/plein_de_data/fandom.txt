@@ -4801,6 +4801,8 @@ Roswell - 4651 Woodstock Rd Ne Suite 150 - Neighborhood Market (store #2375, ope
 Aurora - 2131 Galena Blvd - Walmart (store #1818, opened March 3, 1992, closed October 28, 2016)
 Chicago - 3636 N Broadway St - Neighborhood Market (formerly Walmart Express) (store #3065, opened September 27, 2011, closed January 17, 2016)
 Chicago - 225 W Chicago Ave - Neighborhood Market (formerly Walmart Express) (store #3039, opened September 27, 2011, closed January 17, 2016)
+Chicago - 1424 W 47th St - Neighborhood Market (store #2430, opened January 16, 2013, closed April 18, 2017)
+Chicago - 570 W Monroe St - Neighborhood Market (store #5647, opened January 1, 2011, closed January 25, 2017)
 Clinton - 10 Clinton Plaza - Walmart (store #487, opened March 1, 1983, closed July 20, 2018)
 Des Plaines - 727 W Golf Rd. - Neighborhood Market (store #6167, opened August 20, 2014, closed August 6, 2021)
 Pana - 10 W 2nd - Walmart (store #460, opened November 29, 1983, closed October 12, 2018)
