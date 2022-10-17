@@ -1417,6 +1417,8 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 5965,IL,Cook,17031,Chicago,41.8375,-87.6866,10900 S Doty Avenue,Walmart Supercenter,2013-09-11,
 3065,IL,Cook,17031,Chicago,41.8375,-87.6866,3636 N Broadway St,Neighborhood Market,2011-09-27,2016-01-17
 3039,IL,Cook,17031,Chicago,41.8375,-87.6866,225 W Chicago Ave,Neighborhood Market,2011-09-27,2016-01-17
+2430,IL,Cook,17031,Chicago,41.8375,-87.6866,1424 W 47th St,Neighborhood Market,2013-01-16,2017-04-18
+5647,IL,Cook,17031,Chicago,41.8375,-87.6866,570 W Monroe St,Neighborhood Market,2011-01-01,2017-01-25
 3004,IL,Cook,17031,Cicero,41.8445,-87.7593,3320 South Cicero Avenue,Walmart Supercenter,2014-05-21,
 2425,IL,Madison,17119,Collinsville,38.677,-90.0063,1101 Belt Line Rd.,Neighborhood Market,2017-07-26,
 361,IL,Madison,17119,Collinsville,38.677,-90.0063,1040 Collinsville Crossing Blvd.,Walmart Supercenter,1981-07-08,
@@ -2402,6 +2404,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 80,MO,Boone,29019,Columbia,38.9472,-92.3268,3001 W Broadway,Walmart Supercenter,1973-06-01,
 159,MO,Boone,29019,Columbia,38.9472,-92.3268,415 Conley Rd.,Walmart Supercenter,1977-03-01,
 451,MO,Boone,29019,Columbia,38.9472,-92.3268,1201 Grindstone Pkwy.,Walmart Supercenter,1982-02-02,
+6933,MO,Boone,29019,Columbia,38.9472,-92.3268,308 S. Ninth St Ste 105,Neighborhood Market,2014-01-08,2016-10-07
 895,MO,Crawford,29055,Cuba,38.0671,-91.4057,100 Ozark Dr.,Walmart,1986-07-01,
 152,MO,Jefferson,29099,De Soto,38.141,-90.5609,12862 State Route 21,Walmart Supercenter,1976-12-01,
 95,MO,St. Francois,29187,Desloge,37.8751,-90.5191,407 N State St.,Walmart Supercenter,1974-10-01,
@@ -2488,7 +2491,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 219,MO,Pettis,29159,Sedalia,38.7059,-93.2340,3201 W Broadway Blvd.,Walmart Supercenter,1978-10-03,
 3061,MO,St. Louis,29189,Shrewsbury,38.5866,-90.3282,7437 Watson Road,Walmart Supercenter,2015-09-23,
 9,MO,Scott,29201,Sikeston,36.8854,-89.5877,1303 S Main St.,Walmart Supercenter,1968-03-01,
-2839,MO,Greene,29077,Springfield,37.1943,-93.2916,444 W Grand Street,Neighborhood Market,2015-10-29,
+2839,MO,Greene,29077,Springfield,37.1943,-93.2916,444 W Grand Street,Neighborhood Market,2016-03-16,
 3062,MO,Greene,29077,Springfield,37.1943,-93.2916,3536 W Mount Vernon St.,Neighborhood Market,2012-10-17,
 3111,MO,Greene,29077,Springfield,37.1943,-93.2916,545 El Camino Alto Dr.,Neighborhood Market,2012-10-03,
 3238,MO,Greene,29077,Springfield,37.1943,-93.2916,3720 East Sunshine Street,Neighborhood Market,2015-01-07,
@@ -4471,7 +4474,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 1301,VA,Roanoke,51770,Roanoke,37.2785,-79.9581,5350 Clearbrook Village Ln.,Walmart Supercenter,1989-06-29,
 2312,VA,Roanoke,51770,Roanoke,37.2785,-79.9581,4807 Valley View Blvd. NW,Walmart Supercenter,1996-01-24,
 3243,VA,Roanoke,51770,Roanoke,37.2785,-79.9581,4524 Challenger Ave.,Walmart Supercenter,2002-09-18,
-3618,VA,Roanoke,51770,Roanoke,37.2785,-79.9581,3419 Orange Ave Ne,Neighborhood Market,2014-10-23,2018-01-30
+3618,VA,Roanoke,51770,Roanoke,37.2785,-79.9581,3419 Orange Ave Ne,Neighborhood Market,2015-04-08,2018-01-30
 2337,VA,Franklin,51067,Rocky Mount,37.0045,-79.8854,550 Old Franklin Tpke.,Walmart Supercenter,1996-07-17,
 4638,VA,Greene,51079,Ruckersville,38.2314,-78.3756,135 Stoneridge Dr.,Walmart Supercenter,2010-08-18,
 1309,VA,Salem,51775,Salem,37.2864,-80.0555,1851 W Main St.,Walmart Supercenter,1989-06-01,
@@ -4494,7 +4497,7 @@ Store_id,State,County_name,County_fips,Town,Town_lat,Town_lng,Street,Category,Op
 3216,VA,Virginia Beach,51810,Virginia Beach,36.7335,-76.0435,1149 Nimmo Pkwy.,Walmart Supercenter,2001-05-16,
 4064,VA,Virginia Beach,51810,Virginia Beach,36.7335,-76.0435,4821 Virginia Beach Blvd.,Walmart Supercenter,2014-10-08,
 5922,VA,Virginia Beach,51810,Virginia Beach,36.7335,-76.0435,546  Colonial Road,Walmart Supercenter,2017-06-07,
-6574,VA,Virginia Beach,51810,Virginia Beach,36.7335,-76.0435,2864 Virginia Beach Boulevard,Neighborhood Market,2014-07-23,2022-01-01
+6574,VA,Virginia Beach,51810,Virginia Beach,36.7335,-76.0435,2864 Virginia Beach Boulevard,Neighborhood Market,2014-07-23,2019-03-29
 2437,VA,Fauquier,51061,Warrenton,38.7176,-77.7976,700 James Madison Hwy.,Walmart Supercenter,1999-09-15,
 4388,VA,Waynesboro,51820,Waynesboro,38.0674,-78.9014,1211 W Broad St. Ste. A,Neighborhood Market,2016-08-03,
 5117,VA,Waynesboro,51820,Waynesboro,38.0674,-78.9014,116 Lucy Ln.,Walmart Supercenter,2004-01-21,
