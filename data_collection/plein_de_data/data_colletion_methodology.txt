@@ -14,7 +14,7 @@ What we wanted :
 
 Starting point : 
 - Fandom database (collaborative online platform under CC-BY-SA) on Walmart : list of all
-  Walmart stores in the US (current or former store) :
+  Walmart stores in the US (current or former store) (= fandom.csv) :
    - with store's address (state, city, address)
    - with store's Walmart unique id
    - with store's category (Walmart, Walmart Supercenter, Neighborhood Market, Clinic Pharmacy, Convenience with Fuel, Walmart Pickup)
@@ -71,9 +71,9 @@ only using the city's coordinates.
 Starter dataset : US Cities free database from Simple Maps company (= uscities.csv)
  - Data sources : US Geological Survey and US Census Bureau.
  - Data collection : Simple Maps.
- - Licence : Creative Commons Attribution 4.0.
+ - License : Creative Commons Attribution 4.0.
  - Up to date : last update May 2022.
- - 30,409 entries (no unincorporated populated areas, only bigger cities)
+ - 30,409 rows (no unincorporated populated areas, only bigger cities)
 
 Process : merger of our walmart stores' data and US cities' database on city's name.
 
@@ -82,19 +82,19 @@ Fixing merging issues :
    Decision we made : uniformization done by hand state by state.
  - Issue 2 : Walmart stores' whose city was not part of the US cities' database.
     - First case : store part of unincorporated area
-      Decision we made : either we added unincorporated area as new entry in uscities (new GPS decimal coordinates found on the Internet), either we changed store's address in fandom,
+      Decision we made : either we added unincorporated area as new row in uscities (new GPS decimal coordinates found on the Internet), either we changed store's address in fandom,
       replacing actual city by nearest city already part of uscities (after checking no change of county).
     - Second case : store part of a citywhich not identified as such in cities' database (neighborhood within the city with GPS 
       coordinates in cities' database not the city).
       Decision we made : either we changed store's address in fandom and put neighborhood's name instead of city's name, either
-      we added city as new entry in uscities (new GPS decimal coordinates found on the Internet).
+      we added city as new row in uscities (new GPS decimal coordinates found on the Internet).
 
 Conclusion on assumptions and bias : We considered that the city is entirely included in a single county and that each store is indeed part of the city its address shows.
 
 Plotting the data - getting a county basemap of the US :
 ______
 
-Dataset (= shape.shp) : Cartographic Boundary File from the US Census Bureau (year 2018), 3233 entries.
+Dataset (= shape.shp) : Cartographic Boundary File from the US Census Bureau (year 2018), 3233 rows.
 
 Conclusion on assumptions and bias : simplified geometric representation (not exact precise boundaries).
 ________________________________________________________________________________________________________
@@ -105,7 +105,15 @@ ______
 
 Final goal : better county matching in diff in diff.
 
-Dataset : 
+Dataset (= density.csv): 
+ - Average Household Size and Population Density - County, 
+ - 2014-2018, Census Bureau Estimation, 
+ - 3220 counties 
+ - (American Community Survey) (but not all counties ?)
+ - up to date : last update April 2022
+ - no license
+
+Conclusion on assumptions and bias : does not make up for density variations between 2014 and 2018, potentially 13 missing counties.
 
 ________________________________________________________________________________________________________
 ________________________________________________________________________________________________________
@@ -116,5 +124,10 @@ ______
 
 Our databases - description :
 
-Still need to expand on A, B and C databases and on Excel sheet, on how we dealt with possibility that two cities in the same state
+STILL TO DO :
+
+MAKE DESCRIPTION IN To sum up
+GIVE LINKS TO DATASETS
+HAVE A MORE CRITICAL EYE ON BIAS AND ASSUMPTION (RELIABLE DATASET OR NOT, IN THE END ?)
+EXPAND ON A, B and C databases AND ON Excel sheet, ON HOW WE DEALT WITH possibility that two cities in the same state
 bear same name.
