@@ -1,0 +1,917 @@
+zip state   dist_center town
+005	NY	Holtsville	IRS
+006	PR	San Juan	Arecibo, Mayaguez, Northern Puerto Rico
+007	PR	San Juan	Ponce, Caguas, Southern Puerto Rico
+008	VI	San Juan	U.S. Virgin Islands
+009	PR	San Juan	SAN JUAN
+010	MA	Springfield	Amherst, Holyoke, Towns around Springfield
+011	MA	Springfield	SPRINGFIELD
+012	MA	Pittsfield	Pittsfield, North Adams, Berkshire County
+013	MA	Springfield	Greenfield, Athol, Franklin County
+014	MA	Worcester	Fitchburg, Gardner
+015	MA	Worcester	Sturbridge, Auburn, Towns around Worcester
+016	MA	Worcester	WORCESTER
+017	MA	Worcester	Framingham, Concord, Western Boston exurbs,
+018	MA	Middlesex-Essex	Lowell, Woburn, Most of Middlesex County
+019	MA	Middlesex-Essex	Salem, Lynn, Gloucester, Essex County
+020	MA	Brockton	Dedham, Foxborough, Norfolk County
+021	MA	Boston	Boston, Cambridge
+022	MA	Boston	Boston, Quincy
+023	MA	Brockton	Brockton, Plymouth, Plymouth County
+024	MA	NW Boston	Brookline, Newton, Lexington, NW Boston Suburbs
+025	MA	Cape Cod	Buzzards Bay, Nantucket, Martha's Vineyard, West Cape Cod
+026	MA	Cape Cod	Hyannis, Provincetown, East Cape Cod
+027	MA	Providence, RI	New Bedford, Fall River, Bristol County
+028	RI	Providence	Newport, Westerly, Woonsocket, Most of Rhode Island
+029	RI	Providence	Providence, Cranston
+030	NH	Manchester	Nashua, Derry, Hillsborough County
+031	NH	Manchester	MANCHESTER
+032	NH	Manchester	Laconia, Plymouth, Areas around Concord
+033	NH	Manchester	CONCORD
+034	NH	Manchester	Keene, Jaffery, Chesire County
+035	NH	White River Jct., VT	Littleton, Berlin, Northern New Hampshire
+036	NH	White River Jct., VT	Charlestown, Walpole
+037	NH	White River Jct., VT	Lebanon, Woodsville, Western New Hampshire
+038	NH	Portsmouth	Portsmouth, Rochester, Conway
+039	ME	Portsmouth, NH	Kittery, York
+040	ME	Portland	Saco, Freeport, Towns around Portland
+041	ME	Portland	PORTLAND
+042	ME	Portland	Lewiston, Auburn, Rumford; Androscoggin and Oxford Counties
+043	ME	Portland	Augusta, Gardiner
+044	ME	Bangor	Bangor, Millinocket; Penobscot and Piscataquis Counties
+045	ME	Portland	Bath, Wiscasset; Lincoln and Sagadahoc Counties
+046	ME	Bangor	Ellsworth, Calais; Hancock and Washington Counties
+047	ME	Bangor	Houlton, Fort Kent; Aroostook County
+048	ME	Portland	Rockland, Camden
+049	ME	Bangor	Waterville, Farmington; Franklin Somerset and Waldo Counties
+050	VT	White River Jct.	White River Junction, Chelsea, Windsor County
+051	VT	White River Jct.	Bellows Falls, Ludlow, Springfield
+052	VT	White River Jct.	Bennington, Manchester, Bennington County
+053	VT	White River Jct.	Brattleboro, Wilmington
+054	VT	Burlington	Burlington, Saint Albans
+055	MA	Middlesex-Essex	IRS
+056	VT	Burlington	Montpelier, Morrisville; Lamoille and Washington Counties
+057	VT	White River Jct.	Rutland, Middlebury
+058	VT	White River Jct.	St. Johnsbury, Newport
+059	VT	White River Jct.	Guildhall, Averill, Essex County
+060	CT	Hartford	Bristol, Manchester, Areas around Hartford
+061	CT	Hartford	HARTFORD
+062	CT	Hartford	Willimantic, Storrs
+063	CT	New Haven	New London, Norwich
+064	CT	New Haven	Fairfield, Meriden, Areas around New Haven and Bridgeport
+065	CT	New Haven	NEW HAVEN
+066	CT	New Haven	BRIDGEPORT
+067	CT	Waterbury	Waterbury, Torrington
+068	CT	Stamford	Danbury, Norwalk, Southwestern Connecticut
+069	CT	Stamford	STAMFORD
+070	NJ	Newark	Hoboken, Plainfield, Areas around Newark, Jersey City, Elizabeth
+071	NJ	Newark	NEWARK
+072	NJ	Newark	JERSEY CITY
+073	NJ	Newark	ELIZABETH
+074	NJ	Paterson	Wayne, Ramsey, Areas around Paterson
+075	NJ	Paterson	PATERSON
+076	NJ	Hackensack	Hackensack, Paramus
+077	NJ	Monmouth	Red Bank, Long Branch, Freehold, Monmouth County
+078	NJ	West Jersey	Phillipsburg, Dover
+079	NJ	West Jersey	Morristown, Summit
+080	NJ	South Jersey	Burlington, Cherry Hill, Areas around Camden
+081	NJ	South Jersey	CAMDEN
+082	NJ	South Jersey	Cape May, Ocean City, Areas around Atlantic City
+083	NJ	South Jersey	Vineland, Millville, Bridgeton, Cumberland County
+084	NJ	South Jersey	ATLANTIC CITY
+085	NJ	Trenton	Princeton, Bordentown, Areas around Trenton
+086	NJ	Trenton	TRENTON
+087	NJ	Monmouth	Lakewood, Toms River, Ocean County
+088	NJ	Kilmer	Edison, Perth Amboy, Areas around New Brunswick
+089	NJ	Kilmer	NEW BRUNSWICK
+100	NY	New York City	NEW YORK CITY (Manhattan)
+101	NY	New York City	NEW YORK CITY (Manhattan)
+102	NY	New York City	NEW YORK CITY (Manhattan)
+103	NY	Staten Island	New York City (STATEN ISLAND)
+104	NY	Bronx	New York City (BRONX)
+105	NY	Westchester	Croton, Mount Vernon, Westchester County
+106	NY	Westchester	WHITE PLAINS
+107	NY	Westchester	YONKERS
+108	NY	Westchester	NEW ROCHELLE
+109	NY	Rockland	Nyack, Middletown, Suffern, Rockland and Orange Counties
+110	NY	Queens	Elmont, Great Neck, Floral Park
+111	NY	Queens	New York City (LONG ISLAND CITY, Queens)
+112	NY	Brooklyn	New York City (BROOKLYN)
+113	NY	Queens	New York City (FLUSHING, Queens)
+114	NY	Queens	New York City (JAMAICA, Queens)
+115	NY	W. Nassau	Hempstead, Minneola
+116	NY	Queens	New York City (FAR ROCKAWAY, Queens)
+117	NY	Mid-Island	Commack, Babylon
+118	NY	Mid-Island	HICKSVILLE
+119	NY	Mid-Island	Riverhead, The Hamptons
+120	NY	Albany	Amsterdam, Cohoes, Towns around Albany A-J
+121	NY	Albany	Troy, Rotterdam, Towns around Albany K-Z
+122	NY	Albany	ALBANY
+123	NY	Albany	SCHENECTADY
+124	NY	Mid-Hudson	Kingston, Catskill
+125	NY	Mid-Hudson	Newburgh, Hudson, Towns around Poughkeepsie
+126	NY	Mid-Hudson	POUGHKEEPSIE
+127	NY	Mid-Hudson	Monticello, Port Jervis
+128	NY	Glens Falls	Glens Falls, Saratoga Springs
+129	NY	Plattsburgh	Plattsburgh, Lake Placid
+130	NY	Syracuse	Auburn, Cortland, Towns around Syracuse A-L
+131	NY	Syracuse	Oswego, Wampsville, Towns around Syracuse M-Z
+132	NY	Syracuse	SYRACUSE
+133	NY	Utica	Cooperstown, Herkimer, Towns around Utica A-J
+134	NY	Utica	Rome, Waterville, Towns around Utica K-Z
+135	NY	Utica	UTICA
+136	NY	Watertown	Watertown, Potsdam
+137	NY	Binghamton	Johnson City, Endicott, Towns around Binghamton A-L
+138	NY	Binghamton	Oneonta, Norwich, Towns around Binghamton M-Z
+139	NY	Binghamton	BINGHAMTON
+140	NY	Buffalo	Batavia, Dunkirk, Towns around Buffalo A-L
+141	NY	Buffalo	Tonawanda, Medina, Towns around Buffalo M-Z
+142	NY	Buffalo	BUFFALO
+143	NY	Buffalo	NIAGARA FALLS
+144	NY	Rochester	Genesco, Canandaigua, Towns around Rochester A-L
+145	NY	Rochester	Penn Yan, Newark, Towns around Rochester M-Z
+146	NY	Rochester	ROCHESTER
+147	NY	Jamestown	Jamestown, Olean
+148	NY	Elmira	Ithaca, Corning
+149	NY	Elmira	ELMIRA
+150	PA	Pittsburgh	Beaver, Warrendale, Towns around Pittsburgh
+151	PA	Pittsburgh	McKeesport, West Mifflin, Towns around Pittsburgh
+152	PA	Pittsburgh	PITTSBURGH
+153	PA	Pittsburgh	Washington, Waynesburg; Greene and Washington Counties
+154	PA	Pittsburgh	Uniontown, Connellsville, Fayette County
+155	PA	Johnstown	Somerset, Bedford
+156	PA	Greensburg	Greensburg, Latrobe; Westmoreland County
+157	PA	Johnstown	Indiana, Punxsutawney
+158	PA	DuBois	DuBois, Saint Marys
+159	PA	Johnstown	Johnstown, Ebensburg
+160	PA	New Castle	Butler, Slippery Rock; Butler County
+161	PA	New Castle	New Castle, Sharon; Lawrence and Mercer Counties
+162	PA	New Castle	Clarion, Kittanning
+163	PA	Oil City	Oil City, Warren
+164	PA	Erie	Edinboro, North East, Towns around Erie
+165	PA	Erie	ERIE
+166	PA	Altoona	Altoona, Tyrone
+167	PA	Bradford	Bradford, Mount Jewett, McKean County
+168	PA	Altoona	State College, Clearfield
+169	PA	Williamsport	Wellsboro, Coudersport
+170	PA	Harrisburg	Carlisle, Hershey, Towns around Harrisburg
+171	PA	Harrisburg	HARRISBURG
+172	PA	Harrisburg	Chambersburg, Waynesboro
+173	PA	York	Gettysburg, Red Lion, Towns around York
+174	PA	York	YORK
+175	PA	Lancaster	Paradise, Areas in Lancaster County and around Lancaster
+176	PA	Lancaster	LANCASTER
+177	PA	Williamsport	Williamsport, Cogan Station, Lycoming County
+178	PA	Harrisburg	Sunbury, Bloomsburg
+179	PA	Reading	Pottsville, Mahanoy City, Schuylkill County
+180	PA	Lehigh Valley	Easton, Bethlehem, Areas around Allentown
+181	PA	Lehigh Valley	ALLENTOWN
+182	PA	Lehigh Valley	Hazelton, Jim Thorpe, Carbon County
+183	PA	Lehigh Valley	Stroudsburg, Milford, East Stroudsburg
+184	PA	Scranton	Carbondale, Hawley, Areas around Scranton
+185	PA	Scranton	SCRANTON
+186	PA	Wilkes-Barre	Blakeslee, Nanticoke, Areas around Wilkes-Barre
+187	PA	Wilkes-Barre	WILKES-BARRE
+188	PA	Scranton	Towanda, Montrose
+189	PA	Southeastern	Doylestown, Quakertown
+190	PA	Philadelphia	Chester, Levittown, Areas around Philadelphia
+191	PA	Philadelphia	PHILADELPHIA
+193	PA	Southeastern	Paoli, West Chester, Chester County
+194	PA	Southeastern	Norristown, Pottstown
+195	PA	Reading	Kutztown, Hamburg, Areas in Berks County around Reading
+196	PA	Reading	READING
+197	DE	Wilmington	Newark, New Castle, Areas in New Castle County around Wilmington
+198	DE	Wilmington	WILMINGTON
+199	DE	Wilmington	Dover, Georgetown, Kent and Sussex Counties
+200	DC	Washington	WASHINGTON
+201	VA	Dulles	Mannassas, Leesburg
+202	DC	Washington	U.S. Government
+203	DC	Washington	U.S. Government
+204	DC	Washington	U.S. Government
+205	DC	Washington	U.S. Government
+206	MD	Southern	Lexington Park, Waldorf
+207	MD	Southern	College Park, Bowie, Capitol Heights
+208	MD	Suburban	Rockville, Bethesda, Montgomery County
+209	MD	Suburban	SILVER SPRING
+210	MD	Linthicum	Aberdeen, Columbia, Areas around Baltimore A-L
+211	MD	Linthicum	Westminster, Pasadena, Areas around Baltimore M-Z
+212	MD	Baltimore	BALTIMORE
+214	MD	Linthicum	ANNAPOLIS
+215	MD	Cumberland	Cumberland, Oakland; Allegany and Garrett Counties
+216	MD	Easton	Easton, Cambridge
+217	MD	Frederick	Frederick, Hagerstown
+218	MD	Salisbury	Salisbury, Ocean City, Pocomoke City
+219	MD	Baltimore	Elkton, North East, Cecilton
+220	VA	Northern VA	Falls Church, Fairfax, DC Suburbs A-L
+221	VA	Northern VA	Woodbridge, McLean, DC Suburbs M-Z
+222	VA	Northern VA	ARLINGTON
+223	VA	Northern VA	ALEXANDRIA
+224	VA	Richmond	Fredericksburg, Heathsville, East Central VA A-L
+225	VA	Richmond	Tappahannock, Spotsylvania, East Central VA A-L
+226	VA	Winchester	Winchester, Front Royal
+227	VA	Culpeper	Culpeper, Washington
+228	VA	Charlottesville	Harrisonburg, Luray
+229	VA	Charlottesville	Charlottesville, Waynesboro
+230	VA	Richmond	Ashland, Gloucester, Areas around Richmond A-L
+231	VA	Richmond	Williamsburg, Powhatan, Areas around Richmond M-Z
+232	VA	Richmond	RICHMOND
+233	VA	Norfolk	Chesapeake, Emporia, Delmarva Peninsula and Areas around Norfolk A-J
+234	VA	Norfolk	Virginia Beach, Melfa, Delmarva Peninsula and Areas around Norfolk A-J
+235	VA	Norfolk	NORFOLK
+236	VA	Norfolk	Newport News, Hampton, Yorktown
+237	VA	Norfolk	PORTSMOUTH
+238	VA	Richmond	Petersburg, Emporia, Franklin
+239	VA	Farmville	Farmville, South Hill
+240	VA	Roanoke	Roanoke, Blacksburg, Areas around Roanoke A-G
+241	VA	Roanoke	Martinsville, Radford, Areas around Roanoke L-Z
+242	VA	Bristol	Bristol, Wise
+243	VA	Roanoke	Pulaski, Wytheville
+244	VA	Charlottesville	Staunton, Covington
+245	VA	Lynchburg	Lynchburg, Danville
+246	VA	Bluefield, WV	Bluefield, Grundy
+247	WV	Bluefield	Bluefield, Princeton; Mercer County
+248	WV	Bluefield	Welch, Pineville; McDowell and Wyoming Counties
+249	WV	Lewisburg	Lewisburg, Marlinton, Union
+250	WV	Charleston	Dunbar, Cedar Grove
+251	WV	Charleston	Nitro, Madison, Areas around Charleston H-S
+252	WV	Charleston	Ripley, Spencer, Areas to north of Charleston, areas around Charleston T-Z
+253	WV	Charleston	CHARLESTON
+254	WV	Martinsburg	Martinsburg, Harper’s Ferry
+255	WV	Huntington	Point Pleasant, Barbourville, Areas around Huntington
+256	WV	Huntington	Logan, Williamson; Logan and Mingo Counties
+257	WV	Huntington	HUNTINGTON
+258	WV	Beckley	Beckley, Fayetteville; Areas around Beckley A-L
+259	WV	Beckley	Oak Hill, Sprague; Areas around Beckley M-Z
+260	WV	Wheeling	Wheeling, Weirton
+261	WV	Parkersburg	Parkersburg, New Martinsville
+262	WV	Clarksburg	Buckhannon, Elkins
+263	WV	Clarksburg	Clarksburg, Grafton, Areas around Clarksburg A-L
+264	WV	Clarksburg	Philippi, Weston, Areas around Clarksburg M-Z
+265	WV	Clarksburg	Morganton, Fairmont
+266	WV	Gassaway	Sutton, Summersville
+267	WV	Cumberland, MD	Keyser, Romney
+268	WV	Petersburg	Petersburg, Franklin
+270	NC	Greensboro	Clemmons, Mount Airy, Towns around Winston-Salem
+271	NC	Greensboro	WINSTON-SALEM
+272	NC	Greensboro	Burlington, Asheboro, Towns around Greensboro A-L
+273	NC	Greensboro	Sanford, Reidsville, Towns around Greensboro M-Z
+274	NC	Greensboro	GREENSBORO
+275	NC	Raleigh	Chapel Hill, Goldsboro
+276	NC	Raleigh	RALEIGH
+277	NC	Raleigh	DURHAM
+278	NC	Rocky Mount	Rocky Mount, Greenville
+279	NC	Rocky Mount	Elizabeth City, Nags Head
+280	NC	Charlotte	Gastonia, Concord, Areas around Charlotte A-L
+281	NC	Charlotte	Monroe, Salisbury, Areas around Charlotte M-Z
+282	NC	Charlotte	CHARLOTTE
+283	NC	Fayetteville	Fayetteville, Rockingham
+284	NC	Fayetteville	Wilmington, Whiteville
+285	NC	Kinston	Kinston, Jacksonville
+286	NC	Hickory	Hickory, Boone
+287	NC	Asheville	Hendersonville, Franklin, Areas around Asheville
+288	NC	Asheville	ASHEVILLE
+289	NC	Asheville	Murphy, Hayesville
+290	SC	Columbia	Camden, Lexington, Areas around Columbia A-L
+291	SC	Columbia	Orangeburg, Sumter, Areas around Columbia M-Z
+292	SC	Columbia	COLUMBIA
+293	SC	Greenville	Spartanburg, Gaffney
+294	SC	Charleston	Charleston, Georgetown
+295	SC	Florence	Florence, Myrtle Beach
+296	SC	Greenville	Greenville, Anderson
+297	SC	Charlotte, NC	Rock Hill, Lancaster
+298	SC	Augusta, GA	Aiken, Bamberg
+299	SC	Savannah, GA	Hilton Head
+300	GA	North Metro	Marietta, Decatur, North Atlanta Suburbs
+301	GA	North Metro	Douglasville, Rome, West Atlanta Suburbs
+302	GA	Atlanta	Newnan, Stockbridge, South Atlanta Suburbs
+303	GA	Atlanta	ATLANTA
+304	GA	Swainsboro	Swainsboro, Statesboro
+305	GA	Athens	Gainesville, Blairsville
+306	GA	Athens	Athens, Elberton
+307	GA	Chattanooga, TN	Calhoun, Dalton
+308	GA	Augusta	Thomson, Waynesboro
+309	GA	Augusta	AUGUSTA
+310	GA	Macon	Dublin, Warner Robbins, areas around Macon
+311	GA	Atlanta	ATLANTA
+312	GA	Macon	MACON
+313	GA	Savannah	Hinesville, Pooler, areas around Savannah
+314	GA	Savannah	SAVANNAH
+315	GA	Waycross	Waycross, Brunswick
+316	GA	Valdosta	Valdosta, Homerville
+317	GA	Albany	Albany, Thomasville
+318	GA	Columbus	Warm Springs, Cusseta, areas around Columbus
+319	GA	Columbus	COLUMBUS
+320	FL	Jacksonville	St. Augustine, Lake City, areas around Jacksonville
+321	FL	Daytona Beach	Daytona Beach, Palm Coast
+322	FL	Jacksonville	JACKSONVILLE
+323	FL	Tallahassee	Tallahassee, Apalachicola
+324	FL	Panama City	Panama City, Marianna
+325	FL	Pensacola	Pensacola, Fort Walton Beach
+326	FL	Gainesville	Gainesville, Chiefland
+327	FL	Mid-Florida	Sanford, Titusville
+328	FL	Orlando	ORLANDO
+329	FL	Orlando	Melbourne, Vero Beach
+330	FL	South Florida	Key West, Hollywood, Areas around Miami and Ft. Lauderdale
+331	FL	Miami	MIAMI
+332	FL	Miami	MIAMI
+333	FL	Ft. Lauderdale	FORT LAUDERDALE
+334	FL	West Palm Beach	West Palm Beach, Boca Raton
+335	FL	Tampa	Zephyrhills, Plant City, areas around Tampa
+336	FL	Tampa	TAMPA
+337	FL	St. Petersburg	St. Petersburg, Clearwater
+338	FL	Lakeland	Lakeland, Sebring
+339	FL	Fort Myers	Fort Myers, Punta Gorda
+340	AA	Miami, FL	Bases in Latin America
+341	FL	Fort Myers	Naples, Everglades City
+342	FL	Manasota	Sarasota, Bradenton
+344	FL	Gainesville	Ocala, Inverness
+346	FL	Tampa	Brooksville, New Port Richey
+347	FL	Orlando	Kissimee, Leesburg
+349	FL	West Palm Beach	Fort Pierce, Stuart
+350	AL	Birmingham	Bessemer, Cullman, areas around Birmingham A-L
+351	AL	Birmingham	Oneonta, Sylacauga, areas around Birmingham M-Z
+352	AL	Birmingham	BIRMINGHAM
+354	AL	Tuscaloosa	Tuscaloosa, Eutaw
+355	AL	Birmingham	Jasper, Hamilton
+356	AL	Huntsville	Decatur, Florence
+357	AL	Huntsville	Scottsboro, Madison, areas around Huntsville
+358	AL	Huntsville	HUNTSVILLE
+359	AL	Birmingham	Gadsden, Fort Payne
+360	AL	Montgomery	Prattville, Eufala, areas around Montgomery
+361	AL	Montgomery	MONTGOMERY
+362	AL	Anniston	Anniston, Roanoke
+363	AL	Dothan	Dothan, Enterprise
+364	AL	Montgomery	Evergreen, Opp
+365	AL	Mobile	Gulf Shores, Jackson, areas around Mobile
+366	AL	Mobile	MOBILE
+367	AL	Montgomery	Selma, Thomasville
+368	AL	Montgomery	Auburn, Phenix City, Opelika
+369	AL	Meridian, MS	York, Butler
+370	TN	Nashville	Clarksville, Lebanon, areas around Nashville A-L
+371	TN	Nashville	Murfreesvoro, White House, areas around Nashville M-Z
+372	TN	Nashville	NASHVILLE
+373	TN	Chattanooga	Dayton, Fayetteville, areas around Chattanooga
+374	TN	Chattanooga	CHATTANOOGA
+375	TN	Memphis	IRS
+376	TN	Johnson City	Johnson City, Bristol
+377	TN	Knoxville	Gatlinburg, La Follette, areas around Knoxville A-L
+378	TN	Knoxville	Oak Ridge, Morristown, areas around Knoxville M-Z
+379	TN	Knoxville	KNOXVILLE
+380	TN	Memphis	Covington, Bolivar, areas around Memphis
+381	TN	Memphis	MEMPHIS
+382	TN	McKenzie	McKenzie, Union City
+383	TN	Jackson	Jackson, Savannah
+384	TN	Columbia	Columbia, Pulaski
+385	TN	Cookeville	Cookeville, Crossville
+386	MS	Memphis, TN	Oxford, Clarksdale
+387	MS	Greenville	Greenville, Indianola
+388	MS	Tupelo	Tupelo, Corinth
+389	MS	Grenada	Grenada, Greenwood
+390	MS	Jackson	Canton, Crystal Springs, areas around Jackson A-L
+391	MS	Jackson	Vicksburg, Natchez, areas around Jackson M-Z
+392	MS	Jackson	JACKSON
+393	MS	Meridian	Meridian, Louisville
+394	MS	Hattiesburg	Hattiesburg, Laurel
+395	MS	Gulfport	Gulfport, Biloxi
+396	MS	McComb	McComb, Brookhaven
+397	MS	Columbus	Columbus, Starkville
+398	GA	Albany	Bainbridge, Cairo
+400	KY	Louisville	Shelbyville, La Grange, areas east of Louisville
+401	KY	Louisville	Fort Knox, Shepherdsville, areas east of Louisville
+402	KY	Louisville	LOUISVILLE
+403	KY	Lexington	Morehead, Nicholasville, areas around Lexington
+404	KY	Lexington	Richmond, Danville, areas south of Lexington
+405	KY	Lexington	LEXINGTON
+406	KY	Lexington	FRANKFORT
+407	KY	London	London, Corbin
+408	KY	London	Harlan, Lynch
+409	KY	London	Middlesboro, Manchester
+410	KY	Cincinnati, OH	Covington, Maysville
+411	KY	Ashland	Ashland, Vanceburg
+412	KY	Ashland	Lousia, Paintsville
+413	KY	Campton	Campton, Jackson
+414	KY	Campton	Saylersville, West Liberty
+415	KY	Pikeville	Pikeville, Jenkins
+416	KY	Pikeville	Prestonsburg, Wayland
+417	KY	Hazard	Hazard, Hyden
+418	KY	Hazard	Whitesburg, Gamer
+420	KY	Paducah	Paducah, Murray
+421	KY	Bowling Green	Bowling Green, Glasgow
+422	KY	Bowling Green	Hopkinsville, Russellville
+423	KY	Owensboro	Owensboro, Central City
+424	KY	Evansville, IN	Henderson, Madisonville
+425	KY	Somerset	Somerset, Liberty
+426	KY	Somerset	Russell Springs, Monticello
+427	KY	Elizabethtown	Elizabethtown, Campbellsville
+430	OH	Columbus	Newark, Dublin, areas north of Columbus
+431	OH	Columbus	Washington Court House, Lancaster, areas south of Columbus
+432	OH	Columbus	COLUMBUS
+433	OH	Columbus	Marion, Upper Sandusky
+434	OH	Toledo	Bowling Green, Port Clinton, areas east of Toledo
+435	OH	Toledo	Bryan, Perrysburg, areas west of Toledo
+436	OH	Toledo	TOLEDO
+437	OH	Zanesville	Zanesville, Cambridge
+438	OH	Zanesville	Coshocton, Blissfiled
+439	OH	Steubenville	Steubenville, St. Clairsville
+440	OH	Cleveland	Elyria, Asthtabula, areas around Cleveland
+441	OH	Cleveland	CLEVELAND
+442	OH	Akron	Kent, Medina, areas around Akron
+443	OH	Akron	AKRON
+444	OH	Youngstown	Warren, Boardman
+445	OH	Youngstown	YOUNGSTOWN
+446	OH	Canton	Alliance, New Philadelphia
+447	OH	Canton	CANTON
+448	OH	Mansfield	Sandusky, Ashland
+449	OH	Mansfield	MANSFIELD
+450	OH	Cincinnati	Oxford, Lebanon, areas around Cincinnati
+451	OH	Cincinnati	Wilmington, Hillsboro, areas east of Cincinnati
+452	OH	Cincinnati	CINCINNATI
+453	OH	Dayton	Xenia, Sidney, areas around Dayton
+454	OH	Dayton	DAYTON
+455	OH	Dayton	SPRINGFIELD
+456	OH	Chillicothe	Chillicothe, Portsmouth
+457	OH	Athens	Athens, Marietta
+458	OH	Lima	Lima, Findlay
+460	IN	Indianapolis	Anderson, Noblesville, areas north of Indianapolis
+461	IN	Indianapolis	Greenwood, Shelbyville, areas south of Indianapolis
+462	IN	Indianapolis	INDIANAPOLIS
+463	IN	Gary	Hammond, La Porte, areas around Gary
+464	IN	Gary	GARY
+465	IN	South Bend	Elkhart, Plymouth, areas around South Bend
+466	IN	South Bend	SOUTH BEND
+467	IN	Fort Wayne	Angola, Huntington, areas around Fort Wayne
+468	IN	Fort Wayne	FORT WAYNE
+469	IN	Kokomo	Kokomo, Marion
+470	IN	Cincinnati, OH	Batesville, Greensburg
+471	IN	Louisville, KY	New Albany, Corydon
+472	IN	Columbus	Columbus, Madison
+473	IN	Muncie	Muncie, Richmond
+474	IN	Bloomington	Bloomington, Paoli
+475	IN	Washington	Washington, Tacoma
+476	IN	Evansville	Mount Vernon, Boonville, areas around Evansville
+477	IN	Evansville	EVANSVILLE
+478	IN	Terre Haute	Terre Haute, Sullivan
+479	IN	Lafayette	Lafayette, Crawfordsville
+480	MI	Royal Oak	Warren, Port Huron, Northeast Detroit Suburbs
+481	MI	Detroit	Ann Arbor, Dearborn, Southwest Detroit suburbs
+482	MI	Detroit	DETROIT
+483	MI	Royal Oak	Pontaic, Auburn Hills, Northwest Detroit Suburbs
+484	MI	Flint	Birch Run, Lapeer, areas around Flint
+485	MI	Flint	FLINT
+486	MI	Saginaw	Saginaw, Midland
+487	MI	Saginaw	Bay City, Tawas City
+488	MI	Lansing	Mount Pleasant, Howell, areas around Lansing
+489	MI	Lansing	LANSING
+490	MI	Kalamazoo	Kalamazoo, Battle Creek
+491	MI	Kalamazoo	New Buffalo, Niles
+492	MI	Jackson	Jackson, Adrian
+493	MI	Grand Rapids	Big Rapids, Reed City
+494	MI	Grand Rapids	Muskegon, Ludington, areas around Grand Rapids
+495	MI	Grand Rapids	GRAND RAPIDS
+496	MI	Traverse City	Traverse City, Cadillac
+497	MI	Gaylord	Gaylord, Sault Ste. Marie, Mackinaw City
+498	MI	Iron Mountain	Iron Mountain, Marquette
+499	MI	Iron Mountain	Houghton, Ironwood
+500	IA	Des Moines	Ames, Atlantic, areas around Des Moines A-F
+501	IA	Des Moines	Grinnell, Marshalltown, areas around Des Moines G-M
+502	IA	Des Moines	Newton, Osceola, areas around Des Moines N-Z
+503	IA	Des Moines	DES MOINES
+504	IA	Mason City	Mason City, Clear Lake
+505	IA	Fort Dodge	Fort Dodge, Algona
+506	IA	Waterloo	Cedar Falls, Charles City, areas around Waterloo
+507	IA	Waterloo	WATERLOO
+508	IA	Creston	Creston, Bedford
+510	IA	Sioux City	Cherokee, Orange City, areas around Sioux City
+511	IA	Sioux City	SIOUX CITY
+512	IA	Sioux City	Sheldon, Sioux Center
+513	IA	Sioux City	Spencer, Estherville
+514	IA	Carroll	Carroll, Denison
+515	IA	Omaha, NE	Council Bluffs, Red Oak
+516	IA	Omaha, NE	Shenandoah, Clarinda
+520	IA	Dubuque	Dubuque, Maquoketa
+521	IA	Decorah	Decorah, Monona
+522	IA	Cedar Rapids	Iowa City, Amanosa, areas around Cedar Rapids A-L
+523	IA	Cedar Rapids	Marengo, Washington, areas around Cedar Rapids
+524	IA	Cedar Rapids	CEDAR RAPIDS
+525	IA	Ottumwa	Ottumwa, Oskaloosa
+526	IA	Burlington	Burlington, Keokuk
+527	IA	Rock Island, IL	Bettendorf, Clinton, areas around Davenport
+528	IA	Rock Island, IL	DAVENPORT
+530	WI	Milwaukee	Sheboygan, Menomonee Falls, areas north of Milwaukee
+531	WI	Milwaukee	Kenosha, Waukesha, areas south of Milwaukee
+532	WI	Milwaukee	MILWAUKEE
+534	WI	Milwaukee	RACINE
+535	WI	Madison	Beloit, Dodgeville
+537	WI	Madison	MADISON
+538	WI	Madison	Praire du Chien, Platteville
+539	WI	Portage	Portage, Baraboo
+540	WI	St. Paul, MN	Hudson, Clayton
+541	WI	Green Bay	Marinette, De Pere, areas west of Green Bay
+542	WI	Green Bay	Sturgeon Bay, Manitowoc, areas east of Green Bay
+543	WI	Green Bay	GREEN BAY
+544	WI	Wausau	Wausau, Wisconsin Rapids
+545	WI	Rhinelander	Rhinelander, Eagle River
+546	WI	La Crosse	La Crosse, Tomah
+547	WI	Eau Clare	Eau Clare, Menomonie
+548	WI	Spooner	Spooner, Superior
+549	WI	Oshkosh	Oshkosh, Fond du Lac
+550	MN	St. Paul	Red Wing, Pine City, areas around St. Paul
+551	MN	St. Paul	ST. PAUL
+553	MN	Minneapolis	Burnsville, Maple Grove, areas around Minneapolis
+554	MN	Minneapolis	MINNEAPOLIS
+555	MN	Minneapolis	Monticello, Young America, areas around Minneapolis
+556	MN	Duluth	Grand Marais, Two Harbors, far northeastern Minnesota
+557	MN	Duluth	Grand Rapids, Cloquet, areas around Duluth
+558	MN	Duluth	DULUTH
+559	MN	Rochester	Rochester, Winowa
+560	MN	Mankato	Mankato, Albert Lea
+561	MN	Windom	Windom, Worthington
+562	MN	Willmar	Willmar, Morris
+563	MN	St. Cloud	St. Cloud, Alexandria
+564	MN	Branierd	Branierd, Wadena
+565	MN	Detroit Lakes	Detroit Lakes, Moorhead
+566	MN	Bemidji	Bemidji, International Falls
+567	MN	Thief River Falls	Thief River Falls, Crookston
+569	DC	Washington	Returned mail (following Anthrax scare)
+570	SD	Sioux Falls	Yankton, Brookings, areas around Sioux Falls
+571	SD	Sioux Falls	SIOUX FALLS
+572	SD	Dakota Central	Watertown, Sisseton
+573	SD	Dakota Central	Mitchell, Huron
+574	SD	Aberdeen	Aberdeen, Gettsyburg
+575	SD	Pierre	Pierre, Winner
+576	SD	Mobridge	Mobridge, Lemmon
+577	SD	Rapid City	Rapid City, Hot Springs
+580	ND	Fargo	Valley City, Wahpeton, areas around Fargo
+581	ND	Fargo	FARGO
+582	ND	Grand Forks	Grand Forks, Pembina
+583	ND	Devils Lake	Devils Lake, Bottineau
+584	ND	Jamestown	Jamestown, Fessenden
+585	ND	Bismarck	Bismarck, Mandan
+586	ND	Dickenson	Dickenson, Bowman
+587	ND	Minot	Minot, Bowbells
+588	ND	Williston	Williston, Watford City
+590	MT	Billings	Laurel, Livingston, areas around Billings
+591	MT	Billings	BILLINGS
+592	MT	Wolf Point	Wolf Point, Sidney
+593	MT	Miles City	Miles City, Glendive
+594	MT	Great Falls	Great Falls, Cut Bank
+595	MT	Havre	Havre, Malta
+596	MT	Helena	Helena, Townsend
+597	MT	Butte	Butte, Bozeman
+598	MT	Missoula	Missoula, Hamilton
+599	MT	Kalispell	Kalispell, Malta
+600	IL	Palatine	Waukegan, Elgin, northern Chicago suburbs
+601	IL	Carol Stream	Carol Stream, DeKalb, northwestern Chicago suburbs
+602	IL	Palatine	EVANSTON
+603	IL	Carol Stream	OAK PARK
+604	IL	Chicago	Joliet, Oak Lawn, southern Chicago suburbs
+605	IL	Fox Valley	Aurora, Naperville, Summit, western Chicago suburbs
+606	IL	Chicago	CHICAGO
+607	IL	Chicago	CHICAGO, Niles
+608	IL	Chicago	Cicero, Riverdale
+609	IL	Kankakee	Kankakee, Watseka
+610	IL	Rockford	Rochelle, Freeport, areas around Rockford
+611	IL	Rockford	ROCKFORD
+612	IL	Rock Island	Rock Island, Moline
+613	IL	La Salle	La Salle, Streator
+614	IL	Galesburg	Galesburg, Macomb
+615	IL	Peoria	Pekin, Canton, areas around Peoria
+616	IL	Peoria	PEORIA
+617	IL	Bloomington	Bloomington, Pontiac
+618	IL	Champaign	Champaign, Danville
+619	IL	Champaign	Mattoon, Paris
+620	IL	St. Louis, MO	Alton, Litchfield, St. Louis Suburbs
+622	IL	St. Louis, MO	East St. Louis, Belleville, St. Louis Suburbs
+623	IL	Quincy	Quincy, Carthage
+624	IL	Effingham	Effingham, Vandalia
+625	IL	Springfield	Decatur, Taylorsville, areas south of Springfield
+626	IL	Springfield	Lincoln, Jacksonville, areas north of Springfield
+627	IL	Springfield	SPRINGFIELD
+628	IL	Centralia	Centralia, Mount Vernon
+629	IL	Carbondale	Carbondale, Cairo
+630	MO	St. Louis	Kirkwood, Washington, areas south of St. Louis
+631	MO	St. Louis	ST. LOUIS
+633	MO	St. Louis	St. Charles, St. Peters, areas north of St. Louis
+634	MO	Quincy, IL	Hannibal, Kahoika
+635	MO	Quincy, IL	Kirksville, Macon
+636	MO	Cape Girardeau	Farmington, Park Hills, Potosi
+637	MO	Cape Girardeau	Cape Girardeau, Perryville
+638	MO	Cape Girardeau	Sikeston, Kennett
+639	MO	Cape Girardeau	Poplar Bluff, Van Buren
+640	MO	Kansas City	Independence, Warrensburg, areas around Kansas City
+641	MO	Kansas City	KANSAS CITY
+644	MO	St. Joseph	Maryville, Cameron, areas around St. Joseph
+645	MO	St. Joseph	ST. JOSEPH
+646	MO	Chillicothe	Chillicothe, Brookfield
+647	MO	Harrisonville	Harrisonville, Nevada
+648	MO	Springfield	Joplin, Neosho
+650	MO	Mid-Missouri	Osage Beach, California, areas around Jefferson City
+651	MO	Mid-Missouri	JEFFERSON CITY
+652	MO	Mid-Missouri	Columbia, Moberly
+653	MO	Mid-Missouri	Sedalia, Marshall
+654	MO	Springfield	Rolla, Houston, areas around Rolla A-I
+655	MO	Springfield	Lebanon, Waynesville, areas around Rolla J-Z
+656	MO	Springfield	Branson, Bolivar, areas around Springfield A-L
+657	MO	Springfield	West Plains, Monett, areas around Springfield M-Z
+658	MO	Springfield	SPRINGFIELD
+660	KS	Kansas City	Lawrence, Olathe
+661	KS	Kansas City	KANSAS CITY
+662	KS	Kansas City	SHAWNEE MISSION
+664	KS	Topeka	Junction City, Hiawatha, areas around Topeka A-L
+665	KS	Topeka	Manhattan, Marysville, areas around Topeka M-Z
+666	KS	Topeka	TOPEKA
+667	KS	Fort Scott	Fort Scott, Iola
+668	KS	Emporia	Emporia, Council Grove
+669	KS	Salina	Concordia, Washington
+670	KS	Wichita	Arkansas City, El Dorado, areas around Wichita A-L
+671	KS	Wichita	Newton, Pratt, areas around Wichita M-Z
+672	KS	Wichita	WICHITA
+673	KS	Independence	Independence, Parsons
+674	KS	Salina	Salina, McPherson
+675	KS	Hutchinson	Hutchinson, Great Bend
+676	KS	Hays	Hays, Norton
+677	KS	Colby	Colby, Goodland
+678	KS	Dodge City	Dodge City, Garden City
+679	KS	Liberal	Liberal, Elkhart
+680	NE	Omaha	Fremont, Plattsmouth, areas around Omaha
+681	NE	Omaha	OMAHA
+683	NE	Lincoln	Beatrice, Falls City, areas around Lincoln A-L
+684	NE	Lincoln	York, Nebraska City, areas around Lincoln M-Z
+685	NE	Lincoln	LINCOLN
+686	NE	Columbus	Columbus, Fullerton
+687	NE	Norfolk	Norfolk, O'Neill
+688	NE	Grand Island	Grand Island, Kearney
+689	NE	Grand Island	Hastings, Holdridge
+690	NE	McCook	McCook, Imperial
+691	NE	North Platte	North Platte, Sidney
+692	NE	Valentine	Valentine, Ainsworth
+693	NE	Alliance	Alliance, Scottsbluff
+700	LA	New Orleans	Metarie, Chalmette, areas around New Orleans
+701	LA	New Orleans	NEW ORLEANS
+703	LA	Houma	Houma, Thibodaux, Morgan City
+704	LA	Mandeville	Hammond, Slidell
+705	LA	Lafayette	Lafayette, Jennings
+706	LA	Lake Charles	Lake Charles, DeRidder
+707	LA	Baton Rouge	Port Allen, Gonzales
+708	LA	Baton Rouge	BATON ROUGE
+710	LA	Shreveport	Bossier City, Minden, areas around Shreveport
+711	LA	Shreveport	SHREVEPORT
+712	LA	Monroe	Monroe, Ruston
+713	LA	Alexandria	Alexandria, Vidalia
+714	LA	Alexandria	Natchitoches, Winnfield
+716	AR	Pine Bluff	Pine Bluff, Monticello
+717	AR	Camden	Camden, El Dorado
+718	AR	Texarkana, TX	Texarkana, Hope
+719	AR	Hot Springs	Hot Springs, Mena
+720	AR	Little Rock	Conway, Benton, areas around Little Rock A-L
+721	AR	Little Rock	Searcy, Stuttgart, areas around Little Rock
+722	AR	Little Rock	LITTLE ROCK
+723	AR	Memphis, TN	West Memphis, Forrest City, Blytheville
+724	AR	Jonesboro	Jonesboro, Pargould
+725	AR	Batesville	Batesville, Heber Springs
+726	AR	Harrison	Harrison, Mountain Home
+727	AR	Fayetteville	Fayetteville, Rogers
+728	AR	Russellville	Russellville, Clarksville
+729	AR	Fort Smith	Fort Smith, Ozark
+730	OK	Oklahoma City	Norman, Edmond, areas around Oklahoma City
+731	OK	Oklahoma City	OKLAHOMA CITY
+733	TX	Austin	IRS
+734	OK	Ardmore	Ardmore, Tishomingo
+735	OK	Lawton	Lawton, Altus
+736	OK	Clinton	Clinton, Elk City
+737	OK	Enid	Enid, Alva
+738	OK	Woodward	Woodward, Buffalo
+739	OK	Liberal, KS	Guymon, Boise City
+740	OK	Tulsa	Bartlesville, Stillwater, areas around Tulsa
+741	OK	Tulsa	TULSA
+743	OK	Tulsa	Vinta, Miami
+744	OK	Muskogee	Muskogee, Henryetta
+745	OK	McAlester	McAlester, Atoka
+746	OK	Ponca City	Ponca City, Blackwell
+747	OK	Durant	Durant, Idabel
+748	OK	Shawnee	Shawnee, Ada
+749	OK	Poteau	Poteau, Sallisaw
+750	TX	North Texas	Plano, Sherman, areas north of Dallas
+751	TX	Dallas	Mesquite, Corsicana, areas south of Dallas
+752	TX	Dallas	DALLAS
+753	TX	Dallas	DALLAS
+754	TX	Greenville	Greenville, Paris
+755	TX	Texarkana	Texarkana, New Boston
+756	TX	Longview	Longview, Marshall
+757	TX	Tyler	Tyler, Athens
+758	TX	Palestine	Palestine, Crockett
+759	TX	Lufkin	Lufkin, Jasper
+760	TX	Fort Worth	Arlington, Cleburne, areas around Fort Worrg
+761	TX	Fort Worth	FORT WORTH
+762	TX	Fort Worth	Denton, Gainesville
+763	TX	Wichita Falls	Wichita Falls, Vernon
+764	TX	Fort Worth	Stephenville, Breckenridge
+765	TX	Waco	Temple, Killeen
+766	TX	Waco	Hillsboro, Mexia, areas around Waco
+767	TX	Waco	WACO
+768	TX	Abeline	Brownwood, Brady
+769	TX	Midland	San Angelo, Sonora
+770	TX	Houston	HOUSTON
+771	TX	Houston	HOUSTON
+772	TX	Houston	HOUSTON
+773	TX	North Houston	Huntsville, Conroe, areas north of Houston
+774	TX	North Houston	Bay City, Katy, areas west of Houston
+775	TX	North Houston	Galveston, Pasadena, areas south of Houston
+776	TX	Beaumont	Orange, Port Arthur, areas around Beaumont
+777	TX	Beaumont	BEAUMONT
+778	TX	Bryan	Bryan, College Station
+779	TX	Victoria	Victoria, Cuero
+780	TX	San Antonio	Laredo, Kerrville, areas west of San Antonio
+781	TX	San Antonio	Beeville, New Braunfels, areas east of San Antonio
+782	TX	San Antonio	SAN ANTONIO
+783	TX	Corpus Christi	Rockport, Alice, areas around Corpus Christi
+784	TX	Corpus Christi	CORPUS CHRISTI
+785	TX	McAllen	McAllen, Brownsville
+786	TX	Austin	San Marcos, Fredericksburg, areas around Austin
+787	TX	Austin	AUSTIN
+788	TX	San Antonio	Uvalde, Del Rio
+789	TX	Austin	Giddings, Columbus
+790	TX	Amarillo	Dalhart, Plainview
+791	TX	Amarillo	AMARILLO
+792	TX	Childress	Childress, Guthrie
+793	TX	Lubbock	Brownfield, Post, areas around Lubbock
+794	TX	Lubbock	LUBBOCK
+795	TX	Abilene	Sweetwater, Haskell, areas around Abilene
+796	TX	Abilene	ABILENE
+797	TX	Midland	Midland, Odessa, Big Spring
+798	TX	El Paso	Van Horn, Alpine, areas around El Paso
+799	TX	El Paso	EL PASO
+800	CO	Denver	Aurora, Arvada, areas north of Denver
+801	CO	Denver	Littleton, Castle Rock, areas around Denver
+802	CO	Denver	DENVER
+803	CO	Denver	BOULDER
+804	CO	Denver	Golden, Steamboat Springs
+805	CO	Longmont	Longmont, Fort Collins
+806	CO	Brighton	Brighton, Greeley
+807	CO	Brighton	Fort Morgan, Sterling
+808	CO	Colorado Springs	Burlington, Woodland Park, areas around Colorado Springs
+809	CO	Colorado Springs	COLORADO SPRINGS
+810	CO	Pueblo	Pueblo, Trinidad, Lamar
+811	CO	Alamosa	Alamosa, Pagosa Springs
+812	CO	Salida	Salida, Gunnison
+813	CO	Durango	Durango, Cortez
+814	CO	Grand Junction	Montrose, Telluride
+815	CO	Grand Junction	Grand Junction, Fruita
+816	CO	Glenwood Springs	Glenwood Springs, Craig, Aspen
+820	WY	Cheyenne	Cheyenne, Laramie
+821	WY	Billings, MT	YELLOWSTONE NATIONAL PARK
+822	WY	Wheatland	Wheatland, Torrington
+823	WY	Rawlins	Rawlins, Saratoga
+824	WY	Worland	Worland, Cody
+825	WY	Riverton	Riverton, Lander
+826	WY	Casper	Casper, Douglas
+827	WY	Gillette	Gillette, Newcastle
+828	WY	Sheridan	Sheridan, Buffalo
+829	WY	Rock Springs	Rock Springs, Evanston
+830	WY	Rock Springs	Jackson,
+831	WY	Rock Springs	Kemmerer, Afton
+832	ID	Pocatello	Pocatello, Challis
+833	ID	Twin Falls	Twin Falls, Sun Valley
+834	ID	Pocatello	Idaho Falls, Rexburg
+835	ID	Lewiston	Lewiston, Riggins
+836	ID	Boise	Nampa, Mountain Home, areas around Boise
+837	ID	Boise	BOISE
+838	ID	Spokane, WA	Coeur d'Alene, Moscow
+840	UT	Salt Lake City	Park City, Vernal, areas around Salt Lake City
+841	UT	Salt Lake City	SALT LAKE CITY
+843	UT	Salt Lake City	Logan, Brigham City, northern Utah
+844	UT	Salt Lake City	OGDEN
+845	UT	Provo	Price, Moab
+846	UT	Provo	Provo, Fillmore
+847	UT	Provo	Richfield, St. George
+850	AZ	Phoenix	PHOENIX
+851	AZ		
+852	AZ	Phoenix	Mesa, Scottsdale, eastern Phoenix suburbs
+853	AZ	Phoenix	Yuma, Glendale
+855	AZ	Globe	Globe, Safford
+856	AZ	Tucson	Sierra Vista, Nogales, areas around Tucson
+857	AZ	Tucson	TUCSON
+859	AZ	Show Low	Show Low, Eagar
+860	AZ	Flagstaff	Flagstaff, Grand Canyon
+863	AZ	Prescott	Prescott, Sedona
+864	AZ	Kingman	Kingman, Lake Havusu City
+865	AZ	Gallup, NM	Chinle, Chambers
+870	NM	Albuquerque	Grants, Los Lunas, areas around Albuquerque
+871	NM	Albuquerque	ALBUQUERQUE
+873	NM	Gallup	Gallup, Zuni
+874	NM	Farmington	Farmington, Shiprock
+875	NM	Albuquerque	Santa Fe, Taos
+877	NM	Las Vegas	Las Vegas, Raton
+878	NM	Socorro	Socorro, Magdelena
+879	NM	Truth or Consequences	Truth or Consequences, Hatch
+880	NM	Las Cruces	Las Cruces, Silver City
+881	NM	Clovis	Clovis, Fort Sumner
+882	NM	Roswell	Roswell, Carlsbad
+883	NM	Carrizozo	Carrizozo, Alamogordo
+884	NM	Tucumcari	Tucumcari, Clayton
+885	NM	El Paso, TX	Fort Bliss
+890	NV	Las Vegas	Laughlin, Tonopah, areas around Las Vegas
+891	NV	Las Vegas	LAS VEGAS
+893	NV	Ely	Ely, Eureka
+894	NV	Reno	Winnemucca, Sparks, areas around Reno
+895	NV	Reno	RENO
+896	NOT USED
+897	NV	Reno	CARSON CITY
+898	NV	Elko	Elko, West Wendover
+900	CA	Los Angeles	LOS ANGELES
+901	CA	Los Angeles	LOS ANGELES
+902	CA	Inglewood	Beverly Hills, Culver City, Towns in Southern and Eastern L.A. County
+903	CA	Inglewood	INGLEWOOD
+904	CA	Inglewood	SANTA MONICA
+905	CA	Inglewood	TORRANCE
+906	CA	Long Beach	Whittier, Buena Park, Norwalk
+907	CA	Long Beach	Artesia, San Pedro, areas around Long Beach
+908	CA	Long Beach	LONG BEACH
+910	CA	Pasadena	Arcadia, La Canada, areas around Pasadena
+911	CA	Pasadena	PASADENA
+912	CA	Pasadena	GLENDALE
+913	CA	Van Nuys	Most of the San Fernando Valley, Thousand Oaks
+914	CA	Van Nuys	VAN NUYS
+915	CA	Van Nuys	BURBANK
+916	CA	Van Nuys	NORTH HOLLYWOOD
+917	CA	Industry	Ontario, Most of the San Gabriel Valley
+918	CA	Industry	ALHAMBRA
+919	CA	San Diego	Chula Vista, El Cajon, Towns south and east of San Diego
+920	CA	San Diego	Escondido, Oceanside, Towns north of San Diego
+921	CA	San Diego	SAN DIEGO
+922	CA	Palm Springs	Palm Springs, El Centro, Coachella Valley, Imperial County
+923	CA	San Bernardino	Barstow, Fontana, Most of San Bernardino County
+924	CA	San Bernardino	SAN BERNARDINO
+925	CA	San Bernardino	Riverside, Temecula, Most of Riverside County
+926	CA	Santa Ana	Huntington Beach, Irvine, Mission Viejo, Southern Orange County
+927	CA	Santa Ana	SANTA ANA
+928	CA	Santa Ana	Anaheim, Fullerton, Northern Orange County
+930	CA	Oxnard	Oxnard, Simi Valley, Ventura
+931	CA	Santa Barbara	SANTA BARBARA
+932	CA	Bakersfield	Visalia, Arvin, Hanford, Towns around Bakersfield
+933	CA	Bakersfield	BAKERSFIELD
+934	CA	Santa Barbara	San Luis Obispo, Santa Maria
+935	CA	Mojave	Mojave, Bishop, Lancaster, High Desert
+936	CA	Fresno	Madera, Reedley, areas around Fresno
+937	CA	Fresno	FRESNO
+938	CA	Fresno	IRS
+939	CA	Salinas	Salinas, Monterey
+940	CA	San Francisco	Redwood City, Daly City, towns south of San Francisco
+941	CA	San Francisco	SAN FRANCISCO
+942	CA	Sacramento	California Government
+943	CA	San Francisco	PALO ALTO
+944	CA	San Francisco	SAN MATEO
+945	CA	Oakland	Napa, Fremont, areas around Oakland and the East Bay
+946	CA	Oakland	OAKLAND
+947	CA	Oakland	BERKELEY
+948	CA	Oakland	RICHMOND
+949	CA	North Bay	San Rafael, Petaluma, North Bay
+950	CA	San Jose	Santa Cruz, Santa Clara, areas around San Jose
+951	CA	San Jose	SAN JOSE
+952	CA	Stockton	Stockton, Angels Camp
+953	CA	Stockton	Modesto, Merced
+954	CA	North Bay	Santa Rosa, Ukiah
+955	CA	Eureka	Eureka, Crescent City
+956	CA	Sacramento	Davis, Auburn, towns around Sacramento
+957	CA	Sacramento	Colfax, Roseville, towns around Sacramento
+958	CA	Sacramento	SACRAMENTO
+959	CA	Marysville	Marysville, Chico
+960	CA	Redding	Redding, Yreka
+961	CA	Reno, NV	Susanville, South Lake Tahoe
+962	AP	San Francisco, CA	Bases in Korea
+963	AP	San Francisco, CA	Bases in Japan
+964	AP	San Francisco, CA	Bases in the Philippines
+965	AP	San Francisco, CA	Bases in the Pacific
+966	AP	San Francisco, CA	Pacific Ocean Ships
+967	HI	Honolulu	American Samoa; Hilo, Kahului, towns around Honolulu
+968	HI	Honolulu	HONOLULU
+969	GU	Barrigada	Guam, N. Mariana Islands, Palau, Micronesia, Marshall Islands
+970	OR	Portland	The Dalles, Beaverton, areas around Portland
+971	OR	Portland	Astoria, Hillsboro, areas west of Portland
+972	OR	Portland	PORTLAND
+973	OR	Salem	Salem, Corvallis
+974	OR	Eugene	Eugene, Coos Bay
+975	OR	Medford	Medford, Grants Pass
+976	OR	Klamath Falls	Klamath Falls, Lakeview
+977	OR	Bend	Bend, Burns
+978	OR	Pendleton	Pendleton, Baker City
+979	OR	Boise, ID	Ontario, Jordan Valley
+980	WA	Seattle	Bellevue, Auburn, areas around Seattle
+981	WA	Seattle	SEATTLE
+982	WA	Everett	Everett, Bellingham
+983	WA	Tacoma	Port Angeles, Puyallup, areas around Tacoma
+984	WA	Tacoma	TACOMA
+985	WA	Olympia	Olympia, Aberdeen
+986	WA	Portland, OR	Vancouver, Longview
+988	WA	Wenatchee	Wenatchee, Moses Lake
+989	WA	Yakima	Yakima, Ellensburg
+990	WA	Spokane	Cheney, Liberty Lake, areas around Spokane
+991	WA	Spokane	Pullman, Colville, areas distant to Spokane
+992	WA	Spokane	SPOKANE
+993	WA	Pasco	Pasco, Walla Walla
+994	WA	Lewiston, ID	Clarkston, Asotin
+995	AK	Anchorage	Anchorage, Bethel, areas in and around Anchorage A-G
+996	AK	Anchorage	Homer, Unalaska, areas around Anchorage H-Z
+997	AK	Fairbanks	Fairbanks, Nome
+998	AK	Juneau	Juneau, Sitka
+999	AK	Ketchikan	Ketchikan, Wrangell
