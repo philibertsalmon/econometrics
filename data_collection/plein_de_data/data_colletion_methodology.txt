@@ -1,0 +1,120 @@
+Methodology :
+_______________________________________________________________________________________________________
+_______________________________________________________________________________________________________
+
+Data on Walmart :
+______
+
+What we wanted :
+- Time period : from January 31, 2015 to January 31, 2017
+- List of all Walmart stores that opened or closed in this time period
+- Closing and opening dates : precision : at least month
+- Precise address (most important : State, County, City)
+- Each store's category
+
+Starting point : 
+- Fandom database (collaborative online platform under CC-BY-SA) on Walmart : list of all
+  Walmart stores in the US (current or former store) :
+   - with store's address (state, city, address)
+   - with store's Walmart unique id
+   - with store's category (Walmart, Walmart Supercenter, Neighborhood Market, Clinic Pharmacy, Convenience with Fuel, Walmart Pickup)
+   - with store's opening date (MM/DD/YYYY)
+   - with store's closing date (MM/DD/YYYY) when former Walmart store
+   - all existing stores (beginning of Walmart - 2022)
+   Not sufficient : non exhaustive dataset (unverified data, potential mistakes on address, store id, dates, not precise enough dates (only month, year), missing stores)
+   => necessity to verify data with other sources
+
+Verification and completion data :
+- Walmart's annual reports : 2015, 2016, 2017 (nb of stores on January 31, per state and category - SC, NM and other small formats, Walmart)
+  How we used it : we verified that our numbers were in accordance with these data
+- Ascertaining dates, id, category, address : Walmart's website, Walmart's statements (especially Jan. 15, 2016 statement about closings in 2016),
+  Google Maps data, Facebook store's pages data, online reviews (foursquare, yelp, Google), pharmacy-near-me, healthcare6, local newspapers articles, ...
+- Finding missing stores : local newspapers articles, other databases (A, B and C - cf readme)...
+
+Choices we made when collecting data / remarks :
+- Some stores changed categories, which category should we choose ? The last one.
+- Walmart Express category (not part of fandom database at first) : we decided to regroup the stores from this category with those of the "Neighborhood Market (formerly Walmart Express)" category.
+- Stores that opened before the beginning of the period of interest or closed after it : if we were sure of the year only, we put January 1, year, if of the year and month only we put Month 1 (having only month-year or year caused issues in data treatment).
+- We did not look into Puerto Rico's data.
+
+Types of stores we decided to focus on :
+- Stores for non-professional consumers : no Sam's Clubs.
+  Reasons : convenience for data verification and data availability (no Sam's Club in fandom database,
+  nor in Walmart's reports), relevance (for Sam's Clubs, special functionning with membership cards and big formats).
+- Question concerning Nielsen database : which stores' sizes?
+- Question : relevance of studying small formats (some NM formerly WE, Clinic Pharmmacy, Convenience with fuel).
+- We noticed that some Neighborhood Markets (formerly Walmart Express) were small format stores (when compared to other NM).
+
+Conclusion on assumptions and bias : Various characteristics encompassed in same category Neighborhood Market ; only last category taken into account
+(had it changed already in 2015 ?) ; possible flaws in dataset although checked with Walmart's reports (see next point).
+
+Robustness of data : See Excel sheet (check : Google researches, newspapers articles, and above all Walmart's annual reports).
+
+________________________________________________________________________________________________________
+________________________________________________________________________________________________________
+
+Plotting the data - getting each store's localisation (GPS coordinates) and county :
+______
+
+Goal : Having a first glimpse on our Walmart data, identifying states and counties where entries and exits happened, having a broad view
+of the information.
+
+Selected means : Interactive maps displaying each store's opening or closing, for both the entire country (thus enabling comparisons between
+ states) and each state (comparisons between counties).
+
+Reasoning : We don't have access to each store's precise GPS coordinates, but we know their address and therefore city. Let's 
+automize our location's data research by associating each store to its city's GPS coordinates rather than its own precise ones.
+Because what matters most to us is the county not the precise location, on the assumption that the city is entirely included in a single
+county and that each store is indeed part of the city its address shows, we get satisfying information on each store's location by
+only using the city's coordinates.
+
+Starter dataset : US Cities free database from Simple Maps company (= uscities.csv)
+ - Data sources : US Geological Survey and US Census Bureau.
+ - Data collection : Simple Maps.
+ - Licence : Creative Commons Attribution 4.0.
+ - Up to date : last update May 2022.
+ - 30,409 entries (no unincorporated populated areas, only bigger cities)
+
+Process : merger of our walmart stores' data and US cities' database on city's name.
+
+Fixing merging issues :
+ - Issue 1 : different spelling between the two databases.
+   Decision we made : uniformization done by hand state by state.
+ - Issue 2 : Walmart stores' whose city was not part of the US cities' database.
+    - First case : store part of unincorporated area
+      Decision we made : either we added unincorporated area as new entry in uscities (new GPS decimal coordinates found on the Internet), either we changed store's address in fandom,
+      replacing actual city by nearest city already part of uscities (after checking no change of county).
+    - Second case : store part of a citywhich not identified as such in cities' database (neighborhood within the city with GPS 
+      coordinates in cities' database not the city).
+      Decision we made : either we changed store's address in fandom and put neighborhood's name instead of city's name, either
+      we added city as new entry in uscities (new GPS decimal coordinates found on the Internet).
+
+Conclusion on assumptions and bias : We considered that the city is entirely included in a single county and that each store is indeed part of the city its address shows.
+
+Plotting the data - getting a county basemap of the US :
+______
+
+Dataset (= shape.shp) : Cartographic Boundary File from the US Census Bureau (year 2018), 3233 entries.
+
+Conclusion on assumptions and bias : simplified geometric representation (not exact precise boundaries).
+________________________________________________________________________________________________________
+________________________________________________________________________________________________________
+
+Incorporating county population density in our data - plotting it :
+______
+
+Final goal : better county matching in diff in diff.
+
+Dataset : 
+
+________________________________________________________________________________________________________
+________________________________________________________________________________________________________
+
+
+To sum up :
+______
+
+Our databases - description :
+
+Still need to expand on A, B and C databases and on Excel sheet, on how we dealt with possibility that two cities in the same state
+bear same name.
