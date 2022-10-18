@@ -17,7 +17,7 @@ ________________________________________________________________________________
 Quelqu'un se pose la même question que nous (réponse : walmart_opening_1962_2006.csv, puis état des lieux (localisation de tous les magasins us) en 2017 - cf source suivante)
 accès depuis : https://opendata.stackexchange.com/questions/13475/historical-walmart-stores-data-set
 
-walmart_opening_1962_2006.csv
+C. walmart_opening_1962_2006.csv
 ouverture des walmart aux us de 1962 à 2006
 accès depuis : https://github.com/kosukeimai/qss/blob/master/DISCOVERY/walmart.csv
 
@@ -26,14 +26,14 @@ Walmart Supercenter and Neighborhood Market locations
 https://malls.fandom.com/wiki/Walmart/Locations
 
 ## fermetures des walmart en 2016 
-walmart_exit2016_données_traitées.csv
+A.  walmart_exit2016_données_traitées.csv
 accès depuis : https://eu.usatoday.com/story/money/business/2016/01/15/list-of-walmart-stores-closing/78852898/
 accès depuis : https://corporate.walmart.com/newsroom/2016/01/15/walmart-continues-sharpened-focus-on-portfolio-management
 
 Etat des lieux (localisation de tous les magasins us) en 2017 (carte, voir si  dataframe) :
 accès depuis : http://audit.osmz.ru/project/walmart/
 
-Etat des lieu (partiel ?) en 2017 (dataframe) :
+B. Etat des lieu (partiel ?) en 2017 (dataframe) :
 accès depuis : https://github.com/theriley106/WaltonAnalytics/blob/master/Walmarts.csv
 
 "This is a complete list of all Walmart store locations, along with their geographic coordinates, Street addresses, City, State, ZIP code etc in the US." (2018/11/06) 
