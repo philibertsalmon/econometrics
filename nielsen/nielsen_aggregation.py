@@ -2,16 +2,25 @@ import pandas as pd
 import numpy as np
 from tools_nielsen import *
 
+######################## CHOOSING THE DATE ########################
+
+year = 2016
+
+###################################################################
+
 ## LOADING THE DATA
+# Be careful to write the good file path, with the correct year
 panelist = pd.read_table("../../Nielsen/panelists_2016.tsv").set_index('Household_Cd')[['Fips_State_Cd', 'Fips_State_Desc', 'Fips_County_Cd', 'Fips_County_Desc', 'Panelist_ZipCd']]
 panelist['household_county_fips'] = np.vectorize(int)(panelist.Fips_State_Cd * 1e3 + panelist.Fips_County_Cd)
 panelist['household_zip3'] = panelist.Panelist_ZipCd // 100
 panelist = panelist[['Fips_State_Desc', 'Fips_County_Desc', 'household_county_fips', 'household_zip3']].rename(columns={'Fips_State_Desc': 'household_state', 'Fips_County_Desc': 'household_county'})
 
+# Be careful to write the good file path, with the correct year
 purchases = pd.read_csv("../../Nielsen/purchases_subset_2016.csv")
 purchases['upc_price'] = purchases.total_price_paid / purchases.quantity
 purchases = purchases[['trip_code_uc', 'upc', 'upc_ver_uc', 'upc_price']]
 
+# Be careful to write the good file path, with the correct year
 trips = pd.read_table("../../Nielsen/trips_2016.tsv", parse_dates=['purchase_date']).set_index('trip_code_uc')[['purchase_date', 'retailer_code', 'store_code_uc', 'store_zip3', 'household_code']]
 initial_trips_len = len(trips)
 
@@ -56,11 +65,12 @@ stat['criteria'] = ((stat.max_obs >= 3 * (stat.nb_obs - (stat.distinct_counties 
 
 
 # We separate Walmart stores and others
-store_loc['is_walmart'] = store_loc.retailer_code == 6089
+store_loc['is_walmart'] = np.isin(store_loc.retailer_code, (6089, 848, 6905))
 
 
 trips_loc = trips[trips.store_code_uc != 0].reset_index().merge(store_loc.reset_index(), on=['retailer_code', 'store_code_uc']).set_index('trip_code_uc')
 
+# We want to drop all stores that do not pass our criteria, ie. all store we're not sure about their localization
 trips_loc = trips_loc.reset_index().merge(stat[['criteria']], left_on='store_code_uc', right_index=True)
 
 trips_loc = trips_loc[trips_loc.criteria][['trip_code_uc', 'purchase_date', 'retailer_code', 'store_code_uc', 'store_zip3', 'household_code', 'store_state', 'guessed_store_county_fips', 'guessed_store_county', 'is_walmart']]
@@ -98,4 +108,4 @@ avg_prices = avg.merge(std, left_index=True, right_index=True)
 
 print(avg_prices.head(50))
 
-avg_prices.to_csv('aggregated_nielsen.csv')
+avg_prices.to_csv(f'aggregated_nielsen_{year}.csv')
