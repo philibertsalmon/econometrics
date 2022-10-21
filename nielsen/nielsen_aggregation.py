@@ -25,8 +25,8 @@ trips = pd.read_table("../../Nielsen/trips_2016.tsv", parse_dates=['purchase_dat
 initial_trips_len = len(trips)
 
 # Some store are unnumerotated - we drop them from the data
-print(f"Trips - Proportion of unnumerotated stores : {round(len(trips[trips.store_code_uc==0]) / initial_trips_len,4)*100}% (data droped, over {len(trips)} trips)")
 trips_non_null = trips[trips.store_code_uc != 0]
+print(f"Trips - Proportion of unnumerotated stores : {round(len(trips[trips.store_code_uc==0]) / initial_trips_len,4)*100}% (data droped, over {len(trips)} trips)")
 
 
 ## GETTING THE STORE STATE
@@ -49,7 +49,7 @@ print(f"Trips - Suppression rate : {round(suppression_rate_state, 4)*100}% (afte
 
 # Then, we delete all the housolds that do not come from the store zip3 zone.
 trips_zip3 = trips_state[trips_state.household_zip3 == trips_state.store_zip3]
-print(f"Trips - Total suppression rate : {round((1 - len(trips_zip3)/initial_trips_len)*100, 2)}% (after deleting households that do not shop in their own zip3 zone.)")
+print(f"Trips - Suppression rate : {round((1 - len(trips_zip3)/initial_trips_len)*100, 2)}% (after deleting households that do not shop in their own zip3 zone.)")
 
 # Then, we select the mode :
 
@@ -65,17 +65,16 @@ stat['criteria'] = ((stat.max_obs >= 3 * (stat.nb_obs - (stat.distinct_counties 
 
 
 # We separate Walmart stores and others
-store_loc['is_walmart'] = np.isin(store_loc.retailer_code, (6089, 848, 6905))
+store_loc['is_walmart'] = np.isin(store_loc.retailer_code, (6920, 848, 6905))
 
 
 trips_loc = trips[trips.store_code_uc != 0].reset_index().merge(store_loc.reset_index(), on=['retailer_code', 'store_code_uc']).set_index('trip_code_uc')
 
 # We want to drop all stores that do not pass our criteria, ie. all store we're not sure about their localization
 trips_loc = trips_loc.reset_index().merge(stat[['criteria']], left_on='store_code_uc', right_index=True)
-
 trips_loc = trips_loc[trips_loc.criteria][['trip_code_uc', 'purchase_date', 'retailer_code', 'store_code_uc', 'store_zip3', 'household_code', 'store_state', 'guessed_store_county_fips', 'guessed_store_county', 'is_walmart']]
 
-print(f"Total trips suppression rate : {round(len(trips_loc)/initial_trips_len, 4) * 100}%")
+print(f"Total trips suppression rate : {round(len(trips_loc)/initial_trips_len, 4) * 100}% (unnumerotated stores + criteria = False (unlocated stores))")
 
 
 ## ADDING UPC GROUP (product category)
@@ -99,10 +98,11 @@ purchases = purchases.merge(upc_descr, on=['upc', 'upc_ver_uc'])
 # Merging
 prices = purchases.merge(trips_loc, on='trip_code_uc')[['trip_code_uc', 'purchase_date', 'is_walmart', 'store_code_uc', 'store_state', 'guessed_store_county', 'guessed_store_county_fips', 'upc', 'upc_ver_uc','product_group_descr', 'upc_price']]
 prices['purchase_month'] = prices.purchase_date.dt.month
+prices['purchase_year'] = year
 
-avg = pd.DataFrame(prices.groupby(['is_walmart', 'store_state', 'guessed_store_county', 'guessed_store_county_fips', 'purchase_month', 'product_group_descr']).mean()[['upc_price']])
+avg = pd.DataFrame(prices.groupby(['is_walmart', 'store_state', 'guessed_store_county', 'guessed_store_county_fips', 'purchase_year', 'purchase_month', 'product_group_descr']).mean()[['upc_price']])
 
-std = pd.DataFrame(prices.groupby(['is_walmart', 'store_state', 'guessed_store_county', 'guessed_store_county_fips', 'purchase_month', 'product_group_descr']).std()[['upc_price']]).rename(columns={'upc_price': 'upc_price_std'})
+std = pd.DataFrame(prices.groupby(['is_walmart', 'store_state', 'guessed_store_county', 'guessed_store_county_fips', 'purchase_year', 'purchase_month', 'product_group_descr']).std()[['upc_price']]).rename(columns={'upc_price': 'upc_price_std'})
 
 avg_prices = avg.merge(std, left_index=True, right_index=True)
 
