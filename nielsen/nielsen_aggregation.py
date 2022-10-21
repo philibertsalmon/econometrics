@@ -104,7 +104,10 @@ avg = pd.DataFrame(prices.groupby(['is_walmart', 'store_state', 'guessed_store_c
 
 std = pd.DataFrame(prices.groupby(['is_walmart', 'store_state', 'guessed_store_county', 'guessed_store_county_fips', 'purchase_year', 'purchase_month', 'product_group_descr']).std()[['upc_price']]).rename(columns={'upc_price': 'upc_price_std'})
 
-avg_prices = avg.merge(std, left_index=True, right_index=True)
+nb_obs = pd.DataFrame(prices.groupby(['is_walmart', 'store_state', 'guessed_store_county', 'guessed_store_county_fips', 'purchase_year', 'purchase_month', 'product_group_descr']).count()[['upc_price']]).rename(columns={'upc_price': 'nb_of_obs'})
+
+
+avg_prices = avg.merge(std, left_index=True, right_index=True).merge(nb_obs, left_index=True, right_index=True)
 
 print(avg_prices.head(50))
 
