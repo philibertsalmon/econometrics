@@ -10,17 +10,20 @@ year = 2016
 
 ## LOADING THE DATA
 # Be careful to write the good file path, with the correct year
+##TODO modify path
 panelist = pd.read_table("../../Nielsen/panelists_2016.tsv").set_index('Household_Cd')[['Fips_State_Cd', 'Fips_State_Desc', 'Fips_County_Cd', 'Fips_County_Desc', 'Panelist_ZipCd']]
 panelist['household_county_fips'] = np.vectorize(int)(panelist.Fips_State_Cd * 1e3 + panelist.Fips_County_Cd)
 panelist['household_zip3'] = panelist.Panelist_ZipCd // 100
 panelist = panelist[['Fips_State_Desc', 'Fips_County_Desc', 'household_county_fips', 'household_zip3']].rename(columns={'Fips_State_Desc': 'household_state', 'Fips_County_Desc': 'household_county'})
 
 # Be careful to write the good file path, with the correct year
+##TODO modify path
 purchases = pd.read_csv("../../Nielsen/purchases_subset_2016.csv")
 purchases['upc_price'] = purchases.total_price_paid / purchases.quantity
 purchases = purchases[['trip_code_uc', 'upc', 'upc_ver_uc', 'upc_price']]
 
 # Be careful to write the good file path, with the correct year
+##TODO modify path
 trips = pd.read_table("../../Nielsen/trips_2016.tsv", parse_dates=['purchase_date']).set_index('trip_code_uc')[['purchase_date', 'retailer_code', 'store_code_uc', 'store_zip3', 'household_code']]
 initial_trips_len = len(trips)
 
@@ -30,6 +33,7 @@ print(f"Trips - Proportion of unnumerotated stores : {round(len(trips[trips.stor
 
 
 ## GETTING THE STORE'S STATE
+##TODO modify path
 zip_to_state = pd.read_table('zip_prefixes.txt', header=0, names=['zip3','state', 'distib_center', 'towns'])[['zip3', 'state']]
 # From the zip3 code, the state can be determined (cf. zip_prefixes.txt)
 
@@ -78,7 +82,7 @@ print(f"Total trips suppression rate : {round(len(trips_loc)/initial_trips_len, 
 
 
 ## ADDING UPC GROUP (= product category)
-
+##TODO modify path
 upc_descr = pd.read_table('../../Nielsen/nielsen_extracts/HMS/Master_Files/Latest/products.tsv', encoding = "ISO-8859-1")[['upc', 'upc_ver_uc', 'product_group_code', 'product_group_descr']]
 
 # Some (rare) upc do not have any group (NaN). We drop them.
