@@ -2,29 +2,43 @@ import pandas as pd
 import numpy as np
 from tools_nielsen import *
 
+import tarfile
+import os
+
+######################## CHANGE DIRECTORY ########################
+
+os.getcwd()
+os.chdir("/Users/phil/Mines/S3/TR/Nielsen")
+
+######################## UNZIP: PRODUCTS ########################
+
+#with tarfile.open('C:\\Users\\Anonymouse\\Dropbox (CERNA)\\PublicPol\\Competition_Inflation\\Documentation\\Master_Files.tgz') as file_master:
+#    file_master.extractall("C:\\Users\\Anonymouse\\Dropbox (CERNA)\\PublicPol\\Competition_Inflation\\Nielsen")
+
 ######################## CHOOSING THE DATE ########################
 
 year = 2016
 
-###################################################################
+########################################################s###########
 
 ## LOADING THE DATA
 # Be careful to write the good file path, with the correct year
-##TODO modify path
-panelist = pd.read_table("../../Nielsen/panelists_2016.tsv").set_index('Household_Cd')[['Fips_State_Cd', 'Fips_State_Desc', 'Fips_County_Cd', 'Fips_County_Desc', 'Panelist_ZipCd']]
+# TODO change year
+panelist = pd.read_table("panelists_2016.tsv").set_index('Household_Cd')[['Fips_State_Cd', 'Fips_State_Desc', 'Fips_County_Cd', 'Fips_County_Desc', 'Panelist_ZipCd']]
 panelist['household_county_fips'] = np.vectorize(int)(panelist.Fips_State_Cd * 1e3 + panelist.Fips_County_Cd)
 panelist['household_zip3'] = panelist.Panelist_ZipCd // 100
 panelist = panelist[['Fips_State_Desc', 'Fips_County_Desc', 'household_county_fips', 'household_zip3']].rename(columns={'Fips_State_Desc': 'household_state', 'Fips_County_Desc': 'household_county'})
 
 # Be careful to write the good file path, with the correct year
-##TODO modify path
-purchases = pd.read_csv("../../Nielsen/purchases_subset_2016.csv")
+# TODO : change year
+purchases = pd.read_csv("purchases_subset_2016.csv")
 purchases['upc_price'] = purchases.total_price_paid / purchases.quantity
 purchases = purchases[['trip_code_uc', 'upc', 'upc_ver_uc', 'upc_price']]
+purchases = purchases[purchases.upc_price != 0] # Cleaning (some rare prices are equal to zero)
 
 # Be careful to write the good file path, with the correct year
-##TODO modify path
-trips = pd.read_table("../../Nielsen/trips_2016.tsv", parse_dates=['purchase_date']).set_index('trip_code_uc')[['purchase_date', 'retailer_code', 'store_code_uc', 'store_zip3', 'household_code']]
+# TODO : change year
+trips = pd.read_table("trips_2016.tsv", parse_dates=['purchase_date']).set_index('trip_code_uc')[['purchase_date', 'retailer_code', 'store_code_uc', 'store_zip3', 'household_code']]
 initial_trips_len = len(trips)
 
 # Some stores are not numbered - we drop them from the data
@@ -33,7 +47,6 @@ print(f"Trips - Proportion of unnumerotated stores : {round(len(trips[trips.stor
 
 
 ## GETTING THE STORE'S STATE
-##TODO modify path
 zip_to_state = pd.read_table('zip_prefixes.txt', header=0, names=['zip3','state', 'distib_center', 'towns'])[['zip3', 'state']]
 # From the zip3 code, the state can be determined (cf. zip_prefixes.txt)
 
@@ -65,7 +78,7 @@ stat['nb_obs'] = stat.household_county.apply(my_sum)
 stat['max_freq'] = stat.max_obs / stat.nb_obs
 stat['distinct_counties'] = stat.household_county.apply(my_len)
 stat['nb_min'] = stat.household_county.apply(my_min)
-stat['criteria'] = ((stat.max_obs >= 3 * (stat.nb_obs - (stat.distinct_counties - 2) * stat.nb_min - stat.max_obs)) & (stat.distinct_counties!=1)) | ((stat.distinct_counties==1) & (stat.nb_obs>=4))
+stat['criterum'] = ((stat.max_obs >= 3 * (stat.nb_obs - (stat.distinct_counties - 2) * stat.nb_min - stat.max_obs)) & (stat.distinct_counties!=1)) | ((stat.distinct_counties==1) & (stat.nb_obs>=4))
 
 
 # We separate Walmart stores from others
@@ -74,16 +87,15 @@ store_loc['is_walmart'] = np.isin(store_loc.retailer_code, (6920, 848, 6905))
 
 trips_loc = trips[trips.store_code_uc != 0].reset_index().merge(store_loc.reset_index(), on=['retailer_code', 'store_code_uc']).set_index('trip_code_uc')
 
-# We want to drop all stores that do not pass our criteria, i.e. all stores whose location we're not sure of
-trips_loc = trips_loc.reset_index().merge(stat[['criteria']], left_on='store_code_uc', right_index=True)
-trips_loc = trips_loc[trips_loc.criteria][['trip_code_uc', 'purchase_date', 'retailer_code', 'store_code_uc', 'store_zip3', 'household_code', 'store_state', 'guessed_store_county_fips', 'guessed_store_county', 'is_walmart']]
+# We want to drop all stores that do not pass our criterum, i.e. all stores whose location we're not sure of
+trips_loc = trips_loc.reset_index().merge(stat[['criterum']], left_on='store_code_uc', right_index=True)
+trips_loc = trips_loc[trips_loc.criterum][['trip_code_uc', 'purchase_date', 'retailer_code', 'store_code_uc', 'store_zip3', 'household_code', 'store_state', 'guessed_store_county_fips', 'guessed_store_county', 'is_walmart']]
 
-print(f"Total trips suppression rate : {round(len(trips_loc)/initial_trips_len, 4) * 100}% (unnumerotated stores + criteria = False (unlocated stores))")
+print(f"Total trips suppression rate : {round(len(trips_loc)/initial_trips_len, 4) * 100}% (unnumerotated stores + criterum = False (unlocated stores))")
 
 
 ## ADDING UPC GROUP (= product category)
-##TODO modify path
-upc_descr = pd.read_table('../../Nielsen/nielsen_extracts/HMS/Master_Files/Latest/products.tsv', encoding = "ISO-8859-1")[['upc', 'upc_ver_uc', 'product_group_code', 'product_group_descr']]
+upc_descr = pd.read_table('nielsen_extracts/HMS/Master_Files/Latest/products.tsv', encoding = "ISO-8859-1")[['upc', 'upc_ver_uc', 'product_group_code', 'product_group_descr']]
 
 # Some (rare) upc do not have any group (NaN). We drop them.
 upc_descr = upc_descr[upc_descr.product_group_code.apply(str)!='nan']
