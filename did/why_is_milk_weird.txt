@@ -1,0 +1,51 @@
+Reliable average price for milk (fresh, whole, fortified) in US City Average 
+(per month, from 1995 to 2022) : https://fred.stlouisfed.org/series/APU0000709112
+Top sum up : between 3 and 4 dollars per Gallon for 2015-2016.
+
+__________________________________________________________________
+
+Milk pricing mechanisms in the US (focus on fluid milk):
+Several mechanisms, on several scales :
+- on the federal scale, Federal Milk Marketing Orders (FMMO) : minimum price that a manufacturer
+pays to the farmer. Fluid milk : class I. New value each month, for fluid milk not the same value
+for all the country (areas). Minimum price for fluid milk based on the two former weeks milk final
+prices, then formulas give minimmum price per area.
+- such mechanisms exist at the state-level or substate-level as well (eg Western New York State 
+Milk Marketing Order)
+- maybe others ?
+
+__________________________________________________________________
+
+
+Questions :
+- Specific question about FMMO : does the minimum price has an impact on retailers' prices ? Or is it, 
+on the contrary, manufacturers'(maybe induced by retailer pressure) or directly retailers' prices that 
+set the minimum price ? 
+I don't know. However, whatever the answer we know there is a strong correlation btw manufacturers or 
+retailer milk prices and minimum prices. Taking this into account, looking at minimum prices variations'
+magnitude for years 2015 and 2016 might tell us whether external causes affect milk prices : if strong 
+variations across markets and/or months, our regression model would have to account for it. And indeed we
+observe such strong variations : the value is entirely different for each month, and different areas have
+different values even for the same month. However for two different areas for each month the value 
+differs only by a constant (that stays the same for the entire year). Therefore time fixed effects and
+area fixed effects alone should be able to account for it. However the areas in question have not
+necessarily the same boundaries as states' ones... There is an issue here.
+- How do we account for other than FMMO Marketing Orders (that focus on substate areas for example) ?
+- Can Walmart's entry or exit decisions affect minimum prices ? (I don't think so, maybe Walmart has an 
+impact, but not one single opening or closing) If this is the case, fixed effects won't be sufficient for
+our model...
+
+__________________________________________________________________
+
+Conclusion : milk might be too complicated a market for us to use it as a proxy of entry/exit induced
+consumer inflation.
+
+__________________________________________________________________
+
+Sources :
+- On FMMO : https://www.fb.org/market-intel/how-milk-is-priced-in-federal-milk-marketing-orders-a-primer
+- Summarize on FMMO : https://www.idfa.org/how-farm-milk-is-priced
+- Not only FMMO : https://www.dairyglobal.net/industry-and-markets/market-trends/united-states-milk-pricing-and-its-future/
+- Substate-scale programs : https://agriculture.ny.gov/dairy/dairy-programs
+- FMMO data analysis : US department of Agriculture reports (see "Milk Prices" folder directly 
+within "econometrics")
