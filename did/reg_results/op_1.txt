@@ -1,0 +1,408 @@
+Size of the control group: 1638.
+Size of the treatment group: 63.
+=========================================================
+BAKED GOODS-FROZEN
+Coef : 0.032581641986432874
+Coef/err : 1.4558853112880152
+CI_up : -0.01104196907825905
+CI_down : 0.07812952019171293
+Size of the control group: 1666.
+Size of the treatment group: 65.
+=========================================================
+BAKING MIXES
+Coef : 0.047842157997282087
+Coef/err : 2.0725134599695507
+CI_up : 0.002538964459402937
+CI_down : 0.09519253315850817
+Size of the control group: 1684.
+Size of the treatment group: 65.
+=========================================================
+BAKING SUPPLIES
+Coef : -0.018829244310178628
+Coef/err : 1.0591750075968747
+CI_up : -0.052743534806702685
+CI_down : 0.01629926761649192
+Size of the control group: 1767.
+Size of the treatment group: 65.
+=========================================================
+BREAD AND BAKED GOODS
+Coef : -0.0021241743121364065
+Coef/err : 0.1371920496296005
+CI_up : -0.03198359439217846
+CI_down : 0.028656289008858415
+Size of the control group: 1596.
+Size of the treatment group: 65.
+=========================================================
+BREAKFAST FOOD
+Coef : 0.01545846059186129
+Coef/err : 0.9624151852629083
+CI_up : -0.015776028441208845
+CI_down : 0.0476841806184336
+Size of the control group: 1695.
+Size of the treatment group: 65.
+=========================================================
+BUTTER AND MARGARINE
+Coef : -0.026920389729078842
+Coef/err : 1.3406581783821057
+CI_up : -0.0649792025050856
+CI_down : 0.012687557818902961
+Size of the control group: 1751.
+Size of the treatment group: 65.
+=========================================================
+CANDY
+Coef : -0.06450428450340884
+Coef/err : 2.9470673719108715
+CI_up : -0.10508403945590972
+CI_down : -0.022084450052265447
+Size of the control group: 1745.
+Size of the treatment group: 65.
+=========================================================
+CARBONATED BEVERAGES
+Coef : 0.01209047667657881
+Coef/err : 0.5494931651416625
+CI_up : -0.030378967540173996
+CI_down : 0.05642008443320856
+Size of the control group: 1708.
+Size of the treatment group: 65.
+=========================================================
+CEREAL
+Coef : 0.006323973859408749
+Coef/err : 0.4864045710853275
+CI_up : -0.01891789665000232
+CI_down : 0.032215282397134004
+Size of the control group: 1747.
+Size of the treatment group: 65.
+=========================================================
+CHEESE
+Coef : 0.02134397232912355
+Coef/err : 1.409804373165405
+CI_up : -0.00820872190523203
+CI_down : 0.051777256820521034
+Size of the control group: 1610.
+Size of the treatment group: 65.
+=========================================================
+COFFEE
+Coef : -0.0227596749361878
+Coef/err : 1.2228191996492526
+CI_up : -0.05816553791679957
+CI_down : 0.013977181105167436
+Size of the control group: 1751.
+Size of the treatment group: 65.
+=========================================================
+CONDIMENTS, GRAVIES, AND SAUCES
+Coef : -0.024621733335225326
+Coef/err : 1.3825343896983726
+CI_up : -0.05849286351254479
+CI_down : 0.010467925534047628
+Size of the control group: 1692.
+Size of the treatment group: 65.
+=========================================================
+COOKIES
+Coef : -0.016385607544594283
+Coef/err : 0.9182148716792912
+CI_up : -0.050470076342224335
+CI_down : 0.01892236246586898
+Size of the control group: 1692.
+Size of the treatment group: 65.
+=========================================================
+COT CHEESE, SOUR CREAM, TOPPINGS
+Coef : 0.044538243882050965
+Coef/err : 2.924158756374312
+CI_up : 0.014470623321932496
+CI_down : 0.07549703051969159
+Size of the control group: 1687.
+Size of the treatment group: 65.
+=========================================================
+CRACKERS
+Coef : 0.006197340838173915
+Coef/err : 0.39205467481675976
+CI_up : -0.024406529908567953
+CI_down : 0.03776123943811105
+Size of the control group: 1657.
+Size of the treatment group: 65.
+=========================================================
+DESSERTS, GELATINS, SYRUP
+Coef : 0.004332329506399946
+Coef/err : 0.18414618194750182
+CI_up : -0.040833807144259104
+CI_down : 0.0516252924726035
+Size of the control group: 1569.
+Size of the treatment group: 65.
+=========================================================
+DETERGENTS
+Coef : -0.0530523433355472
+Coef/err : 2.1133756900838025
+CI_up : -0.09973716461805071
+CI_down : -0.003946592905996638
+Size of the control group: 1632.
+Size of the treatment group: 65.
+=========================================================
+DOUGH PRODUCTS
+Coef : 0.004962855174397429
+Coef/err : 0.25368463231297167
+CI_up : -0.03275125128192369
+CI_down : 0.0441474766638823
+Size of the control group: 1721.
+Size of the treatment group: 65.
+=========================================================
+DRESSINGS/SALADS/PREP FOODS-DELI
+Coef : -0.044904793086509964
+Coef/err : 2.247665543857159
+CI_up : -0.08241412849613694
+CI_down : -0.005862140429347407
+Size of the control group: 1708.
+Size of the treatment group: 65.
+=========================================================
+EGGS
+Coef : 0.221906815377662
+Coef/err : 9.033994159619096
+CI_up : 0.16991435927213194
+CI_down : 0.2762098812047169
+Size of the control group: 1762.
+Size of the treatment group: 65.
+=========================================================
+FRESH PRODUCE
+Coef : 0.007688567986586348
+Coef/err : 0.5210633363991696
+CI_up : -0.020929340506013472
+CI_down : 0.037142968389702435
+Size of the control group: 1627.
+Size of the treatment group: 65.
+=========================================================
+FRUIT - CANNED
+Coef : 0.013970048635532972
+Coef/err : 0.784780518557962
+CI_up : -0.02056240819401245
+CI_down : 0.049720031303029266
+Size of the control group: 1707.
+Size of the treatment group: 65.
+=========================================================
+ICE CREAM, NOVELTIES
+Coef : 0.008019101251432348
+Coef/err : 0.5583676466720704
+CI_up : -0.019850455196100292
+CI_down : 0.0366811002203129
+Size of the control group: 1647.
+Size of the treatment group: 65.
+=========================================================
+JAMS, JELLIES, SPREADS
+Coef : 0.013371052938810246
+Coef/err : 0.6696308199361997
+CI_up : -0.025271510877659886
+CI_down : 0.05354557950693284
+Size of the control group: 1728.
+Size of the treatment group: 64.
+=========================================================
+JUICE, DRINKS - CANNED, BOTTLED
+Coef : 0.021987691123187103
+Coef/err : 1.179485292322842
+CI_up : -0.01429015642170739
+CI_down : 0.05960070056289757
+Size of the control group: 1566.
+Size of the treatment group: 65.
+=========================================================
+MEDICATIONS/REMEDIES/HEALTH AIDS
+Coef : -0.016448092185412655
+Coef/err : 0.464528474707475
+CI_up : -0.08292313200511692
+CI_down : 0.05484544330597174
+Size of the control group: 1753.
+Size of the treatment group: 65.
+=========================================================
+MILK
+Coef : 0.07015999797308403
+Coef/err : 5.69226703712017
+CI_up : 0.04546277898085438
+CI_down : 0.09544064531705754
+Size of the control group: 1623.
+Size of the treatment group: 65.
+=========================================================
+NUTS
+Coef : -0.025957153265894983
+Coef/err : 0.9865547746625372
+CI_up : -0.07554623313056974
+CI_down : 0.02629195885777791
+Size of the control group: 1747.
+Size of the treatment group: 65.
+=========================================================
+PACKAGED MEATS-DELI
+Coef : -0.002278688205248791
+Coef/err : 0.13155090992043905
+CI_up : -0.03562121983177435
+CI_down : 0.03221663155611321
+Size of the control group: 1620.
+Size of the treatment group: 64.
+=========================================================
+PACKAGED MILK AND MODIFIERS
+Coef : 0.05103539578608274
+Coef/err : 2.1904295288906646
+CI_up : 0.005248642454176222
+CI_down : 0.09890762995540547
+Size of the control group: 1699.
+Size of the treatment group: 65.
+=========================================================
+PAPER PRODUCTS
+Coef : -0.06462729091776209
+Coef/err : 2.598372367679969
+CI_up : -0.11059937596764413
+CI_down : -0.016278962196887625
+Size of the control group: 1644.
+Size of the treatment group: 64.
+=========================================================
+PASTA
+Coef : 0.021776440203505887
+Coef/err : 1.308806194181266
+CI_up : -0.01066221548591062
+CI_down : 0.05527870268062163
+Size of the control group: 1525.
+Size of the treatment group: 65.
+=========================================================
+PET FOOD
+Coef : -0.049943205225424725
+Coef/err : 1.199355063854772
+CI_up : -0.12625137597487834
+CI_down : 0.033029281510362773
+Size of the control group: 1642.
+Size of the treatment group: 65.
+=========================================================
+PICKLES, OLIVES, AND RELISH
+Coef : -0.019517922214633443
+Coef/err : 1.0600796528358627
+CI_up : -0.05460827485512987
+CI_down : 0.016874888249095665
+Size of the control group: 1651.
+Size of the treatment group: 65.
+=========================================================
+PIZZA/SNACKS/HORS DOEURVES-FRZN
+Coef : 0.02165730200238203
+Coef/err : 0.9460599484386435
+CI_up : -0.022702994882640493
+CI_down : 0.06803114843214209
+Size of the control group: 1704.
+Size of the treatment group: 65.
+=========================================================
+PREPARED FOOD-DRY MIXES
+Coef : -0.027224513426261643
+Coef/err : 1.4923261805101704
+CI_up : -0.06185879367773883
+CI_down : 0.008688394563187263
+Size of the control group: 1692.
+Size of the treatment group: 65.
+=========================================================
+PREPARED FOOD-READY-TO-SERVE
+Coef : 0.028610240924723307
+Coef/err : 1.179246080269899
+CI_up : -0.01850413928824901
+CI_down : 0.07798623518183723
+Size of the control group: 1690.
+Size of the treatment group: 65.
+=========================================================
+PREPARED FOODS-FROZEN
+Coef : -0.0017776964785355398
+Coef/err : 0.0759412370809309
+CI_up : -0.04658258271057214
+CI_down : 0.04513275001898576
+Size of the control group: 1709.
+Size of the treatment group: 65.
+=========================================================
+SALAD DRESSINGS, MAYO, TOPPINGS
+Coef : -0.017085819509506828
+Coef/err : 1.0866252506217067
+CI_up : -0.047170300176964775
+CI_down : 0.013948543363762722
+Size of the control group: 1628.
+Size of the treatment group: 65.
+=========================================================
+SHORTENING, OIL
+Coef : 0.0014734321753522295
+Coef/err : 0.06280469241357794
+CI_up : -0.04350341434213578
+CI_down : 0.04856520179135404
+Size of the control group: 1768.
+Size of the treatment group: 65.
+=========================================================
+SNACKS
+Coef : -0.018893270553029695
+Coef/err : 1.285684091322968
+CI_up : -0.047011519572696114
+CI_down : 0.01005461696087906
+Size of the control group: 1670.
+Size of the treatment group: 65.
+=========================================================
+SOFT DRINKS-NON-CARBONATED
+Coef : -0.0411178511067779
+Coef/err : 1.425222620189946
+CI_up : -0.09491851053968159
+CI_down : 0.015880875007548312
+Size of the control group: 1712.
+Size of the treatment group: 65.
+=========================================================
+SOUP
+Coef : 0.010644778035697966
+Coef/err : 0.4971693852906301
+CI_up : -0.030675430682425175
+CI_down : 0.05372637783226164
+Size of the control group: 1671.
+Size of the treatment group: 65.
+=========================================================
+SPICES, SEASONING, EXTRACTS
+Coef : -0.05781418926092674
+Coef/err : 2.141779675128276
+CI_up : -0.10778914034542453
+CI_down : -0.0050400167716763145
+Size of the control group: 1667.
+Size of the treatment group: 65.
+=========================================================
+SUGAR, SWEETENERS
+Coef : 0.010471270964966806
+Coef/err : 0.5526516878952353
+CI_up : -0.026179168915374862
+CI_down : 0.04850107622808286
+Size of the control group: 1578.
+Size of the treatment group: 64.
+=========================================================
+TEA
+Coef : -0.023837607952627127
+Coef/err : 1.0316992190544079
+CI_up : -0.06757125706559408
+CI_down : 0.021947277867948145
+Size of the control group: 1725.
+Size of the treatment group: 64.
+=========================================================
+UNPREP MEAT/POULTRY/SEAFOOD-FRZN
+Coef : 0.039761484873096276
+Coef/err : 2.2546142058438186
+CI_up : 0.005107509032084012
+CI_down : 0.07561025632631702
+Size of the control group: 1727.
+Size of the treatment group: 65.
+=========================================================
+VEGETABLES - CANNED
+Coef : 0.011444244620103294
+Coef/err : 0.652431273936184
+CI_up : -0.022548311903716756
+CI_down : 0.0466189505157002
+Size of the control group: 1709.
+Size of the treatment group: 65.
+=========================================================
+VEGETABLES-FROZEN
+Coef : -0.012068742081631667
+Coef/err : 0.7459536644437531
+CI_up : -0.04309053500545035
+CI_down : 0.019958738079499216
+Size of the control group: 1603.
+Size of the treatment group: 65.
+=========================================================
+WRAPPING MATERIALS AND BAGS
+Coef : 0.000812182751753765
+Coef/err : 0.028998323165511212
+CI_up : -0.052627908313918836
+CI_down : 0.057266763433670986
+Size of the control group: 1613.
+Size of the treatment group: 65.
+=========================================================
+YOGURT
+Coef : -0.10466288872897667
+Coef/err : 3.769870431750615
+CI_up : -0.15467603047100253
+CI_down : -0.051690746133938426
